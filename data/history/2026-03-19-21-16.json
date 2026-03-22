@@ -1,0 +1,83 @@
+[
+  {
+    "id": "Bitget:ENJUSDT:KuCoin:ENJUSDT",
+    "spread": 1.978998,
+    "net_spread": 1.898998,
+    "fundingA": -0.002597,
+    "fundingB": -0.00482,
+    "volumeA": 14651172.659381,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:ENJUSDT:KuCoin:ENJUSDT",
+    "spread": 1.878029,
+    "net_spread": 1.798029,
+    "fundingA": -0.003068,
+    "fundingB": -0.00482,
+    "volumeA": 3627439.62616,
+    "volumeB": null
+  },
+  {
+    "id": "Bitget:ENJUSDT:OKX:ENJUSDT",
+    "spread": 1.840243,
+    "net_spread": 1.760243,
+    "fundingA": -0.002597,
+    "fundingB": -0.003991,
+    "volumeA": 14651172.659381,
+    "volumeB": 3941602090.0
+  },
+  {
+    "id": "Gate.io:ENJUSDT:Bitget:ENJUSDT",
+    "spread": 1.833539,
+    "net_spread": 1.753539,
+    "fundingA": -0.003974,
+    "fundingB": -0.002597,
+    "volumeA": 13032102.0,
+    "volumeB": 14651172.659381
+  },
+  {
+    "id": "Bybit:ENJUSDT:KuCoin:ENJUSDT",
+    "spread": 1.793215,
+    "net_spread": 1.713215,
+    "fundingA": -0.016961,
+    "fundingB": -0.00482,
+    "volumeA": 54391909.0531,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:ENJUSDT:OKX:ENJUSDT",
+    "spread": 1.73913,
+    "net_spread": 1.65913,
+    "fundingA": -0.003068,
+    "fundingB": -0.003991,
+    "volumeA": 3627439.62616,
+    "volumeB": 3941602090.0
+  },
+  {
+    "id": "Gate.io:ENJUSDT:MEXC:ENJUSDT",
+    "spread": 1.728751,
+    "net_spread": 1.648751,
+    "fundingA": -0.003974,
+    "fundingB": -0.003068,
+    "volumeA": 13032102.0,
+    "volumeB": 3627439.62616
+  },
+  {
+    "id": "Bybit:ENJUSDT:OKX:ENJUSDT",
+    "spread": 1.654196,
+    "net_spread": 1.574196,
+    "fundingA": -0.016961,
+    "fundingB": -0.003991,
+    "volumeA": 54391909.0531,
+    "volumeB": 3941602090.0
+  },
+  {
+    "id": "Gate.io:ENJUSDT:Bybit:ENJUSDT",
+    "spread": 1.640895,
+    "net_spread": 1.560895,
+    "fundingA": -0.003974,
+    "fundingB": -0.016961,
+    "volumeA": 13032102.0,
+    "volumeB": 54391909.0531
+  }
+]

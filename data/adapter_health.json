@@ -1,0 +1,109 @@
+{
+  "updated_at": "2026-03-22T18:16:58.996074+00:00",
+  "adapters": {
+    "Binance": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 635,
+      "markets_loaded": 544
+    },
+    "Bybit": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 545,
+      "markets_loaded": 545
+    },
+    "OKX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 281,
+      "markets_loaded": 281
+    },
+    "KuCoin": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 553,
+      "markets_loaded": 553
+    },
+    "Gate.io": {
+      "status": "failed",
+      "consecutive_failures": 1,
+      "quarantined_until": null,
+      "last_error": "Gate.io request failed for /futures/usdt/tickers: Request failed for https://fx-api.gateio.ws/api/v4/futures/usdt/tickers: aiohttp=; requests=HTTPSConnectionPool(host='fx-api.gateio.ws', port=443): Read timed out.",
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": "2026-03-22T18:16:15.170501+00:00",
+      "skipped_runs": 14,
+      "pairs_loaded": 651,
+      "markets_loaded": 651
+    },
+    "HTX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 215,
+      "markets_loaded": 200
+    },
+    "MEXC": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 755,
+      "markets_loaded": 755
+    },
+    "Bitget": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_success_at": "2026-03-22T18:16:15.170501+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 539,
+      "markets_loaded": 539
+    }
+  }
+}

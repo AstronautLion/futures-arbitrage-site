@@ -1,0 +1,362 @@
+[
+  {
+    "id": "Gate.io:RTXUSDT:MEXC:RTXUSDT",
+    "spread": 9695.953615,
+    "net_spread": 9695.873615,
+    "fundingA": 0.0,
+    "fundingB": -0.0002,
+    "volumeA": 20175.0,
+    "volumeB": 100958.554
+  },
+  {
+    "id": "Bitget:FUNUSDT:Binance:FUNUSDT",
+    "spread": 2190.370925,
+    "net_spread": 2190.290925,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 53585.656,
+    "volumeB": 1131267.156093
+  },
+  {
+    "id": "Bitget:FUNUSDT:MEXC:FUNUSDT",
+    "spread": 2190.370925,
+    "net_spread": 2190.290925,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 53585.656,
+    "volumeB": 119450.314
+  },
+  {
+    "id": "Gate.io:FUNUSDT:MEXC:FUNUSDT",
+    "spread": 2176.882728,
+    "net_spread": 2176.802728,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 23463.0,
+    "volumeB": 119450.314
+  },
+  {
+    "id": "Binance:EDGEUSDT:Gate.io:EDGEUSDT",
+    "spread": 486.205546,
+    "net_spread": 486.125546,
+    "fundingA": 5e-05,
+    "fundingB": -0.000553,
+    "volumeA": 35349454.4817,
+    "volumeB": 207975.0
+  },
+  {
+    "id": "Binance:FUNUSDT:Gate.io:FUNUSDT",
+    "spread": 95.60803,
+    "net_spread": 95.52803,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1131267.156093,
+    "volumeB": 23463.0
+  },
+  {
+    "id": "Gate.io:HK50USDT:MEXC:HK50USDT",
+    "spread": 87.29522,
+    "net_spread": 87.21522,
+    "fundingA": 0.0,
+    "fundingB": 8.3e-05,
+    "volumeA": 32463.0,
+    "volumeB": 0.0
+  },
+  {
+    "id": "Gate.io:EDGEUSDT:KuCoin:EDGEUSDT",
+    "spread": 82.976397,
+    "net_spread": 82.896397,
+    "fundingA": -0.000553,
+    "fundingB": 5e-05,
+    "volumeA": 207975.0,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:EDGEUSDT:MEXC:EDGEUSDT",
+    "spread": 82.941137,
+    "net_spread": 82.861137,
+    "fundingA": -0.000553,
+    "fundingB": 5e-05,
+    "volumeA": 207975.0,
+    "volumeB": 1763063.951
+  },
+  {
+    "id": "Binance:ALLUSDT:Gate.io:ALLUSDT",
+    "spread": 10.307819,
+    "net_spread": 10.227819,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 497750.4469,
+    "volumeB": 2980.0
+  },
+  {
+    "id": "Gate.io:ALLUSDT:MEXC:ALLUSDT",
+    "spread": 9.344595,
+    "net_spread": 9.264595,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 2980.0,
+    "volumeB": 100079.6997
+  },
+  {
+    "id": "HTX:INJUSDT:MEXC:INJUSDT",
+    "spread": 4.633205,
+    "net_spread": 4.553205,
+    "fundingA": -0.001305,
+    "fundingB": -0.00029,
+    "volumeA": 69779.0,
+    "volumeB": 5420791.759
+  },
+  {
+    "id": "HTX:INJUSDT:KuCoin:INJUSDT",
+    "spread": 4.569125,
+    "net_spread": 4.489125,
+    "fundingA": -0.001305,
+    "fundingB": -5e-06,
+    "volumeA": 69779.0,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:INJUSDT:Binance:INJUSDT",
+    "spread": 4.537053,
+    "net_spread": 4.457053,
+    "fundingA": -0.001305,
+    "fundingB": -0.000405,
+    "volumeA": 69779.0,
+    "volumeB": 16061110.4206
+  },
+  {
+    "id": "HTX:INJUSDT:Bybit:INJUSDT",
+    "spread": 4.537053,
+    "net_spread": 4.457053,
+    "fundingA": -0.001305,
+    "fundingB": -0.000154,
+    "volumeA": 69779.0,
+    "volumeB": 7878149.2044
+  },
+  {
+    "id": "HTX:INJUSDT:Gate.io:INJUSDT",
+    "spread": 4.504959,
+    "net_spread": 4.424959,
+    "fundingA": -0.001305,
+    "fundingB": -2.3e-05,
+    "volumeA": 69779.0,
+    "volumeB": 497720.0
+  },
+  {
+    "id": "HTX:INJUSDT:OKX:INJUSDT",
+    "spread": 4.472843,
+    "net_spread": 4.392843,
+    "fundingA": -0.001305,
+    "fundingB": -6.8e-05,
+    "volumeA": 69779.0,
+    "volumeB": 749818.7
+  },
+  {
+    "id": "HTX:INJUSDT:Bitget:INJUSDT",
+    "spread": 4.440706,
+    "net_spread": 4.360706,
+    "fundingA": -0.001305,
+    "fundingB": -0.000236,
+    "volumeA": 69779.0,
+    "volumeB": 1219302.583
+  },
+  {
+    "id": "HTX:SIRENUSDT:KuCoin:SIRENUSDT",
+    "spread": 4.420407,
+    "net_spread": 4.340407,
+    "fundingA": -0.02,
+    "fundingB": -0.02,
+    "volumeA": 19364600.0,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:SIRENUSDT:Gate.io:SIRENUSDT",
+    "spread": 4.134285,
+    "net_spread": 4.054285,
+    "fundingA": -0.02,
+    "fundingB": -0.02,
+    "volumeA": 19364600.0,
+    "volumeB": 169677573.0
+  },
+  {
+    "id": "HTX:DENTUSDT:Gate.io:DENTUSDT",
+    "spread": 3.95354,
+    "net_spread": 3.87354,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 14740000.0,
+    "volumeB": 274479.0
+  },
+  {
+    "id": "HTX:DENTUSDT:KuCoin:DENTUSDT",
+    "spread": 3.846154,
+    "net_spread": 3.766154,
+    "fundingA": 0.0001,
+    "fundingB": -0.000885,
+    "volumeA": 14740000.0,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:DENTUSDT:Binance:DENTUSDT",
+    "spread": 3.803132,
+    "net_spread": 3.723132,
+    "fundingA": 0.0001,
+    "fundingB": -0.000146,
+    "volumeA": 14740000.0,
+    "volumeB": 6097696.70871
+  },
+  {
+    "id": "HTX:DENTUSDT:MEXC:DENTUSDT",
+    "spread": 3.803132,
+    "net_spread": 3.723132,
+    "fundingA": 0.0001,
+    "fundingB": -0.000146,
+    "volumeA": 14740000.0,
+    "volumeB": 154303.275715
+  },
+  {
+    "id": "HTX:DENTUSDT:Bitget:DENTUSDT",
+    "spread": 3.760072,
+    "net_spread": 3.680072,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 14740000.0,
+    "volumeB": 459793.4272667
+  },
+  {
+    "id": "HTX:SIRENUSDT:Bybit:SIRENUSDT",
+    "spread": 3.592733,
+    "net_spread": 3.512733,
+    "fundingA": -0.02,
+    "fundingB": -0.032961,
+    "volumeA": 19364600.0,
+    "volumeB": 170549956.8978
+  },
+  {
+    "id": "MEXC:SIRENUSDT:KuCoin:SIRENUSDT",
+    "spread": 2.955915,
+    "net_spread": 2.875915,
+    "fundingA": -0.02,
+    "fundingB": -0.02,
+    "volumeA": 107816669.0012,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:BARDUSDT:Gate.io:BARDUSDT",
+    "spread": 2.868977,
+    "net_spread": 2.788977,
+    "fundingA": -0.002188,
+    "fundingB": -0.003239,
+    "volumeA": 203450.0,
+    "volumeB": 5999118.0
+  },
+  {
+    "id": "HTX:BARDUSDT:OKX:BARDUSDT",
+    "spread": 2.849348,
+    "net_spread": 2.769348,
+    "fundingA": -0.002188,
+    "fundingB": -0.00324,
+    "volumeA": 203450.0,
+    "volumeB": 85200044.0
+  },
+  {
+    "id": "HTX:BARDUSDT:Bybit:BARDUSDT",
+    "spread": 2.790416,
+    "net_spread": 2.710416,
+    "fundingA": -0.002188,
+    "fundingB": -0.003064,
+    "volumeA": 203450.0,
+    "volumeB": 36988315.2277
+  },
+  {
+    "id": "Bybit:CAMPUSDT:KuCoin:CAMPUSDT",
+    "spread": 2.751678,
+    "net_spread": 2.671678,
+    "fundingA": -0.006178,
+    "fundingB": -0.008021,
+    "volumeA": 984859.5318,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:SIRENUSDT:MEXC:SIRENUSDT",
+    "spread": 2.738399,
+    "net_spread": 2.658399,
+    "fundingA": -0.02,
+    "fundingB": -0.02,
+    "volumeA": 169677573.0,
+    "volumeB": 107816669.0012
+  },
+  {
+    "id": "HTX:BARDUSDT:KuCoin:BARDUSDT",
+    "spread": 2.661497,
+    "net_spread": 2.581497,
+    "fundingA": -0.002188,
+    "fundingB": -0.002668,
+    "volumeA": 203450.0,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:CAMPUSDT:KuCoin:CAMPUSDT",
+    "spread": 2.61745,
+    "net_spread": 2.53745,
+    "fundingA": -0.006245,
+    "fundingB": -0.008021,
+    "volumeA": 170645.0,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:GAIBUSDT:MEXC:GAIBUSDT",
+    "spread": 2.500913,
+    "net_spread": 2.420913,
+    "fundingA": 1.2e-05,
+    "fundingB": 7e-05,
+    "volumeA": 19448.0,
+    "volumeB": 100660.77905
+  },
+  {
+    "id": "HTX:SIRENUSDT:Binance:SIRENUSDT",
+    "spread": 2.427998,
+    "net_spread": 2.347998,
+    "fundingA": -0.02,
+    "fundingB": -0.02,
+    "volumeA": 19364600.0,
+    "volumeB": 1307949434.89598
+  },
+  {
+    "id": "Bitget:SIRENUSDT:KuCoin:SIRENUSDT",
+    "spread": 2.273119,
+    "net_spread": 2.193119,
+    "fundingA": -0.015,
+    "fundingB": -0.02,
+    "volumeA": 215056979.1372,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:CAMPUSDT:KuCoin:CAMPUSDT",
+    "spread": 2.214765,
+    "net_spread": 2.134765,
+    "fundingA": -0.006196,
+    "fundingB": -0.008021,
+    "volumeA": 120579.07891,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:SIRENUSDT:Bitget:SIRENUSDT",
+    "spread": 2.197234,
+    "net_spread": 2.117234,
+    "fundingA": -0.02,
+    "fundingB": -0.015,
+    "volumeA": 19364600.0,
+    "volumeB": 215056979.1372
+  },
+  {
+    "id": "Bybit:SIRENUSDT:MEXC:SIRENUSDT",
+    "spread": 2.161283,
+    "net_spread": 2.081283,
+    "fundingA": -0.032961,
+    "fundingB": -0.02,
+    "volumeA": 170549956.8978,
+    "volumeB": 107816669.0012
+  }
+]

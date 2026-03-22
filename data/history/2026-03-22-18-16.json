@@ -1,0 +1,173 @@
+[
+  {
+    "id": "Bitget:FUNUSDT:Binance:FUNUSDT",
+    "spread": 2232.318234,
+    "net_spread": 2232.238234,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 53966.05132,
+    "volumeB": 1215149.548164
+  },
+  {
+    "id": "MEXC:FUNUSDT:Bitget:FUNUSDT",
+    "spread": 95.71242,
+    "net_spread": 95.63242,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 111554.814,
+    "volumeB": 53966.05132
+  },
+  {
+    "id": "HTX:DENTUSDT:KuCoin:DENTUSDT",
+    "spread": 3.685281,
+    "net_spread": 3.605281,
+    "fundingA": 0.0001,
+    "fundingB": -0.0011,
+    "volumeA": 19260000.0,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:DENTUSDT:MEXC:DENTUSDT",
+    "spread": 3.61991,
+    "net_spread": 3.53991,
+    "fundingA": 0.0001,
+    "fundingB": -0.000205,
+    "volumeA": 19260000.0,
+    "volumeB": 149394.852472
+  },
+  {
+    "id": "HTX:DENTUSDT:Binance:DENTUSDT",
+    "spread": 3.401361,
+    "net_spread": 3.321361,
+    "fundingA": 0.0001,
+    "fundingB": -0.000222,
+    "volumeA": 19260000.0,
+    "volumeB": 6190810.083989
+  },
+  {
+    "id": "HTX:DENTUSDT:Bitget:DENTUSDT",
+    "spread": 3.159809,
+    "net_spread": 3.079809,
+    "fundingA": 0.0001,
+    "fundingB": -0.001479,
+    "volumeA": 19260000.0,
+    "volumeB": 467148.7532334
+  },
+  {
+    "id": "HTX:BARDUSDT:OKX:BARDUSDT",
+    "spread": 2.838762,
+    "net_spread": 2.758762,
+    "fundingA": -0.001211,
+    "fundingB": -0.002469,
+    "volumeA": 223560.0,
+    "volumeB": 89567261.0
+  },
+  {
+    "id": "HTX:BARDUSDT:Bybit:BARDUSDT",
+    "spread": 2.818915,
+    "net_spread": 2.738915,
+    "fundingA": -0.001211,
+    "fundingB": -0.002636,
+    "volumeA": 223560.0,
+    "volumeB": 38162736.2756
+  },
+  {
+    "id": "MEXC:CAMPUSDT:KuCoin:CAMPUSDT",
+    "spread": 2.758621,
+    "net_spread": 2.678621,
+    "fundingA": -0.005894,
+    "fundingB": -0.007356,
+    "volumeA": 120997.84642,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:BARDUSDT:KuCoin:BARDUSDT",
+    "spread": 2.617008,
+    "net_spread": 2.537008,
+    "fundingA": -0.001211,
+    "fundingB": -0.002057,
+    "volumeA": 223560.0,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:SIRENUSDT:Bitget:SIRENUSDT",
+    "spread": 2.472032,
+    "net_spread": 2.392032,
+    "fundingA": -0.000493,
+    "fundingB": -0.000454,
+    "volumeA": 151983395.1337,
+    "volumeB": 342761508.5371
+  },
+  {
+    "id": "HTX:SIRENUSDT:MEXC:SIRENUSDT",
+    "spread": 2.33826,
+    "net_spread": 2.25826,
+    "fundingA": -0.008725,
+    "fundingB": -0.000493,
+    "volumeA": 23259620.0,
+    "volumeB": 151983395.1337
+  },
+  {
+    "id": "HTX:INJUSDT:MEXC:INJUSDT",
+    "spread": 2.247761,
+    "net_spread": 2.167761,
+    "fundingA": -0.00675,
+    "fundingB": -7.8e-05,
+    "volumeA": 72672.8,
+    "volumeB": 5394317.15
+  },
+  {
+    "id": "HTX:INJUSDT:Bybit:INJUSDT",
+    "spread": 2.247761,
+    "net_spread": 2.167761,
+    "fundingA": -0.00675,
+    "fundingB": 0.0001,
+    "volumeA": 72672.8,
+    "volumeB": 7528974.984
+  },
+  {
+    "id": "HTX:INJUSDT:KuCoin:INJUSDT",
+    "spread": 2.247761,
+    "net_spread": 2.167761,
+    "fundingA": -0.00675,
+    "fundingB": 6e-05,
+    "volumeA": 72672.8,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:INJUSDT:Binance:INJUSDT",
+    "spread": 2.214708,
+    "net_spread": 2.134708,
+    "fundingA": -0.00675,
+    "fundingB": -0.000187,
+    "volumeA": 72672.8,
+    "volumeB": 15941601.5494
+  },
+  {
+    "id": "MEXC:SIRENUSDT:KuCoin:SIRENUSDT",
+    "spread": 2.150681,
+    "net_spread": 2.070681,
+    "fundingA": -0.000493,
+    "fundingB": 0.000215,
+    "volumeA": 151983395.1337,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:INJUSDT:Bitget:INJUSDT",
+    "spread": 2.148537,
+    "net_spread": 2.068537,
+    "fundingA": -0.00675,
+    "fundingB": 2.3e-05,
+    "volumeA": 72672.8,
+    "volumeB": 1131761.825
+  },
+  {
+    "id": "HTX:INJUSDT:OKX:INJUSDT",
+    "spread": 2.148537,
+    "net_spread": 2.068537,
+    "fundingA": -0.00675,
+    "fundingB": -1.7e-05,
+    "volumeA": 72672.8,
+    "volumeB": 735680.9
+  }
+]
