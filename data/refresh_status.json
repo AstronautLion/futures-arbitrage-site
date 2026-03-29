@@ -1,0 +1,15 @@
+{
+  "status": "running",
+  "scope": "manual",
+  "source": "github-actions",
+  "message": "Manual refresh started from GitHub Actions.",
+  "started_at": "2026-03-14T18:30:00Z",
+  "finished_at": null,
+  "workflow": "update-data",
+  "run_id": "23094149033",
+  "run_number": "6",
+  "run_attempt": "1",
+  "run_url": "https://github.com/AstronautLion/futures-arbitrage-scanner/actions/runs/23094149033",
+  "commit_sha": "f0b036d31cec254d53784ba7d81ec3553cc1b8be",
+  "repo": "AstronautLion/futures-arbitrage-scanner"
+}

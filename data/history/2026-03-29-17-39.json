@@ -1,0 +1,137 @@
+[
+  {
+    "id": "Bitget:FUNUSDT:MEXC:FUNUSDT",
+    "spread": 2597.336562,
+    "net_spread": 2597.256562,
+    "fundingA": 9.5e-05,
+    "fundingB": 1.8e-05,
+    "volumeA": 72853.4239,
+    "volumeB": 153254.184
+  },
+  {
+    "id": "Bitget:FUNUSDT:Binance:FUNUSDT",
+    "spread": 2597.336562,
+    "net_spread": 2597.256562,
+    "fundingA": 9.5e-05,
+    "fundingB": 1.3e-05,
+    "volumeA": 72853.4239,
+    "volumeB": 1211839.056554
+  },
+  {
+    "id": "MEXC:HK50USDT:Gate.io:HK50USDT",
+    "spread": 685.679586,
+    "net_spread": 685.599586,
+    "fundingA": 9.2e-05,
+    "fundingB": 0.0,
+    "volumeA": 0.0,
+    "volumeB": 41671.0
+  },
+  {
+    "id": "Binance:EDGEUSDT:Gate.io:EDGEUSDT",
+    "spread": 390.940428,
+    "net_spread": 390.860428,
+    "fundingA": 5e-05,
+    "fundingB": 1.2e-05,
+    "volumeA": 4764829.2568,
+    "volumeB": 104570.0
+  },
+  {
+    "id": "MEXC:EDGEUSDT:Gate.io:EDGEUSDT",
+    "spread": 390.807849,
+    "net_spread": 390.727849,
+    "fundingA": 5e-05,
+    "fundingB": 1.2e-05,
+    "volumeA": 507940.722,
+    "volumeB": 104570.0
+  },
+  {
+    "id": "KuCoin:EDGEUSDT:Gate.io:EDGEUSDT",
+    "spread": 390.763656,
+    "net_spread": 390.683656,
+    "fundingA": 5e-05,
+    "fundingB": 1.2e-05,
+    "volumeA": null,
+    "volumeB": 104570.0
+  },
+  {
+    "id": "MEXC:FUNUSDT:Gate.io:FUNUSDT",
+    "spread": 96.284858,
+    "net_spread": 96.204858,
+    "fundingA": 1.8e-05,
+    "fundingB": 5e-05,
+    "volumeA": 153254.184,
+    "volumeB": 51964.0
+  },
+  {
+    "id": "Binance:FUNUSDT:Gate.io:FUNUSDT",
+    "spread": 96.284858,
+    "net_spread": 96.204858,
+    "fundingA": 1.3e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1211839.056554,
+    "volumeB": 51964.0
+  },
+  {
+    "id": "MEXC:ALLUSDT:Gate.io:ALLUSDT",
+    "spread": 9.717712,
+    "net_spread": 9.637712,
+    "fundingA": -0.000107,
+    "fundingB": 5e-05,
+    "volumeA": 117650.6639,
+    "volumeB": 8217.0
+  },
+  {
+    "id": "Binance:ALLUSDT:Gate.io:ALLUSDT",
+    "spread": 9.717712,
+    "net_spread": 9.637712,
+    "fundingA": -0.000107,
+    "fundingB": 5e-05,
+    "volumeA": 303238.9587,
+    "volumeB": 8217.0
+  },
+  {
+    "id": "MEXC:GAIBUSDT:Gate.io:GAIBUSDT",
+    "spread": 4.526675,
+    "net_spread": 4.446675,
+    "fundingA": -7.4e-05,
+    "fundingB": 1.2e-05,
+    "volumeA": 109972.78256,
+    "volumeB": 57704.0
+  },
+  {
+    "id": "KuCoin:GAIBUSDT:Gate.io:GAIBUSDT",
+    "spread": 3.412969,
+    "net_spread": 3.332969,
+    "fundingA": 0.003766,
+    "fundingB": 1.2e-05,
+    "volumeA": null,
+    "volumeB": 57704.0
+  },
+  {
+    "id": "KuCoin:BPUSDT:Gate.io:BPUSDT",
+    "spread": 2.516309,
+    "net_spread": 2.436309,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": null,
+    "volumeB": 330301.0
+  },
+  {
+    "id": "Binance:CUSDT:Gate.io:CUSDT",
+    "spread": 2.230442,
+    "net_spread": 2.150442,
+    "fundingA": -0.002002,
+    "fundingB": -0.000682,
+    "volumeA": 58292764.33812,
+    "volumeB": 4402144.0
+  },
+  {
+    "id": "Bitget:CUSDT:Gate.io:CUSDT",
+    "spread": 2.224921,
+    "net_spread": 2.144921,
+    "fundingA": -0.00165,
+    "fundingB": -0.000682,
+    "volumeA": 6932140.69308,
+    "volumeB": 4402144.0
+  }
+]

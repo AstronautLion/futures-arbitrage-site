@@ -1,0 +1,109 @@
+{
+  "updated_at": "2026-03-29T18:53:36.173852+00:00",
+  "adapters": {
+    "Binance": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 637,
+      "markets_loaded": 540
+    },
+    "Bybit": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 545,
+      "markets_loaded": 545
+    },
+    "OKX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 282,
+      "markets_loaded": 282
+    },
+    "KuCoin": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 558,
+      "markets_loaded": 558
+    },
+    "Gate.io": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": "2026-03-29T18:09:11.604747+00:00",
+      "skipped_runs": 14,
+      "pairs_loaded": 650,
+      "markets_loaded": 650
+    },
+    "HTX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 214,
+      "markets_loaded": 192
+    },
+    "MEXC": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 752,
+      "markets_loaded": 752
+    },
+    "Bitget": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_success_at": "2026-03-29T18:53:07.232237+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 539,
+      "markets_loaded": 539
+    }
+  }
+}
