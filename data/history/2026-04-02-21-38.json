@@ -1,0 +1,1864 @@
+[
+  {
+    "id": "MEXC:FUNUSDT:Bitget:FUNUSDT",
+    "spread": 95.989321,
+    "net_spread": 95.909321,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 154671.226,
+    "volumeB": 123264.58632,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 3,
+      "success_probability": 0.1777,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 750.0,
+      "adaptive_weights": {
+        "edge": 0.2926,
+        "liquidity": 0.212,
+        "funding": 0.2225,
+        "mean_reversion": 0.2077,
+        "execution_risk": 0.0652
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость ожидается в относительно коротком окне, поэтому давление funding остаётся ограниченным.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера.",
+        "Предторговый чеклист содержит блокирующее условие, поэтому идея пока лучше подходит для наблюдения, а не для входа."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.51,
+        "predicted_change": -6.7753,
+        "confidence_interval": [
+          -6.8422,
+          -6.7084
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.51,
+          "predicted_change": -6.7753,
+          "confidence_interval": [
+            -6.8422,
+            -6.7084
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.52,
+          "predicted_change": -13.5506,
+          "confidence_interval": [
+            -13.6175,
+            -13.4837
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.54,
+          "predicted_change": -20.3259,
+          "confidence_interval": [
+            -20.3928,
+            -20.259
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 21.1,
+        "confidence": 0.1777,
+        "expected_spread_pct": 95.9093
+      },
+      "exit": {
+        "eta_minutes": 70.8,
+        "eta_ci_low": 49.5,
+        "eta_ci_high": 95.6,
+        "target_spread_pct": 43.1592,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 1.18,
+        "expected_funding_cost_bps": 0.0,
+        "expected_net_return_bps": 9410.93
+      },
+      "indicators": {
+        "spread_zscore": -1.3025,
+        "spread_percentile": 5.0,
+        "spread_velocity": -0.0222,
+        "worst_leg_depth_usd": 123264.59,
+        "bid_ask_width_pct": 1.1273,
+        "volume_impulse": 1.5471,
+        "whale_activity_score": 70.82,
+        "cvd_delta": -0.0347,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.0,
+        "funding_spread_corr": 0.5254,
+        "implied_holding_cost_bps": 0.0,
+        "rsi_spread": 22.22,
+        "macd_spread": -0.0673,
+        "bollinger_distance": -0.6512,
+        "atr_spread": 0.0604,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": null,
+        "signal_comparable_count": 0,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 37.97,
+        "overlap_penalty": 0.0,
+        "negative_risk_flags": 1,
+        "market_regime": "noisy-range",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "MEXC:DENTUSDT:HTX:DENTUSDT",
+    "spread": 2.949853,
+    "net_spread": 2.869853,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 118791.614454,
+    "volumeB": 66940000.0,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 750.0,
+      "adaptive_weights": {
+        "edge": 0.2985,
+        "liquidity": 0.1863,
+        "funding": 0.2331,
+        "mean_reversion": 0.2145,
+        "execution_risk": 0.0676
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.5,
+        "predicted_change": -0.1401,
+        "confidence_interval": [
+          -0.5936,
+          0.3134
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.1401,
+          "confidence_interval": [
+            -0.5936,
+            0.3134
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.2801,
+          "confidence_interval": [
+            -0.7336,
+            0.1734
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.4202,
+          "confidence_interval": [
+            -0.8737,
+            0.0333
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 45.0,
+        "confidence": 0.05,
+        "expected_spread_pct": 2.8699
+      },
+      "exit": {
+        "eta_minutes": 102.5,
+        "eta_ci_low": 71.7,
+        "eta_ci_high": 138.3,
+        "target_spread_pct": 1.2914,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 1.71,
+        "expected_funding_cost_bps": 0.0,
+        "expected_net_return_bps": 106.99
+      },
+      "indicators": {
+        "spread_zscore": 1.1995,
+        "spread_percentile": 85.0,
+        "spread_velocity": 0.0,
+        "worst_leg_depth_usd": 118791.61,
+        "bid_ask_width_pct": 4.1298,
+        "volume_impulse": 0.9236,
+        "whale_activity_score": 36.4,
+        "cvd_delta": 0.0888,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.0,
+        "funding_spread_corr": -0.3889,
+        "implied_holding_cost_bps": 0.0,
+        "rsi_spread": 52.89,
+        "macd_spread": 0.1355,
+        "bollinger_distance": 0.6897,
+        "atr_spread": 0.6895,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 3,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 0.97,
+        "overlap_penalty": 8.0,
+        "negative_risk_flags": 1,
+        "market_regime": "widening-trend",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "Bitget:DENTUSDT:HTX:DENTUSDT",
+    "spread": 2.890855,
+    "net_spread": 2.810855,
+    "fundingA": 5e-06,
+    "fundingB": 0.0001,
+    "volumeA": 510838.8636633,
+    "volumeB": 66940000.0,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 1153.35,
+      "adaptive_weights": {
+        "edge": 0.2662,
+        "liquidity": 0.2239,
+        "funding": 0.2074,
+        "mean_reversion": 0.2179,
+        "execution_risk": 0.0847
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "STABLE",
+        "probability": 0.5,
+        "predicted_change": -0.0141,
+        "confidence_interval": [
+          -0.4917,
+          0.4635
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "STABLE",
+          "probability": 0.5,
+          "predicted_change": -0.0141,
+          "confidence_interval": [
+            -0.4917,
+            0.4635
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0282,
+          "confidence_interval": [
+            -0.5058,
+            0.4494
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0423,
+          "confidence_interval": [
+            -0.5199,
+            0.4353
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 45.0,
+        "confidence": 0.05,
+        "expected_spread_pct": 6.2622
+      },
+      "exit": {
+        "eta_minutes": 562.2,
+        "eta_ci_low": 393.5,
+        "eta_ci_high": 758.9,
+        "target_spread_pct": 1.2649,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 9.37,
+        "expected_funding_cost_bps": 1.11,
+        "expected_net_return_bps": 99.98
+      },
+      "indicators": {
+        "spread_zscore": 1.3716,
+        "spread_percentile": 94.44,
+        "spread_velocity": 0.3835,
+        "worst_leg_depth_usd": 510838.86,
+        "bid_ask_width_pct": 4.1298,
+        "volume_impulse": 1.1073,
+        "whale_activity_score": 51.57,
+        "cvd_delta": 0.0544,
+        "open_interest_change": 0.0,
+        "funding_divergence": 9.5e-05,
+        "funding_spread_corr": -0.5913,
+        "implied_holding_cost_bps": 1.11,
+        "rsi_spread": 38.31,
+        "macd_spread": 0.1003,
+        "bollinger_distance": 0.6858,
+        "atr_spread": 0.537,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.25,
+        "signal_comparable_count": 4,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 0.97,
+        "overlap_penalty": 8.0,
+        "negative_risk_flags": 1,
+        "market_regime": "widening-trend",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "Bybit:SYSUSDT:Bitget:SYSUSDT",
+    "spread": 2.744141,
+    "net_spread": 2.664141,
+    "fundingA": 0.001666,
+    "fundingB": 5e-05,
+    "volumeA": 49042.7716,
+    "volumeB": 1892637.86485,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 750.0,
+      "adaptive_weights": {
+        "edge": 0.31,
+        "liquidity": 0.209,
+        "funding": 0.2292,
+        "mean_reversion": 0.1879,
+        "execution_risk": 0.0639
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.5,
+        "predicted_change": -0.0841,
+        "confidence_interval": [
+          -0.8274,
+          0.6592
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0841,
+          "confidence_interval": [
+            -0.8274,
+            0.6592
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.1682,
+          "confidence_interval": [
+            -0.9115,
+            0.5751
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.2523,
+          "confidence_interval": [
+            -0.9956,
+            0.491
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 42.9,
+        "confidence": 0.05,
+        "expected_spread_pct": 2.6641
+      },
+      "exit": {
+        "eta_minutes": 158.4,
+        "eta_ci_low": 110.9,
+        "eta_ci_high": 213.8,
+        "target_spread_pct": 1.1989,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 2.64,
+        "expected_funding_cost_bps": 5.33,
+        "expected_net_return_bps": 81.08
+      },
+      "indicators": {
+        "spread_zscore": 1.2618,
+        "spread_percentile": 68.75,
+        "spread_velocity": -0.0516,
+        "worst_leg_depth_usd": 49042.77,
+        "bid_ask_width_pct": 3.2316,
+        "volume_impulse": 1.7835,
+        "whale_activity_score": 80.62,
+        "cvd_delta": 0.2133,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.001616,
+        "funding_spread_corr": 0.9985,
+        "implied_holding_cost_bps": 5.33,
+        "rsi_spread": 90.06,
+        "macd_spread": 0.4668,
+        "bollinger_distance": 0.6309,
+        "atr_spread": 0.4433,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 2,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 0.97,
+        "overlap_penalty": 8.0,
+        "negative_risk_flags": 2,
+        "market_regime": "volatile-expansion",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "Bybit:STOUSDT:Bitget:STOUSDT",
+    "spread": 2.623697,
+    "net_spread": 2.543697,
+    "fundingA": -0.008564,
+    "fundingB": -0.004526,
+    "volumeA": 809464484.0098,
+    "volumeB": 365894967.92395,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 13,
+      "success_probability": 0.4432,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 27.3,
+      "dynamic_liquidity_threshold_usd": 250000.0,
+      "adaptive_weights": {
+        "edge": 0.2082,
+        "liquidity": 0.3007,
+        "funding": 0.1407,
+        "mean_reversion": 0.1368,
+        "execution_risk": 0.2136
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Исполнение остаётся возможным, но запас по чистой доходности уже заметно зависит от аккуратного входа.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Подтверждения частичные: структура идеи уже есть, но для сильного входа нужен ещё один чистый триггер."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.51,
+        "predicted_change": -0.0697,
+        "confidence_interval": [
+          -0.7801,
+          0.6407
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.51,
+          "predicted_change": -0.0697,
+          "confidence_interval": [
+            -0.7801,
+            0.6407
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.52,
+          "predicted_change": -0.1394,
+          "confidence_interval": [
+            -0.8498,
+            0.571
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.52,
+          "predicted_change": -0.2091,
+          "confidence_interval": [
+            -0.9195,
+            0.5013
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 42.7,
+        "confidence": 0.4432,
+        "expected_spread_pct": 3.068
+      },
+      "exit": {
+        "eta_minutes": 182.5,
+        "eta_ci_low": 127.7,
+        "eta_ci_high": 246.3,
+        "target_spread_pct": 1.1447,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 3.04,
+        "expected_funding_cost_bps": 15.34,
+        "expected_net_return_bps": 211.73
+      },
+      "indicators": {
+        "spread_zscore": 1.1877,
+        "spread_percentile": 92.86,
+        "spread_velocity": 0.0615,
+        "worst_leg_depth_usd": 365894967.92,
+        "bid_ask_width_pct": 0.1294,
+        "volume_impulse": 2.2239,
+        "whale_activity_score": 100.0,
+        "cvd_delta": 0.0429,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.004038,
+        "funding_spread_corr": 0.9716,
+        "implied_holding_cost_bps": 15.34,
+        "rsi_spread": 86.79,
+        "macd_spread": 0.4199,
+        "bollinger_distance": 0.5938,
+        "atr_spread": 0.4744,
+        "execution_reality_score": 91.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 2,
+        "confirmation_positive_count": 1,
+        "checklist_status": "block",
+        "risk_reward": 1.92,
+        "overlap_penalty": 20.0,
+        "negative_risk_flags": 3,
+        "market_regime": "volatile-expansion",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "MEXC:SYSUSDT:Bybit:SYSUSDT",
+    "spread": 2.575801,
+    "net_spread": 2.495801,
+    "fundingA": 5e-05,
+    "fundingB": 0.001666,
+    "volumeA": 131797.7696,
+    "volumeB": 49042.7716,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 750.0,
+      "adaptive_weights": {
+        "edge": 0.3126,
+        "liquidity": 0.2,
+        "funding": 0.2316,
+        "mean_reversion": 0.1912,
+        "execution_risk": 0.0645
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.5,
+        "predicted_change": -0.0587,
+        "confidence_interval": [
+          -0.7724,
+          0.655
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0587,
+          "confidence_interval": [
+            -0.7724,
+            0.655
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.1173,
+          "confidence_interval": [
+            -0.831,
+            0.5964
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.176,
+          "confidence_interval": [
+            -0.8897,
+            0.5377
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 41.2,
+        "confidence": 0.05,
+        "expected_spread_pct": 2.4958
+      },
+      "exit": {
+        "eta_minutes": 212.8,
+        "eta_ci_low": 148.9,
+        "eta_ci_high": 287.2,
+        "target_spread_pct": 1.1231,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 3.55,
+        "expected_funding_cost_bps": 7.17,
+        "expected_net_return_bps": 62.41
+      },
+      "indicators": {
+        "spread_zscore": 0.9989,
+        "spread_percentile": 62.5,
+        "spread_velocity": -0.0012,
+        "worst_leg_depth_usd": 49042.77,
+        "bid_ask_width_pct": 3.2316,
+        "volume_impulse": 1.5922,
+        "whale_activity_score": 70.09,
+        "cvd_delta": 0.4262,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.001616,
+        "funding_spread_corr": 0.9992,
+        "implied_holding_cost_bps": 7.17,
+        "rsi_spread": 97.73,
+        "macd_spread": 0.323,
+        "bollinger_distance": 0.4995,
+        "atr_spread": 0.849,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": null,
+        "signal_comparable_count": 0,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 0.97,
+        "overlap_penalty": 8.0,
+        "negative_risk_flags": 1,
+        "market_regime": "widening-trend",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "Bybit:SYNUSDT:Bitget:SYNUSDT",
+    "spread": 2.251356,
+    "net_spread": 2.171356,
+    "fundingA": -0.025,
+    "fundingB": -0.014692,
+    "volumeA": 897964.2692,
+    "volumeB": 487268.13229,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 750.0,
+      "adaptive_weights": {
+        "edge": 0.2687,
+        "liquidity": 0.3126,
+        "funding": 0.1791,
+        "mean_reversion": 0.1183,
+        "execution_risk": 0.1213
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость ожидается в относительно коротком окне, поэтому давление funding остаётся ограниченным.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.5,
+        "predicted_change": -0.4469,
+        "confidence_interval": [
+          -1.2311,
+          0.3373
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.4469,
+          "confidence_interval": [
+            -1.2311,
+            0.3373
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.51,
+          "predicted_change": -0.8937,
+          "confidence_interval": [
+            -1.6779,
+            -0.1095
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.54,
+          "predicted_change": -1.3406,
+          "confidence_interval": [
+            -2.1248,
+            -0.5564
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 44.3,
+        "confidence": 0.05,
+        "expected_spread_pct": 2.1714
+      },
+      "exit": {
+        "eta_minutes": 24.3,
+        "eta_ci_low": 17.0,
+        "eta_ci_high": 32.8,
+        "target_spread_pct": 0.9771,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 0.4,
+        "expected_funding_cost_bps": 5.15,
+        "expected_net_return_bps": 31.99
+      },
+      "indicators": {
+        "spread_zscore": 0.8619,
+        "spread_percentile": 75.0,
+        "spread_velocity": -1.2155,
+        "worst_leg_depth_usd": 487268.13,
+        "bid_ask_width_pct": 0.434,
+        "volume_impulse": 2.8314,
+        "whale_activity_score": 100.0,
+        "cvd_delta": -0.2872,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.010308,
+        "funding_spread_corr": 0.9719,
+        "implied_holding_cost_bps": 5.15,
+        "rsi_spread": 71.79,
+        "macd_spread": 0.5176,
+        "bollinger_distance": 0.431,
+        "atr_spread": 0.5126,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 2,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 1.48,
+        "overlap_penalty": 8.0,
+        "negative_risk_flags": 3,
+        "market_regime": "volatile-expansion",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "Bybit:STOUSDT:HTX:STOUSDT",
+    "spread": 1.998047,
+    "net_spread": 1.918047,
+    "fundingA": -0.008564,
+    "fundingB": -0.003745,
+    "volumeA": 809464484.0098,
+    "volumeB": 15070960.0,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 52,
+      "success_probability": 0.6973,
+      "risk_score": 0.8407,
+      "dynamic_cost_bps": 25.49,
+      "dynamic_liquidity_threshold_usd": 37619.54,
+      "adaptive_weights": {
+        "edge": 0.2074,
+        "liquidity": 0.255,
+        "funding": 0.1371,
+        "mean_reversion": 0.1829,
+        "execution_risk": 0.2176
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Исполнение остаётся возможным, но запас по чистой доходности уже заметно зависит от аккуратного входа.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Подтверждения частичные: структура идеи уже есть, но для сильного входа нужен ещё один чистый триггер.",
+        "Чеклист без жёсткого блока, но одно из условий всё ещё требует ручного подтверждения перед входом."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.6,
+        "predicted_change": -0.0504,
+        "confidence_interval": [
+          -0.1278,
+          0.027
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.6,
+          "predicted_change": -0.0504,
+          "confidence_interval": [
+            -0.1278,
+            0.027
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.61,
+          "predicted_change": -0.1008,
+          "confidence_interval": [
+            -0.1782,
+            -0.0234
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.61,
+          "predicted_change": -0.1512,
+          "confidence_interval": [
+            -0.2286,
+            -0.0738
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 22.7,
+        "confidence": 0.6973,
+        "expected_spread_pct": 3.0918
+      },
+      "exit": {
+        "eta_minutes": 190.3,
+        "eta_ci_low": 133.2,
+        "eta_ci_high": 256.9,
+        "target_spread_pct": 0.8631,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 3.17,
+        "expected_funding_cost_bps": 19.1,
+        "expected_net_return_bps": 147.21
+      },
+      "indicators": {
+        "spread_zscore": 1.0,
+        "spread_percentile": 75.0,
+        "spread_velocity": 0.2581,
+        "worst_leg_depth_usd": 15070960.0,
+        "bid_ask_width_pct": 0.1191,
+        "volume_impulse": 1.0015,
+        "whale_activity_score": 57.51,
+        "cvd_delta": 0.1288,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.004819,
+        "funding_spread_corr": 0.0,
+        "implied_holding_cost_bps": 19.1,
+        "rsi_spread": 100.0,
+        "macd_spread": 0.0206,
+        "bollinger_distance": 0.5,
+        "atr_spread": 0.2581,
+        "execution_reality_score": 88.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": null,
+        "signal_comparable_count": 0,
+        "confirmation_positive_count": 1,
+        "checklist_status": "attention",
+        "risk_reward": 8.41,
+        "overlap_penalty": 20.0,
+        "negative_risk_flags": 2,
+        "market_regime": "forming",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "MEXC:STOUSDT:Bybit:STOUSDT",
+    "spread": 1.919216,
+    "net_spread": 1.839216,
+    "fundingA": -0.008707,
+    "fundingB": -0.008564,
+    "volumeA": 195748957.2445,
+    "volumeB": 809464484.0098,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 53,
+      "success_probability": 0.6713,
+      "risk_score": 0.7834,
+      "dynamic_cost_bps": 16.29,
+      "dynamic_liquidity_threshold_usd": 250000.0,
+      "adaptive_weights": {
+        "edge": 0.1973,
+        "liquidity": 0.2609,
+        "funding": 0.1557,
+        "mean_reversion": 0.1658,
+        "execution_risk": 0.2203
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Ожидаемая стоимость исполнения остаётся умеренной относительно текущего спреда.",
+        "После учёта ожидаемой стоимости удержания идея сохраняет положительный чистый запас в bps.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Подтверждения частичные: структура идеи уже есть, но для сильного входа нужен ещё один чистый триггер.",
+        "Чеклист без жёсткого блока, но одно из условий всё ещё требует ручного подтверждения перед входом."
+      ],
+      "prediction": {
+        "direction": "STABLE",
+        "probability": 0.59,
+        "predicted_change": 0.0118,
+        "confidence_interval": [
+          -0.4327,
+          0.4563
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "STABLE",
+          "probability": 0.59,
+          "predicted_change": 0.0118,
+          "confidence_interval": [
+            -0.4327,
+            0.4563
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "UP",
+          "probability": 0.59,
+          "predicted_change": 0.0236,
+          "confidence_interval": [
+            -0.4209,
+            0.4681
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "UP",
+          "probability": 0.59,
+          "predicted_change": 0.0354,
+          "confidence_interval": [
+            -0.4091,
+            0.4799
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 21.6,
+        "confidence": 0.6713,
+        "expected_spread_pct": 3.7293
+      },
+      "exit": {
+        "eta_minutes": 367.8,
+        "eta_ci_low": 257.5,
+        "eta_ci_high": 496.6,
+        "target_spread_pct": 0.8276,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 6.13,
+        "expected_funding_cost_bps": 1.1,
+        "expected_net_return_bps": 166.53
+      },
+      "indicators": {
+        "spread_zscore": 0.982,
+        "spread_percentile": 83.33,
+        "spread_velocity": 0.4383,
+        "worst_leg_depth_usd": 195748957.24,
+        "bid_ask_width_pct": 0.0667,
+        "volume_impulse": 1.4869,
+        "whale_activity_score": 93.11,
+        "cvd_delta": 0.229,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.000143,
+        "funding_spread_corr": 0.2598,
+        "implied_holding_cost_bps": 1.1,
+        "rsi_spread": 100.0,
+        "macd_spread": 0.2196,
+        "bollinger_distance": 0.491,
+        "atr_spread": 0.8722,
+        "execution_reality_score": 95.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": null,
+        "signal_comparable_count": 0,
+        "confirmation_positive_count": 1,
+        "checklist_status": "attention",
+        "risk_reward": 2.21,
+        "overlap_penalty": 20.0,
+        "negative_risk_flags": 2,
+        "market_regime": "forming",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "MEXC:SYNUSDT:Bybit:SYNUSDT",
+    "spread": 1.795031,
+    "net_spread": 1.715031,
+    "fundingA": -0.010793,
+    "fundingB": -0.025,
+    "volumeA": 217368.70968,
+    "volumeB": 897964.2692,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 750.0,
+      "adaptive_weights": {
+        "edge": 0.2764,
+        "liquidity": 0.2227,
+        "funding": 0.1961,
+        "mean_reversion": 0.1346,
+        "execution_risk": 0.1703
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "Чистый запас после издержек узкий: подтверждайте вход только по лучшим условиям исполнения.",
+        "Сходимость ожидается в относительно коротком окне, поэтому давление funding остаётся ограниченным.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера.",
+        "Предторговый чеклист содержит блокирующее условие, поэтому идея пока лучше подходит для наблюдения, а не для входа."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.55,
+        "predicted_change": -0.4475,
+        "confidence_interval": [
+          -1.1335,
+          0.2385
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.55,
+          "predicted_change": -0.4475,
+          "confidence_interval": [
+            -1.1335,
+            0.2385
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.6,
+          "predicted_change": -0.8949,
+          "confidence_interval": [
+            -1.5809,
+            -0.2089
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.64,
+          "predicted_change": -1.3424,
+          "confidence_interval": [
+            -2.0284,
+            -0.6564
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 30.6,
+        "confidence": 0.05,
+        "expected_spread_pct": 1.715
+      },
+      "exit": {
+        "eta_minutes": 19.2,
+        "eta_ci_low": 13.4,
+        "eta_ci_high": 25.9,
+        "target_spread_pct": 0.7718,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 0.32,
+        "expected_funding_cost_bps": 5.68,
+        "expected_net_return_bps": -14.18
+      },
+      "indicators": {
+        "spread_zscore": 0.1297,
+        "spread_percentile": 50.0,
+        "spread_velocity": -1.172,
+        "worst_leg_depth_usd": 217368.71,
+        "bid_ask_width_pct": 0.2653,
+        "volume_impulse": 1.4187,
+        "whale_activity_score": 65.73,
+        "cvd_delta": -0.3828,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.014207,
+        "funding_spread_corr": 0.9315,
+        "implied_holding_cost_bps": 5.68,
+        "rsi_spread": 70.41,
+        "macd_spread": 0.3008,
+        "bollinger_distance": 0.0649,
+        "atr_spread": 1.9804,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": null,
+        "signal_comparable_count": 0,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 1.34,
+        "overlap_penalty": 8.0,
+        "negative_risk_flags": 2,
+        "market_regime": "forming",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "Bybit:MERLUSDT:HTX:MERLUSDT",
+    "spread": 1.790223,
+    "net_spread": 1.710223,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 744095.3644,
+    "volumeB": 310892.0,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 1804.72,
+      "adaptive_weights": {
+        "edge": 0.2845,
+        "liquidity": 0.1892,
+        "funding": 0.226,
+        "mean_reversion": 0.2172,
+        "execution_risk": 0.0831
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "Чистый запас после издержек узкий: подтверждайте вход только по лучшим условиям исполнения.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.5,
+        "predicted_change": -0.0396,
+        "confidence_interval": [
+          -0.289,
+          0.2098
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0396,
+          "confidence_interval": [
+            -0.289,
+            0.2098
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0792,
+          "confidence_interval": [
+            -0.3286,
+            0.1702
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.1188,
+          "confidence_interval": [
+            -0.3682,
+            0.1306
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 45.0,
+        "confidence": 0.05,
+        "expected_spread_pct": 2.1089
+      },
+      "exit": {
+        "eta_minutes": 215.9,
+        "eta_ci_low": 151.2,
+        "eta_ci_high": 291.5,
+        "target_spread_pct": 0.7696,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 3.6,
+        "expected_funding_cost_bps": 0.23,
+        "expected_net_return_bps": -9.21
+      },
+      "indicators": {
+        "spread_zscore": 1.0858,
+        "spread_percentile": 94.44,
+        "spread_velocity": 0.0443,
+        "worst_leg_depth_usd": 310892.0,
+        "bid_ask_width_pct": 0.7804,
+        "volume_impulse": 0.4307,
+        "whale_activity_score": 12.63,
+        "cvd_delta": 0.0785,
+        "open_interest_change": 0.0,
+        "funding_divergence": 5e-05,
+        "funding_spread_corr": 0.0,
+        "implied_holding_cost_bps": 0.23,
+        "rsi_spread": 54.13,
+        "macd_spread": 0.226,
+        "bollinger_distance": 0.5429,
+        "atr_spread": 0.2461,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 4,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 0.98,
+        "overlap_penalty": 20.0,
+        "negative_risk_flags": 2,
+        "market_regime": "widening-trend",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "HTX:MERLUSDT:OKX:MERLUSDT",
+    "spread": 1.758737,
+    "net_spread": 1.678737,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 310892.0,
+    "volumeB": 94565445.0,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.0521,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 3362.82,
+      "adaptive_weights": {
+        "edge": 0.2634,
+        "liquidity": 0.1654,
+        "funding": 0.2097,
+        "mean_reversion": 0.2845,
+        "execution_risk": 0.077
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "Чистый запас после издержек узкий: подтверждайте вход только по лучшим условиям исполнения.",
+        "Сходимость ожидается в относительно коротком окне, поэтому давление funding остаётся ограниченным.",
+        "Текущий режим спреда исторически лучше подходит для ручного исполнения идеи на возврат к норме.",
+        "Подтверждения частичные: структура идеи уже есть, но для сильного входа нужен ещё один чистый триггер."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.57,
+        "predicted_change": -0.159,
+        "confidence_interval": [
+          -0.3985,
+          0.0805
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.57,
+          "predicted_change": -0.159,
+          "confidence_interval": [
+            -0.3985,
+            0.0805
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.59,
+          "predicted_change": -0.318,
+          "confidence_interval": [
+            -0.5575,
+            -0.0785
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.61,
+          "predicted_change": -0.4769,
+          "confidence_interval": [
+            -0.7164,
+            -0.2374
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 39.5,
+        "confidence": 0.0521,
+        "expected_spread_pct": 2.017
+      },
+      "exit": {
+        "eta_minutes": 52.8,
+        "eta_ci_low": 37.0,
+        "eta_ci_high": 71.3,
+        "target_spread_pct": 0.7554,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 0.88,
+        "expected_funding_cost_bps": 0.0,
+        "expected_net_return_bps": -12.13
+      },
+      "indicators": {
+        "spread_zscore": 1.3778,
+        "spread_percentile": 96.15,
+        "spread_velocity": 0.0428,
+        "worst_leg_depth_usd": 310892.0,
+        "bid_ask_width_pct": 0.7804,
+        "volume_impulse": 0.2311,
+        "whale_activity_score": 1.65,
+        "cvd_delta": -0.0594,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.0,
+        "funding_spread_corr": 0.0,
+        "implied_holding_cost_bps": 0.0,
+        "rsi_spread": 59.45,
+        "macd_spread": 0.2032,
+        "bollinger_distance": 0.6889,
+        "atr_spread": 0.2716,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 5,
+        "confirmation_positive_count": 1,
+        "checklist_status": "block",
+        "risk_reward": 0.97,
+        "overlap_penalty": 20.0,
+        "negative_risk_flags": 2,
+        "market_regime": "stable-carry",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "Bitget:MERLUSDT:HTX:MERLUSDT",
+    "spread": 1.652513,
+    "net_spread": 1.572513,
+    "fundingA": 4.7e-05,
+    "fundingB": 5e-05,
+    "volumeA": 109941.631893,
+    "volumeB": 310892.0,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 750.0,
+      "adaptive_weights": {
+        "edge": 0.3094,
+        "liquidity": 0.1675,
+        "funding": 0.2471,
+        "mean_reversion": 0.2059,
+        "execution_risk": 0.0702
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "Чистый запас после издержек узкий: подтверждайте вход только по лучшим условиям исполнения.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "STABLE",
+        "probability": 0.5,
+        "predicted_change": -0.0191,
+        "confidence_interval": [
+          -0.2478,
+          0.2096
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "STABLE",
+          "probability": 0.5,
+          "predicted_change": -0.0191,
+          "confidence_interval": [
+            -0.2478,
+            0.2096
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0382,
+          "confidence_interval": [
+            -0.2669,
+            0.1905
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0573,
+          "confidence_interval": [
+            -0.286,
+            0.1714
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 45.0,
+        "confidence": 0.05,
+        "expected_spread_pct": 1.7656
+      },
+      "exit": {
+        "eta_minutes": 314.5,
+        "eta_ci_low": 220.2,
+        "eta_ci_high": 424.6,
+        "target_spread_pct": 0.7076,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 5.24,
+        "expected_funding_cost_bps": 0.02,
+        "expected_net_return_bps": -22.77
+      },
+      "indicators": {
+        "spread_zscore": 0.8632,
+        "spread_percentile": 92.86,
+        "spread_velocity": 0.0215,
+        "worst_leg_depth_usd": 109941.63,
+        "bid_ask_width_pct": 0.7804,
+        "volume_impulse": 0.4648,
+        "whale_activity_score": 10.89,
+        "cvd_delta": 0.1415,
+        "open_interest_change": 0.0,
+        "funding_divergence": 3e-06,
+        "funding_spread_corr": 0.5773,
+        "implied_holding_cost_bps": 0.02,
+        "rsi_spread": 53.62,
+        "macd_spread": 0.1748,
+        "bollinger_distance": 0.4316,
+        "atr_spread": 0.2024,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 3,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 0.97,
+        "overlap_penalty": 20.0,
+        "negative_risk_flags": 2,
+        "market_regime": "widening-trend",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  },
+  {
+    "id": "MEXC:MERLUSDT:HTX:MERLUSDT",
+    "spread": 1.629562,
+    "net_spread": 1.549562,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1699892.52884,
+    "volumeB": 310892.0,
+    "ai": {
+      "feature_version": "snapshot_ai_v1",
+      "model_version": "snapshot_execution_v1",
+      "updated_at": "2026-04-02T21:38:03.140174+00:00",
+      "source": "fetch-pipeline",
+      "confidence_score": 1,
+      "success_probability": 0.05,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "dynamic_liquidity_threshold_usd": 966.4,
+      "adaptive_weights": {
+        "edge": 0.2826,
+        "liquidity": 0.2088,
+        "funding": 0.2259,
+        "mean_reversion": 0.1998,
+        "execution_risk": 0.0829
+      },
+      "confidence_factors": [
+        "Преимущество хрупкое: без улучшения ликвидности или сужения издержек вход лучше отложить.",
+        "Проскальзывание и микроструктурные издержки уже съедают значимую часть преимущества.",
+        "Чистый запас после издержек узкий: подтверждайте вход только по лучшим условиям исполнения.",
+        "Сходимость выглядит медленнее обычного, поэтому риск удержания и смены режима рынка выше.",
+        "Режим остаётся расширяющимся: лучше ждать стабилизации перед агрессивным входом.",
+        "Локальные подтверждения пока не поддерживают агрессивный вход: сигналу не хватает второго независимого триггера."
+      ],
+      "prediction": {
+        "direction": "DOWN",
+        "probability": 0.5,
+        "predicted_change": -0.0286,
+        "confidence_interval": [
+          -0.254,
+          0.1968
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0286,
+          "confidence_interval": [
+            -0.254,
+            0.1968
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0572,
+          "confidence_interval": [
+            -0.2826,
+            0.1682
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15": {
+          "direction": "DOWN",
+          "probability": 0.5,
+          "predicted_change": -0.0859,
+          "confidence_interval": [
+            -0.3113,
+            0.1395
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "entry": {
+        "wait_minutes": 45.0,
+        "confidence": 0.05,
+        "expected_spread_pct": 1.7428
+      },
+      "exit": {
+        "eta_minutes": 270.9,
+        "eta_ci_low": 189.6,
+        "eta_ci_high": 365.7,
+        "target_spread_pct": 0.6973,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 4.52,
+        "expected_funding_cost_bps": 0.0,
+        "expected_net_return_bps": -25.04
+      },
+      "indicators": {
+        "spread_zscore": 1.0166,
+        "spread_percentile": 93.75,
+        "spread_velocity": 0.0215,
+        "worst_leg_depth_usd": 310892.0,
+        "bid_ask_width_pct": 1.1743,
+        "volume_impulse": 0.8043,
+        "whale_activity_score": 33.17,
+        "cvd_delta": 0.1055,
+        "open_interest_change": 0.0,
+        "funding_divergence": 0.0,
+        "funding_spread_corr": 0.0,
+        "implied_holding_cost_bps": 0.0,
+        "rsi_spread": 94.83,
+        "macd_spread": 0.1927,
+        "bollinger_distance": 0.5083,
+        "atr_spread": 0.1274,
+        "execution_reality_score": 5.0,
+        "market_permission_score": 62.0,
+        "market_permission_mode": "cautious",
+        "signal_win_rate": 0.0,
+        "signal_comparable_count": 4,
+        "confirmation_positive_count": 0,
+        "checklist_status": "block",
+        "risk_reward": 0.97,
+        "overlap_penalty": 20.0,
+        "negative_risk_flags": 2,
+        "market_regime": "widening-trend",
+        "session": "us",
+        "news_bias": "neutral"
+      }
+    }
+  }
+]

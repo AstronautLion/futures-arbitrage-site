@@ -1,0 +1,109 @@
+{
+  "updated_at": "2026-04-05T07:45:41.246609+00:00",
+  "adapters": {
+    "Binance": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_failure_at": "2026-04-01T18:33:11.574291+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 639,
+      "markets_loaded": 542
+    },
+    "Bybit": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_failure_at": "2026-04-01T18:33:11.574291+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 545,
+      "markets_loaded": 540
+    },
+    "OKX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_failure_at": "2026-03-30T16:47:57.508970+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 285,
+      "markets_loaded": 285
+    },
+    "KuCoin": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_failure_at": "2026-03-31T17:52:18.648574+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 561,
+      "markets_loaded": 561
+    },
+    "Gate.io": {
+      "status": "quarantined",
+      "consecutive_failures": 7,
+      "quarantined_until": "2026-04-05T13:15:19.939657+00:00",
+      "last_error": "Gate.io request failed for /futures/usdt/contracts: ",
+      "last_stage": "skip",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-02T20:32:19.497773+00:00",
+      "last_failure_at": "2026-04-05T07:15:19.939657+00:00",
+      "skipped_runs": 60,
+      "pairs_loaded": 650,
+      "markets_loaded": 650
+    },
+    "HTX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_failure_at": "2026-03-30T16:25:24.977693+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 218,
+      "markets_loaded": 202
+    },
+    "MEXC": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_failure_at": "2026-04-01T18:33:11.574291+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 752,
+      "markets_loaded": 744
+    },
+    "Bitget": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00",
+      "last_failure_at": "2026-04-01T18:33:11.574291+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 544,
+      "markets_loaded": 544
+    }
+  }
+}

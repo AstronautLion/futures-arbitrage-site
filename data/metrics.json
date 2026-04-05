@@ -1,0 +1,242 @@
+{
+  "generated_at": "2026-04-05T07:45:26.263886+00:00",
+  "summary": {
+    "tracked_exchanges": 8,
+    "healthy_exchanges": 7,
+    "quarantined_exchanges": 1,
+    "total_pairs_discovered": 3544,
+    "total_markets_collected": 3418,
+    "cross_opportunities": 36,
+    "raw_cross_opportunities": 7027,
+    "filtered_cross_opportunities": 1453,
+    "raw_cross_before_refresh_filters": 7027,
+    "raw_cross_after_refresh_filters": 1453,
+    "funding_opportunities": 500,
+    "history_snapshots": 31,
+    "downsampled_snapshots": 31,
+    "quality_score": 87.5,
+    "changed_primary_datasets": true
+  },
+  "analytics_summary": {
+    "total_cross": 7027,
+    "total_cross_raw": 7027,
+    "total_cross_filtered": 1453,
+    "published_cross": 36,
+    "refresh_filter_retention_ratio": 0.2068,
+    "publication_ratio": 0.0248,
+    "high_anomaly_cross": 40,
+    "clean_convergence_cross": 29,
+    "elevated_event_risk_cross": 13,
+    "average_reversion_probability": 0.1674,
+    "average_reliability_score": 25.83,
+    "high_reliability_cross": 0,
+    "confirmed_cross": 103,
+    "blocked_checklist_cross": 6904,
+    "attention_checklist_cross": 123,
+    "average_risk_reward": 0.24,
+    "ai_enriched_cross": 36,
+    "ai_enter_ready_cross": 0,
+    "average_ai_confidence": 13.72,
+    "market_permission_mode": "cautious",
+    "market_permission_label": "Selective tape",
+    "market_permission_score": 62,
+    "quote_age": {
+      "available": true,
+      "sample_count": 7027,
+      "avg_seconds": 0.0,
+      "p95_seconds": 0.0,
+      "max_seconds": 0.0,
+      "stale_threshold_seconds": 120,
+      "stale_share": 0.0
+    },
+    "adaptive_publication": {
+      "mode": "blocked",
+      "label": "Capital protection",
+      "min_net_spread": 0.49,
+      "min_volume": 400000.0,
+      "max_bid_ask": 0.22,
+      "healthy_share": 0.9244,
+      "reason": "Blocked tape raises the minimum spread and liquidity bar before publication.",
+      "reasons": [
+        "Blocked tape raises the minimum spread and liquidity bar before publication.",
+        "Elevated spread volatility tightens the bid/ask and spread thresholds.",
+        "Funding drag is elevated, so publication requires more net edge."
+      ]
+    },
+    "average_abs_z_score": 0.8668,
+    "average_anomaly_score": 31.22,
+    "elevated_volatility_cross": 1195,
+    "contained_volatility_cross": 5832,
+    "adverse_funding_cross": 47,
+    "aligned_anomaly_cross": 197,
+    "stable_regime_cross": 5574,
+    "unstable_regime_cross": 1453,
+    "market_volatility_regime": "contained",
+    "market_volatility_label": "contained volatility",
+    "dominant_regime": "compressed",
+    "dominant_regime_share": 0.746,
+    "regime_counts": {
+      "noisy-range": 414,
+      "widening-trend": 183,
+      "volatile-expansion": 27,
+      "stable-carry": 303,
+      "clean-convergence": 29,
+      "forming": 829,
+      "compressed": 5242
+    },
+    "elevated_volatility_share": 0.1701,
+    "adverse_funding_share": 0.0067,
+    "elevated_event_risk_share": 0.0019,
+    "aligned_anomaly_share": 0.028,
+    "clean_convergence_share": 0.0041,
+    "strongest_anomaly_id": "Binance:AINUSDT:KuCoin:AINUSDT",
+    "strongest_anomaly_label": "AINUSDT · Binance/KuCoin",
+    "strongest_anomaly_score": 88.77,
+    "risk_backdrop": "watch",
+    "risk_backdrop_label": "watch list"
+  },
+  "exchange_summary": [
+    {
+      "exchange": "Binance",
+      "status": "ok",
+      "quarantined": false,
+      "quarantined_until": null,
+      "pairs_discovered": 639,
+      "markets_collected": 542,
+      "coverage_ratio": 84.82,
+      "consecutive_failures": 0,
+      "last_stage": "markets",
+      "last_error": null,
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00"
+    },
+    {
+      "exchange": "Bybit",
+      "status": "ok",
+      "quarantined": false,
+      "quarantined_until": null,
+      "pairs_discovered": 545,
+      "markets_collected": 540,
+      "coverage_ratio": 99.08,
+      "consecutive_failures": 0,
+      "last_stage": "markets",
+      "last_error": null,
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00"
+    },
+    {
+      "exchange": "OKX",
+      "status": "ok",
+      "quarantined": false,
+      "quarantined_until": null,
+      "pairs_discovered": 285,
+      "markets_collected": 285,
+      "coverage_ratio": 100.0,
+      "consecutive_failures": 0,
+      "last_stage": "markets",
+      "last_error": null,
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00"
+    },
+    {
+      "exchange": "KuCoin",
+      "status": "ok",
+      "quarantined": false,
+      "quarantined_until": null,
+      "pairs_discovered": 561,
+      "markets_collected": 561,
+      "coverage_ratio": 100.0,
+      "consecutive_failures": 0,
+      "last_stage": "markets",
+      "last_error": null,
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00"
+    },
+    {
+      "exchange": "Gate.io",
+      "status": "quarantined",
+      "quarantined": true,
+      "quarantined_until": "2026-04-05T13:15:19.939657+00:00",
+      "pairs_discovered": 0,
+      "markets_collected": 0,
+      "coverage_ratio": 0.0,
+      "consecutive_failures": 7,
+      "last_stage": "skip",
+      "last_error": "Gate.io request failed for /futures/usdt/contracts: ",
+      "last_success_at": "2026-04-02T20:32:19.497773+00:00"
+    },
+    {
+      "exchange": "HTX",
+      "status": "ok",
+      "quarantined": false,
+      "quarantined_until": null,
+      "pairs_discovered": 218,
+      "markets_collected": 202,
+      "coverage_ratio": 92.66,
+      "consecutive_failures": 0,
+      "last_stage": "markets",
+      "last_error": null,
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00"
+    },
+    {
+      "exchange": "MEXC",
+      "status": "ok",
+      "quarantined": false,
+      "quarantined_until": null,
+      "pairs_discovered": 752,
+      "markets_collected": 744,
+      "coverage_ratio": 98.94,
+      "consecutive_failures": 0,
+      "last_stage": "markets",
+      "last_error": null,
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00"
+    },
+    {
+      "exchange": "Bitget",
+      "status": "ok",
+      "quarantined": false,
+      "quarantined_until": null,
+      "pairs_discovered": 544,
+      "markets_collected": 544,
+      "coverage_ratio": 100.0,
+      "consecutive_failures": 0,
+      "last_stage": "markets",
+      "last_error": null,
+      "last_success_at": "2026-04-05T07:45:26.263886+00:00"
+    }
+  ],
+  "alert_summary": {
+    "active_count": 5,
+    "critical_count": 1,
+    "warning_count": 4,
+    "highest_severity": "critical"
+  },
+  "alerts": [
+    {
+      "key": "venue-quarantine",
+      "severity": "critical",
+      "title": "Venue quarantine active",
+      "detail": "1 venue(s) are quarantined: Gate.io."
+    },
+    {
+      "key": "risk-backdrop-cautious",
+      "severity": "warning",
+      "title": "Risk backdrop is selective",
+      "detail": "Only routes with cleaner execution and stronger reversion should be considered publishable."
+    },
+    {
+      "key": "no-high-reliability",
+      "severity": "warning",
+      "title": "No high-reliability routes",
+      "detail": "Filtered opportunities are present, but none currently reach the top reliability bucket."
+    },
+    {
+      "key": "publication-thin",
+      "severity": "warning",
+      "title": "Published shortlist is thin",
+      "detail": "Only a small share of filtered routes survives the current publication gates."
+    },
+    {
+      "key": "adaptive-profile",
+      "severity": "warning",
+      "title": "Adaptive publication profile tightened",
+      "detail": "Net spread >= 0.49% · min volume >= 400000 USD · max bid/ask <= 0.22%"
+    }
+  ]
+}

@@ -1,0 +1,8372 @@
+[
+  {
+    "id": "Bitget:FUNUSDT:MEXC:FUNUSDT",
+    "spread": 2487.360595,
+    "net_spread": 2487.280595,
+    "fundingA": 0.000187,
+    "fundingB": 2.9e-05,
+    "volumeA": 54624.43083,
+    "volumeB": 126381.983
+  },
+  {
+    "id": "Gate.io:FUNUSDT:MEXC:FUNUSDT",
+    "spread": 2479.512598,
+    "net_spread": 2479.432598,
+    "fundingA": 5e-05,
+    "fundingB": 2.9e-05,
+    "volumeA": 63419.0,
+    "volumeB": 126381.983
+  },
+  {
+    "id": "Gate.io:HK50USDT:MEXC:HK50USDT",
+    "spread": 87.226823,
+    "net_spread": 87.146823,
+    "fundingA": 0.0,
+    "fundingB": 7.7e-05,
+    "volumeA": 96066.0,
+    "volumeB": 112710.544972
+  },
+  {
+    "id": "Gate.io:EDGEUSDT:MEXC:EDGEUSDT",
+    "spread": 79.380895,
+    "net_spread": 79.300895,
+    "fundingA": -0.002152,
+    "fundingB": 5e-05,
+    "volumeA": 120063.0,
+    "volumeB": 934809.865
+  },
+  {
+    "id": "Gate.io:ALLUSDT:MEXC:ALLUSDT",
+    "spread": 8.87861,
+    "net_spread": 8.79861,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 10382.0,
+    "volumeB": 103342.2995
+  },
+  {
+    "id": "Gate.io:GAIBUSDT:MEXC:GAIBUSDT",
+    "spread": 6.082645,
+    "net_spread": 6.002645,
+    "fundingA": 1.2e-05,
+    "fundingB": -5.9e-05,
+    "volumeA": 12795.0,
+    "volumeB": 104101.48504
+  },
+  {
+    "id": "Bybit:BARDUSDT:HTX:BARDUSDT",
+    "spread": 2.616822,
+    "net_spread": 2.536822,
+    "fundingA": -0.000652,
+    "fundingB": -0.00165,
+    "volumeA": 19484809.4211,
+    "volumeB": 37856.0
+  },
+  {
+    "id": "Gate.io:BARDUSDT:HTX:BARDUSDT",
+    "spread": 2.588066,
+    "net_spread": 2.508066,
+    "fundingA": -0.000368,
+    "fundingB": -0.00165,
+    "volumeA": 2485027.0,
+    "volumeB": 37856.0
+  },
+  {
+    "id": "HTX:BARDUSDT:OKX:BARDUSDT",
+    "spread": 2.468097,
+    "net_spread": 2.388097,
+    "fundingA": -0.00165,
+    "fundingB": -0.000149,
+    "volumeA": 37856.0,
+    "volumeB": 56688878.0
+  },
+  {
+    "id": "HTX:DUSKUSDT:MEXC:DUSKUSDT",
+    "spread": 2.044895,
+    "net_spread": 1.964895,
+    "fundingA": -0.002527,
+    "fundingB": -1.4e-05,
+    "volumeA": 205960.0,
+    "volumeB": 662356.7005
+  },
+  {
+    "id": "Bybit:DUSKUSDT:HTX:DUSKUSDT",
+    "spread": 1.850358,
+    "net_spread": 1.770358,
+    "fundingA": -1.7e-05,
+    "fundingB": -0.002527,
+    "volumeA": 1379401.9636,
+    "volumeB": 205960.0
+  },
+  {
+    "id": "Gate.io:DUSKUSDT:HTX:DUSKUSDT",
+    "spread": 1.793424,
+    "net_spread": 1.713424,
+    "fundingA": 0.0001,
+    "fundingB": -0.002527,
+    "volumeA": 90356.0,
+    "volumeB": 205960.0
+  },
+  {
+    "id": "HTX:BARDUSDT:MEXC:BARDUSDT",
+    "spread": 1.75166,
+    "net_spread": 1.67166,
+    "fundingA": -0.00165,
+    "fundingB": -0.000932,
+    "volumeA": 37856.0,
+    "volumeB": 723098.4661
+  },
+  {
+    "id": "Bitget:BARDUSDT:HTX:BARDUSDT",
+    "spread": 1.682243,
+    "net_spread": 1.602243,
+    "fundingA": -0.001013,
+    "fundingB": -0.00165,
+    "volumeA": 2664537.5302,
+    "volumeB": 37856.0
+  },
+  {
+    "id": "HTX:BERAUSDT:OKX:BERAUSDT",
+    "spread": 1.655965,
+    "net_spread": 1.575965,
+    "fundingA": 5e-05,
+    "fundingB": -0.000405,
+    "volumeA": 162713.6,
+    "volumeB": 6875174.5
+  },
+  {
+    "id": "Bybit:BERAUSDT:HTX:BERAUSDT",
+    "spread": 1.569301,
+    "net_spread": 1.489301,
+    "fundingA": -0.000154,
+    "fundingB": 5e-05,
+    "volumeA": 2833040.8204,
+    "volumeB": 162713.6
+  },
+  {
+    "id": "HTX:STEEMUSDT:MEXC:STEEMUSDT",
+    "spread": 1.563568,
+    "net_spread": 1.483568,
+    "fundingA": 5e-05,
+    "fundingB": -0.000692,
+    "volumeA": 329166.0,
+    "volumeB": 106045.3048
+  },
+  {
+    "id": "Gate.io:BERAUSDT:HTX:BERAUSDT",
+    "spread": 1.546392,
+    "net_spread": 1.466392,
+    "fundingA": -0.00044,
+    "fundingB": 5e-05,
+    "volumeA": 365103.0,
+    "volumeB": 162713.6
+  },
+  {
+    "id": "HTX:BERAUSDT:MEXC:BERAUSDT",
+    "spread": 1.522843,
+    "net_spread": 1.442843,
+    "fundingA": 5e-05,
+    "fundingB": -0.000234,
+    "volumeA": 162713.6,
+    "volumeB": 311049.79209
+  },
+  {
+    "id": "Bybit:SAHARAUSDT:HTX:SAHARAUSDT",
+    "spread": 1.519712,
+    "net_spread": 1.439712,
+    "fundingA": -0.001755,
+    "fundingB": -0.001557,
+    "volumeA": 7256707.2632,
+    "volumeB": 3665200.0
+  },
+  {
+    "id": "Bitget:BERAUSDT:HTX:BERAUSDT",
+    "spread": 1.512027,
+    "net_spread": 1.432027,
+    "fundingA": -0.000362,
+    "fundingB": 5e-05,
+    "volumeA": 474103.53524,
+    "volumeB": 162713.6
+  },
+  {
+    "id": "Gate.io:CHZUSDT:HTX:CHZUSDT",
+    "spread": 1.499464,
+    "net_spread": 1.419464,
+    "fundingA": 0.0001,
+    "fundingB": -0.001689,
+    "volumeA": 2998442.0,
+    "volumeB": 10447180.0
+  },
+  {
+    "id": "Bitget:CHZUSDT:HTX:CHZUSDT",
+    "spread": 1.487564,
+    "net_spread": 1.407564,
+    "fundingA": 0.0001,
+    "fundingB": -0.001689,
+    "volumeA": 7733861.86619,
+    "volumeB": 10447180.0
+  },
+  {
+    "id": "HTX:SAHARAUSDT:OKX:SAHARAUSDT",
+    "spread": 1.482564,
+    "net_spread": 1.402564,
+    "fundingA": -0.001557,
+    "fundingB": -0.0012,
+    "volumeA": 3665200.0,
+    "volumeB": 362372820.0
+  },
+  {
+    "id": "HTX:CHZUSDT:MEXC:CHZUSDT",
+    "spread": 1.477313,
+    "net_spread": 1.397313,
+    "fundingA": -0.001689,
+    "fundingB": 1.8e-05,
+    "volumeA": 10447180.0,
+    "volumeB": 78158251.15318
+  },
+  {
+    "id": "HTX:CHZUSDT:OKX:CHZUSDT",
+    "spread": 1.477313,
+    "net_spread": 1.397313,
+    "fundingA": -0.001689,
+    "fundingB": 0.0001,
+    "volumeA": 10447180.0,
+    "volumeB": 1166684470.0
+  },
+  {
+    "id": "Bybit:CHZUSDT:HTX:CHZUSDT",
+    "spread": 1.475663,
+    "net_spread": 1.395663,
+    "fundingA": 4.3e-05,
+    "fundingB": -0.001689,
+    "volumeA": 17463171.3568,
+    "volumeB": 10447180.0
+  },
+  {
+    "id": "HTX:APEUSDT:MEXC:APEUSDT",
+    "spread": 1.431127,
+    "net_spread": 1.351127,
+    "fundingA": 0.0001,
+    "fundingB": -0.000405,
+    "volumeA": 550316.0,
+    "volumeB": 1416706.3169
+  },
+  {
+    "id": "Bybit:APEUSDT:HTX:APEUSDT",
+    "spread": 1.428571,
+    "net_spread": 1.348571,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 2362548.152,
+    "volumeB": 550316.0
+  },
+  {
+    "id": "Bitget:APEUSDT:HTX:APEUSDT",
+    "spread": 1.410935,
+    "net_spread": 1.330935,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 356330.9684,
+    "volumeB": 550316.0
+  },
+  {
+    "id": "Gate.io:APEUSDT:HTX:APEUSDT",
+    "spread": 1.399177,
+    "net_spread": 1.319177,
+    "fundingA": -9e-05,
+    "fundingB": 0.0001,
+    "volumeA": 230996.0,
+    "volumeB": 550316.0
+  },
+  {
+    "id": "HTX:APEUSDT:OKX:APEUSDT",
+    "spread": 1.352559,
+    "net_spread": 1.272559,
+    "fundingA": 0.0001,
+    "fundingB": -0.00029,
+    "volumeA": 550316.0,
+    "volumeB": 28360275.5
+  },
+  {
+    "id": "Bybit:STEEMUSDT:HTX:STEEMUSDT",
+    "spread": 1.32801,
+    "net_spread": 1.24801,
+    "fundingA": -0.000674,
+    "fundingB": 5e-05,
+    "volumeA": 1047018.4547,
+    "volumeB": 329166.0
+  },
+  {
+    "id": "Bitget:ONTUSDT:OKX:ONTUSDT",
+    "spread": 1.326077,
+    "net_spread": 1.246077,
+    "fundingA": -0.000955,
+    "fundingB": -0.008518,
+    "volumeA": 44705502.100037,
+    "volumeB": 3824506590.0
+  },
+  {
+    "id": "HTX:SAHARAUSDT:MEXC:SAHARAUSDT",
+    "spread": 1.317716,
+    "net_spread": 1.237716,
+    "fundingA": -0.001557,
+    "fundingB": -0.001268,
+    "volumeA": 3665200.0,
+    "volumeB": 583807.293
+  },
+  {
+    "id": "Gate.io:SAHARAUSDT:HTX:SAHARAUSDT",
+    "spread": 1.314116,
+    "net_spread": 1.234116,
+    "fundingA": -0.002067,
+    "fundingB": -0.001557,
+    "volumeA": 1593791.0,
+    "volumeB": 3665200.0
+  },
+  {
+    "id": "Gate.io:FHEUSDT:HTX:FHEUSDT",
+    "spread": 1.2795,
+    "net_spread": 1.1995,
+    "fundingA": 0.0001,
+    "fundingB": 0.000116,
+    "volumeA": 312008.0,
+    "volumeB": 3557500.0
+  },
+  {
+    "id": "Gate.io:NGUSDT:OKX:NGUSDT",
+    "spread": 1.256442,
+    "net_spread": 1.176442,
+    "fundingA": 0.000293,
+    "fundingB": 0.001214,
+    "volumeA": 1356801.0,
+    "volumeB": 449880.0
+  },
+  {
+    "id": "Bitget:SAHARAUSDT:HTX:SAHARAUSDT",
+    "spread": 1.25053,
+    "net_spread": 1.17053,
+    "fundingA": -0.001241,
+    "fundingB": -0.001557,
+    "volumeA": 1483191.95613,
+    "volumeB": 3665200.0
+  },
+  {
+    "id": "Gate.io:DENTUSDT:HTX:DENTUSDT",
+    "spread": 1.246537,
+    "net_spread": 1.166537,
+    "fundingA": -0.001005,
+    "fundingB": 0.0001,
+    "volumeA": 310614.0,
+    "volumeB": 31800000.0
+  },
+  {
+    "id": "HTX:INJUSDT:MEXC:INJUSDT",
+    "spread": 1.244086,
+    "net_spread": 1.164086,
+    "fundingA": -0.00251,
+    "fundingB": 4.8e-05,
+    "volumeA": 302569.6,
+    "volumeB": 3684734.687
+  },
+  {
+    "id": "HTX:INJUSDT:OKX:INJUSDT",
+    "spread": 1.244086,
+    "net_spread": 1.164086,
+    "fundingA": -0.00251,
+    "fundingB": -0.000184,
+    "volumeA": 302569.6,
+    "volumeB": 745551.9
+  },
+  {
+    "id": "MEXC:ONTUSDT:OKX:ONTUSDT",
+    "spread": 1.232251,
+    "net_spread": 1.152251,
+    "fundingA": -0.001275,
+    "fundingB": -0.008518,
+    "volumeA": 7137975.0127,
+    "volumeB": 3824506590.0
+  },
+  {
+    "id": "Bybit:INJUSDT:HTX:INJUSDT",
+    "spread": 1.224273,
+    "net_spread": 1.144273,
+    "fundingA": 2.6e-05,
+    "fundingB": -0.00251,
+    "volumeA": 8450588.6762,
+    "volumeB": 302569.6
+  },
+  {
+    "id": "Gate.io:INJUSDT:HTX:INJUSDT",
+    "spread": 1.206529,
+    "net_spread": 1.126529,
+    "fundingA": -0.000283,
+    "fundingB": -0.00251,
+    "volumeA": 485952.0,
+    "volumeB": 302569.6
+  },
+  {
+    "id": "Bitget:INJUSDT:HTX:INJUSDT",
+    "spread": 1.188786,
+    "net_spread": 1.108786,
+    "fundingA": -0.000106,
+    "fundingB": -0.00251,
+    "volumeA": 2353331.7329,
+    "volumeB": 302569.6
+  },
+  {
+    "id": "HTX:USOILUSDT:MEXC:USOILUSDT",
+    "spread": 1.150089,
+    "net_spread": 1.070089,
+    "fundingA": -0.000716,
+    "fundingB": -0.000161,
+    "volumeA": 3343.04,
+    "volumeB": 153261746.1745
+  },
+  {
+    "id": "Bybit:FHEUSDT:HTX:FHEUSDT",
+    "spread": 1.137333,
+    "net_spread": 1.057333,
+    "fundingA": -0.000497,
+    "fundingB": 0.000116,
+    "volumeA": 367657.4592,
+    "volumeB": 3557500.0
+  },
+  {
+    "id": "Gate.io:STEEMUSDT:HTX:STEEMUSDT",
+    "spread": 1.119694,
+    "net_spread": 1.039694,
+    "fundingA": -0.003464,
+    "fundingB": 5e-05,
+    "volumeA": 81801.0,
+    "volumeB": 329166.0
+  },
+  {
+    "id": "HTX:DENTUSDT:MEXC:DENTUSDT",
+    "spread": 1.09589,
+    "net_spread": 1.01589,
+    "fundingA": 0.0001,
+    "fundingB": -0.000811,
+    "volumeA": 31800000.0,
+    "volumeB": 164660.627764
+  },
+  {
+    "id": "Bitget:STEEMUSDT:HTX:STEEMUSDT",
+    "spread": 1.093655,
+    "net_spread": 1.013655,
+    "fundingA": -0.000587,
+    "fundingB": 5e-05,
+    "volumeA": 458325.26013,
+    "volumeB": 329166.0
+  },
+  {
+    "id": "Bybit:STABLEUSDT:HTX:STABLEUSDT",
+    "spread": 1.088007,
+    "net_spread": 1.008007,
+    "fundingA": -0.000526,
+    "fundingB": -0.001462,
+    "volumeA": 3808461.3627,
+    "volumeB": 164400.0
+  },
+  {
+    "id": "HTX:SPX500USDT:MEXC:SPX500USDT",
+    "spread": 1.078891,
+    "net_spread": 0.998891,
+    "fundingA": 1.3e-05,
+    "fundingB": -0.005144,
+    "volumeA": 23.023,
+    "volumeB": 9728091.61508
+  },
+  {
+    "id": "Gate.io:SPX500USDT:MEXC:SPX500USDT",
+    "spread": 1.060949,
+    "net_spread": 0.980949,
+    "fundingA": -0.0002,
+    "fundingB": -0.005144,
+    "volumeA": 4499462.0,
+    "volumeB": 9728091.61508
+  },
+  {
+    "id": "Bitget:STABLEUSDT:HTX:STABLEUSDT",
+    "spread": 1.0502,
+    "net_spread": 0.9702,
+    "fundingA": -0.00026,
+    "fundingB": -0.001462,
+    "volumeA": 403319.07971,
+    "volumeB": 164400.0
+  },
+  {
+    "id": "Gate.io:STABLEUSDT:HTX:STABLEUSDT",
+    "spread": 1.029196,
+    "net_spread": 0.949196,
+    "fundingA": -0.000407,
+    "fundingB": -0.001462,
+    "volumeA": 385043.0,
+    "volumeB": 164400.0
+  },
+  {
+    "id": "Bitget:DENTUSDT:HTX:DENTUSDT",
+    "spread": 1.024931,
+    "net_spread": 0.944931,
+    "fundingA": -0.00124,
+    "fundingB": 0.0001,
+    "volumeA": 500017.7834674,
+    "volumeB": 31800000.0
+  },
+  {
+    "id": "HTX:STABLEUSDT:MEXC:STABLEUSDT",
+    "spread": 0.983716,
+    "net_spread": 0.903716,
+    "fundingA": -0.001462,
+    "fundingB": -0.000662,
+    "volumeA": 164400.0,
+    "volumeB": 212674.67961
+  },
+  {
+    "id": "HTX:FHEUSDT:MEXC:FHEUSDT",
+    "spread": 0.97617,
+    "net_spread": 0.89617,
+    "fundingA": 0.000116,
+    "fundingB": 5e-05,
+    "volumeA": 3557500.0,
+    "volumeB": 1122666.7465
+  },
+  {
+    "id": "HTX:STABLEUSDT:OKX:STABLEUSDT",
+    "spread": 0.956938,
+    "net_spread": 0.876938,
+    "fundingA": -0.001462,
+    "fundingB": -0.000773,
+    "volumeA": 164400.0,
+    "volumeB": 136162800.0
+  },
+  {
+    "id": "Bybit:REZUSDT:Gate.io:REZUSDT",
+    "spread": 0.945297,
+    "net_spread": 0.865297,
+    "fundingA": -0.003189,
+    "fundingB": -0.000251,
+    "volumeA": 558749.8576,
+    "volumeB": 58217.0
+  },
+  {
+    "id": "Bybit:BARDUSDT:Bitget:BARDUSDT",
+    "spread": 0.919118,
+    "net_spread": 0.839118,
+    "fundingA": -0.000652,
+    "fundingB": -0.001013,
+    "volumeA": 19484809.4211,
+    "volumeB": 2664537.5302
+  },
+  {
+    "id": "Gate.io:IRUSDT:Bitget:IRUSDT",
+    "spread": 0.893368,
+    "net_spread": 0.813368,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 154711.0,
+    "volumeB": 140895.49805
+  },
+  {
+    "id": "Bitget:RONUSDT:MEXC:RONUSDT",
+    "spread": 0.892857,
+    "net_spread": 0.812857,
+    "fundingA": 7e-06,
+    "fundingB": 1.3e-05,
+    "volumeA": 19629.7605,
+    "volumeB": 103343.7829
+  },
+  {
+    "id": "Gate.io:BARDUSDT:Bitget:BARDUSDT",
+    "spread": 0.890837,
+    "net_spread": 0.810837,
+    "fundingA": -0.000368,
+    "fundingB": -0.001013,
+    "volumeA": 2485027.0,
+    "volumeB": 2664537.5302
+  },
+  {
+    "id": "HTX:COAIUSDT:OKX:COAIUSDT",
+    "spread": 0.886963,
+    "net_spread": 0.806963,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 26497.4,
+    "volumeB": 2129113.1
+  },
+  {
+    "id": "Bybit:0GUSDT:HTX:0GUSDT",
+    "spread": 0.872248,
+    "net_spread": 0.792248,
+    "fundingA": -0.000219,
+    "fundingB": -0.000457,
+    "volumeA": 1258824.2334,
+    "volumeB": 12892.0
+  },
+  {
+    "id": "Gate.io:BPUSDT:MEXC:BPUSDT",
+    "spread": 0.85389,
+    "net_spread": 0.77389,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 209515.0,
+    "volumeB": 115697.36978
+  },
+  {
+    "id": "HTX:COAIUSDT:MEXC:COAIUSDT",
+    "spread": 0.850397,
+    "net_spread": 0.770397,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 26497.4,
+    "volumeB": 599503.7587
+  },
+  {
+    "id": "Gate.io:PTBUSDT:HTX:PTBUSDT",
+    "spread": 0.835749,
+    "net_spread": 0.755749,
+    "fundingA": 0.000479,
+    "fundingB": 5e-05,
+    "volumeA": 2368889.0,
+    "volumeB": 107686800.0
+  },
+  {
+    "id": "Bitget:BARDUSDT:OKX:BARDUSDT",
+    "spread": 0.827373,
+    "net_spread": 0.747373,
+    "fundingA": -0.001013,
+    "fundingB": -0.000149,
+    "volumeA": 2664537.5302,
+    "volumeB": 56688878.0
+  },
+  {
+    "id": "HTX:GPSUSDT:OKX:GPSUSDT",
+    "spread": 0.819776,
+    "net_spread": 0.739776,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 83578600.0,
+    "volumeB": 81242620.0
+  },
+  {
+    "id": "Bybit:BARDUSDT:MEXC:BARDUSDT",
+    "spread": 0.819325,
+    "net_spread": 0.739325,
+    "fundingA": -0.000652,
+    "fundingB": -0.000932,
+    "volumeA": 19484809.4211,
+    "volumeB": 723098.4661
+  },
+  {
+    "id": "Gate.io:0GUSDT:HTX:0GUSDT",
+    "spread": 0.819062,
+    "net_spread": 0.739062,
+    "fundingA": -0.000436,
+    "fundingB": -0.000457,
+    "volumeA": 268414.0,
+    "volumeB": 12892.0
+  },
+  {
+    "id": "Gate.io:GPSUSDT:HTX:GPSUSDT",
+    "spread": 0.806807,
+    "net_spread": 0.726807,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 533793.0,
+    "volumeB": 83578600.0
+  },
+  {
+    "id": "HTX:GPSUSDT:MEXC:GPSUSDT",
+    "spread": 0.800559,
+    "net_spread": 0.720559,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 83578600.0,
+    "volumeB": 115272.0336
+  },
+  {
+    "id": "Gate.io:BARDUSDT:MEXC:BARDUSDT",
+    "spread": 0.791072,
+    "net_spread": 0.711072,
+    "fundingA": -0.000368,
+    "fundingB": -0.000932,
+    "volumeA": 2485027.0,
+    "volumeB": 723098.4661
+  },
+  {
+    "id": "Gate.io:COAIUSDT:HTX:COAIUSDT",
+    "spread": 0.78327,
+    "net_spread": 0.70327,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 151556.0,
+    "volumeB": 26497.4
+  },
+  {
+    "id": "Bitget:COAIUSDT:HTX:COAIUSDT",
+    "spread": 0.78327,
+    "net_spread": 0.70327,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 176608.7977,
+    "volumeB": 26497.4
+  },
+  {
+    "id": "Bitget:GPSUSDT:HTX:GPSUSDT",
+    "spread": 0.781595,
+    "net_spread": 0.701595,
+    "fundingA": 2.1e-05,
+    "fundingB": 5e-05,
+    "volumeA": 228666.860489,
+    "volumeB": 83578600.0
+  },
+  {
+    "id": "Bybit:ONGUSDT:Gate.io:ONGUSDT",
+    "spread": 0.777813,
+    "net_spread": 0.697813,
+    "fundingA": -0.005535,
+    "fundingB": -0.010818,
+    "volumeA": 5121720.1526,
+    "volumeB": 262138.0
+  },
+  {
+    "id": "Gate.io:ONTUSDT:Bitget:ONTUSDT",
+    "spread": 0.773376,
+    "net_spread": 0.693376,
+    "fundingA": 1.2e-05,
+    "fundingB": -0.000955,
+    "volumeA": 25386692.0,
+    "volumeB": 44705502.100037
+  },
+  {
+    "id": "Gate.io:ENSOUSDT:HTX:ENSOUSDT",
+    "spread": 0.764294,
+    "net_spread": 0.684294,
+    "fundingA": 1.2e-05,
+    "fundingB": 5e-05,
+    "volumeA": 632986.0,
+    "volumeB": 50810.0
+  },
+  {
+    "id": "HTX:0GUSDT:OKX:0GUSDT",
+    "spread": 0.760055,
+    "net_spread": 0.680055,
+    "fundingA": -0.000457,
+    "fundingB": -0.000312,
+    "volumeA": 12892.0,
+    "volumeB": 2215130.0
+  },
+  {
+    "id": "HTX:XPLUSDT:MEXC:XPLUSDT",
+    "spread": 0.742433,
+    "net_spread": 0.662433,
+    "fundingA": 0.000476,
+    "fundingB": 5e-05,
+    "volumeA": 1657062.0,
+    "volumeB": 1373389.7168
+  },
+  {
+    "id": "Gate.io:PIXELUSDT:HTX:PIXELUSDT",
+    "spread": 0.741713,
+    "net_spread": 0.661713,
+    "fundingA": -0.001224,
+    "fundingB": -0.002065,
+    "volumeA": 1222316.0,
+    "volumeB": 14147400.0
+  },
+  {
+    "id": "HTX:0GUSDT:MEXC:0GUSDT",
+    "spread": 0.739098,
+    "net_spread": 0.659098,
+    "fundingA": -0.000457,
+    "fundingB": -0.000473,
+    "volumeA": 12892.0,
+    "volumeB": 123700.4642
+  },
+  {
+    "id": "Bybit:ZBTUSDT:Gate.io:ZBTUSDT",
+    "spread": 0.737055,
+    "net_spread": 0.657055,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 2334953.4637,
+    "volumeB": 307920.0
+  },
+  {
+    "id": "Bitget:0GUSDT:HTX:0GUSDT",
+    "spread": 0.733964,
+    "net_spread": 0.653964,
+    "fundingA": -0.000319,
+    "fundingB": -0.000457,
+    "volumeA": 507656.3246,
+    "volumeB": 12892.0
+  },
+  {
+    "id": "Gate.io:BIGTIMEUSDT:HTX:BIGTIMEUSDT",
+    "spread": 0.733075,
+    "net_spread": 0.653075,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 46917.0,
+    "volumeB": 2374108.0
+  },
+  {
+    "id": "MEXC:BARDUSDT:OKX:BARDUSDT",
+    "spread": 0.72921,
+    "net_spread": 0.64921,
+    "fundingA": -0.000932,
+    "fundingB": -0.000149,
+    "volumeA": 723098.4661,
+    "volumeB": 56688878.0
+  },
+  {
+    "id": "HTX:SATSUSDT:OKX:SATSUSDT",
+    "spread": 0.712589,
+    "net_spread": 0.632589,
+    "fundingA": 0.0001,
+    "fundingB": -0.000376,
+    "volumeA": 3090018000000.0,
+    "volumeB": 130646860000000.0
+  },
+  {
+    "id": "Gate.io:IRUSDT:MEXC:IRUSDT",
+    "spread": 0.711417,
+    "net_spread": 0.631417,
+    "fundingA": 5e-05,
+    "fundingB": -0.000118,
+    "volumeA": 154711.0,
+    "volumeB": 203983.72953
+  },
+  {
+    "id": "Bybit:ONTUSDT:OKX:ONTUSDT",
+    "spread": 0.700569,
+    "net_spread": 0.620569,
+    "fundingA": 1.3e-05,
+    "fundingB": -0.008518,
+    "volumeA": 108954916.8468,
+    "volumeB": 3824506590.0
+  },
+  {
+    "id": "Gate.io:MERLUSDT:HTX:MERLUSDT",
+    "spread": 0.697624,
+    "net_spread": 0.617624,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 224678.0,
+    "volumeB": 270976.0
+  },
+  {
+    "id": "Bitget:ENSOUSDT:HTX:ENSOUSDT",
+    "spread": 0.690804,
+    "net_spread": 0.610804,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1067898.4769,
+    "volumeB": 50810.0
+  },
+  {
+    "id": "Gate.io:ZBTUSDT:MEXC:ZBTUSDT",
+    "spread": 0.686456,
+    "net_spread": 0.606456,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 307920.0,
+    "volumeB": 551937.704
+  },
+  {
+    "id": "HTX:BIGTIMEUSDT:OKX:BIGTIMEUSDT",
+    "spread": 0.685225,
+    "net_spread": 0.605225,
+    "fundingA": 5e-05,
+    "fundingB": -3.8e-05,
+    "volumeA": 2374108.0,
+    "volumeB": 26807260.0
+  },
+  {
+    "id": "Bybit:GPSUSDT:HTX:GPSUSDT",
+    "spread": 0.680744,
+    "net_spread": 0.600744,
+    "fundingA": -2.1e-05,
+    "fundingB": 5e-05,
+    "volumeA": 252467.9332,
+    "volumeB": 83578600.0
+  },
+  {
+    "id": "Gate.io:ONTUSDT:MEXC:ONTUSDT",
+    "spread": 0.677644,
+    "net_spread": 0.597644,
+    "fundingA": 1.2e-05,
+    "fundingB": -0.001275,
+    "volumeA": 25386692.0,
+    "volumeB": 7137975.0127
+  },
+  {
+    "id": "Bybit:BIGTIMEUSDT:HTX:BIGTIMEUSDT",
+    "spread": 0.677016,
+    "net_spread": 0.597016,
+    "fundingA": -0.000513,
+    "fundingB": 5e-05,
+    "volumeA": 423227.2239,
+    "volumeB": 2374108.0
+  },
+  {
+    "id": "Bybit:ONGUSDT:Bitget:ONGUSDT",
+    "spread": 0.674986,
+    "net_spread": 0.594986,
+    "fundingA": -0.005535,
+    "fundingB": -0.005279,
+    "volumeA": 5121720.1526,
+    "volumeB": 1440726.03295
+  },
+  {
+    "id": "Gate.io:LUMIAUSDT:Bitget:LUMIAUSDT",
+    "spread": 0.672773,
+    "net_spread": 0.592773,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 56785.0,
+    "volumeB": 511077.72788
+  },
+  {
+    "id": "Bybit:XPLUSDT:HTX:XPLUSDT",
+    "spread": 0.663265,
+    "net_spread": 0.583265,
+    "fundingA": 5e-05,
+    "fundingB": 0.000476,
+    "volumeA": 14196000.2203,
+    "volumeB": 1657062.0
+  },
+  {
+    "id": "HTX:ENSOUSDT:MEXC:ENSOUSDT",
+    "spread": 0.661897,
+    "net_spread": 0.581897,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 50810.0,
+    "volumeB": 246038.8186
+  },
+  {
+    "id": "Gate.io:KWEBUSDT:Bitget:KWEBUSDT",
+    "spread": 0.660454,
+    "net_spread": 0.580454,
+    "fundingA": 0.0001,
+    "fundingB": 0.0,
+    "volumeA": 36985.0,
+    "volumeB": 481258.63336
+  },
+  {
+    "id": "Bybit:MERLUSDT:HTX:MERLUSDT",
+    "spread": 0.654022,
+    "net_spread": 0.574022,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 1090108.9372,
+    "volumeB": 270976.0
+  },
+  {
+    "id": "Bitget:MERLUSDT:HTX:MERLUSDT",
+    "spread": 0.654022,
+    "net_spread": 0.574022,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 243167.94918,
+    "volumeB": 270976.0
+  },
+  {
+    "id": "Bybit:BANUSDT:Gate.io:BANUSDT",
+    "spread": 0.649191,
+    "net_spread": 0.569191,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 1891481.7016,
+    "volumeB": 453343.0
+  },
+  {
+    "id": "Gate.io:RONUSDT:MEXC:RONUSDT",
+    "spread": 0.64881,
+    "net_spread": 0.56881,
+    "fundingA": 3.5e-05,
+    "fundingB": 1.3e-05,
+    "volumeA": 5700.0,
+    "volumeB": 103343.7829
+  },
+  {
+    "id": "Bybit:ENSOUSDT:HTX:ENSOUSDT",
+    "spread": 0.64671,
+    "net_spread": 0.56671,
+    "fundingA": -0.000106,
+    "fundingB": 5e-05,
+    "volumeA": 1985998.294,
+    "volumeB": 50810.0
+  },
+  {
+    "id": "Bybit:ONGUSDT:MEXC:ONGUSDT",
+    "spread": 0.64339,
+    "net_spread": 0.56339,
+    "fundingA": -0.005535,
+    "fundingB": -0.005783,
+    "volumeA": 5121720.1526,
+    "volumeB": 978124.6169
+  },
+  {
+    "id": "Bybit:SIRENUSDT:MEXC:SIRENUSDT",
+    "spread": 0.634297,
+    "net_spread": 0.554297,
+    "fundingA": 5e-05,
+    "fundingB": -0.000309,
+    "volumeA": 52571173.3949,
+    "volumeB": 21996432.2442
+  },
+  {
+    "id": "Bybit:ONTUSDT:Bitget:ONTUSDT",
+    "spread": 0.633914,
+    "net_spread": 0.553914,
+    "fundingA": 1.3e-05,
+    "fundingB": -0.000955,
+    "volumeA": 108954916.8468,
+    "volumeB": 44705502.100037
+  },
+  {
+    "id": "HTX:ENSOUSDT:OKX:ENSOUSDT",
+    "spread": 0.632881,
+    "net_spread": 0.552881,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 50810.0,
+    "volumeB": 3760801.0
+  },
+  {
+    "id": "Gate.io:AINUSDT:Bitget:AINUSDT",
+    "spread": 0.629617,
+    "net_spread": 0.549617,
+    "fundingA": 5e-05,
+    "fundingB": 8.1e-05,
+    "volumeA": 212127.0,
+    "volumeB": 571838.16511
+  },
+  {
+    "id": "Gate.io:XPLUSDT:HTX:XPLUSDT",
+    "spread": 0.629252,
+    "net_spread": 0.549252,
+    "fundingA": 5e-05,
+    "fundingB": 0.000476,
+    "volumeA": 1435581.0,
+    "volumeB": 1657062.0
+  },
+  {
+    "id": "Bitget:XPLUSDT:HTX:XPLUSDT",
+    "spread": 0.623583,
+    "net_spread": 0.543583,
+    "fundingA": 5e-05,
+    "fundingB": 0.000476,
+    "volumeA": 3393193.0649,
+    "volumeB": 1657062.0
+  },
+  {
+    "id": "Bybit:MOVEUSDT:HTX:MOVEUSDT",
+    "spread": 0.6227,
+    "net_spread": 0.5427,
+    "fundingA": 5e-05,
+    "fundingB": -0.00072,
+    "volumeA": 644659.724,
+    "volumeB": 660646.0
+  },
+  {
+    "id": "Gate.io:SATSUSDT:HTX:SATSUSDT",
+    "spread": 0.62201,
+    "net_spread": 0.54201,
+    "fundingA": -0.000182,
+    "fundingB": 0.0001,
+    "volumeA": 279704.0,
+    "volumeB": 3090018000000.0
+  },
+  {
+    "id": "Gate.io:LRCUSDT:OKX:LRCUSDT",
+    "spread": 0.61949,
+    "net_spread": 0.53949,
+    "fundingA": -0.000782,
+    "fundingB": 1.6e-05,
+    "volumeA": 145406.0,
+    "volumeB": 69092700.0
+  },
+  {
+    "id": "HTX:MOVEUSDT:OKX:MOVEUSDT",
+    "spread": 0.618847,
+    "net_spread": 0.538847,
+    "fundingA": -0.00072,
+    "fundingB": -0.000153,
+    "volumeA": 660646.0,
+    "volumeB": 34859100.0
+  },
+  {
+    "id": "Gate.io:SNDKUSDT:OKX:SNDKUSDT",
+    "spread": 0.617295,
+    "net_spread": 0.537295,
+    "fundingA": 0.0001,
+    "fundingB": 0.001898,
+    "volumeA": 493535.0,
+    "volumeB": 4770.49
+  },
+  {
+    "id": "Gate.io:REZUSDT:Bitget:REZUSDT",
+    "spread": 0.616048,
+    "net_spread": 0.536048,
+    "fundingA": -0.000251,
+    "fundingB": -0.002046,
+    "volumeA": 58217.0,
+    "volumeB": 563021.483596
+  },
+  {
+    "id": "Gate.io:REZUSDT:MEXC:REZUSDT",
+    "spread": 0.616048,
+    "net_spread": 0.536048,
+    "fundingA": -0.000251,
+    "fundingB": -0.001855,
+    "volumeA": 58217.0,
+    "volumeB": 304346.6285
+  },
+  {
+    "id": "Bitget:XAIUSDT:MEXC:XAIUSDT",
+    "spread": 0.613155,
+    "net_spread": 0.533155,
+    "fundingA": -0.000198,
+    "fundingB": 5e-05,
+    "volumeA": 155673.87788,
+    "volumeB": 277773.6534
+  },
+  {
+    "id": "Bitget:ENJUSDT:OKX:ENJUSDT",
+    "spread": 0.609905,
+    "net_spread": 0.529905,
+    "fundingA": -0.002285,
+    "fundingB": -0.000214,
+    "volumeA": 1126829.976763,
+    "volumeB": 608334190.0
+  },
+  {
+    "id": "Bitget:BIGTIMEUSDT:HTX:BIGTIMEUSDT",
+    "spread": 0.603708,
+    "net_spread": 0.523708,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 65672.01575,
+    "volumeB": 2374108.0
+  },
+  {
+    "id": "HTX:BIGTIMEUSDT:MEXC:BIGTIMEUSDT",
+    "spread": 0.600086,
+    "net_spread": 0.520086,
+    "fundingA": 5e-05,
+    "fundingB": -1.4e-05,
+    "volumeA": 2374108.0,
+    "volumeB": 138855.265
+  },
+  {
+    "id": "Gate.io:CHEEMSUSDT:MEXC:CHEEMSUSDT",
+    "spread": 0.599506,
+    "net_spread": 0.519506,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 6595.0,
+    "volumeB": 107018.77
+  },
+  {
+    "id": "Gate.io:LRCUSDT:MEXC:LRCUSDT",
+    "spread": 0.595806,
+    "net_spread": 0.515806,
+    "fundingA": -0.000782,
+    "fundingB": 1.6e-05,
+    "volumeA": 145406.0,
+    "volumeB": 212407.87716
+  },
+  {
+    "id": "Gate.io:PTBUSDT:MEXC:PTBUSDT",
+    "spread": 0.595642,
+    "net_spread": 0.515642,
+    "fundingA": 0.000479,
+    "fundingB": 7.2e-05,
+    "volumeA": 2368889.0,
+    "volumeB": 479964.30798
+  },
+  {
+    "id": "Gate.io:ZBTUSDT:OKX:ZBTUSDT",
+    "spread": 0.586927,
+    "net_spread": 0.506927,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 307920.0,
+    "volumeB": 25544986.0
+  },
+  {
+    "id": "HTX:LPTUSDT:OKX:LPTUSDT",
+    "spread": 0.585794,
+    "net_spread": 0.505794,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 5296.6,
+    "volumeB": 608997.2
+  },
+  {
+    "id": "Bybit:PTBUSDT:HTX:PTBUSDT",
+    "spread": 0.584541,
+    "net_spread": 0.504541,
+    "fundingA": 0.001733,
+    "fundingB": 5e-05,
+    "volumeA": 8035028.4299,
+    "volumeB": 107686800.0
+  },
+  {
+    "id": "Bitget:AINUSDT:MEXC:AINUSDT",
+    "spread": 0.582623,
+    "net_spread": 0.502623,
+    "fundingA": 8.1e-05,
+    "fundingB": 5e-05,
+    "volumeA": 571838.16511,
+    "volumeB": 209558.4426
+  },
+  {
+    "id": "Gate.io:BANUSDT:Bitget:BANUSDT",
+    "spread": 0.57856,
+    "net_spread": 0.49856,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 453343.0,
+    "volumeB": 635567.84083
+  },
+  {
+    "id": "Gate.io:HNTUSDT:MEXC:HNTUSDT",
+    "spread": 0.575406,
+    "net_spread": 0.495406,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 48299.0,
+    "volumeB": 214170.4792
+  },
+  {
+    "id": "Bybit:LRCUSDT:Gate.io:LRCUSDT",
+    "spread": 0.575402,
+    "net_spread": 0.495402,
+    "fundingA": -0.000474,
+    "fundingB": -0.000782,
+    "volumeA": 838905.2375,
+    "volumeB": 145406.0
+  },
+  {
+    "id": "HTX:RIVERUSDT:OKX:RIVERUSDT",
+    "spread": 0.575094,
+    "net_spread": 0.495094,
+    "fundingA": 5e-05,
+    "fundingB": 0.00127,
+    "volumeA": 855247.6,
+    "volumeB": 18530159.7
+  },
+  {
+    "id": "Bybit:SIRENUSDT:HTX:SIRENUSDT",
+    "spread": 0.573625,
+    "net_spread": 0.493625,
+    "fundingA": 5e-05,
+    "fundingB": -0.000136,
+    "volumeA": 52571173.3949,
+    "volumeB": 2466720.0
+  },
+  {
+    "id": "Gate.io:ALICEUSDT:Bitget:ALICEUSDT",
+    "spread": 0.565771,
+    "net_spread": 0.485771,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 21488.0,
+    "volumeB": 440346.93557
+  },
+  {
+    "id": "Bybit:FOLKSUSDT:HTX:FOLKSUSDT",
+    "spread": 0.564516,
+    "net_spread": 0.484516,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1411940.5954,
+    "volumeB": 38320.0
+  },
+  {
+    "id": "Gate.io:ONTUSDT:OKX:ONTUSDT",
+    "spread": 0.562957,
+    "net_spread": 0.482957,
+    "fundingA": 1.2e-05,
+    "fundingB": -0.008518,
+    "volumeA": 25386692.0,
+    "volumeB": 3824506590.0
+  },
+  {
+    "id": "HTX:MOVEUSDT:MEXC:MOVEUSDT",
+    "spread": 0.562905,
+    "net_spread": 0.482905,
+    "fundingA": -0.00072,
+    "fundingB": 5e-05,
+    "volumeA": 660646.0,
+    "volumeB": 211970.80113
+  },
+  {
+    "id": "Bybit:COREUSDT:OKX:COREUSDT",
+    "spread": 0.561519,
+    "net_spread": 0.481519,
+    "fundingA": -0.001307,
+    "fundingB": -0.000152,
+    "volumeA": 13116779.196,
+    "volumeB": 1148224731.0
+  },
+  {
+    "id": "HTX:XPLUSDT:OKX:XPLUSDT",
+    "spread": 0.552927,
+    "net_spread": 0.472927,
+    "fundingA": 0.000476,
+    "fundingB": 5e-05,
+    "volumeA": 1657062.0,
+    "volumeB": 213806130.0
+  },
+  {
+    "id": "Gate.io:BSBUSDT:HTX:BSBUSDT",
+    "spread": 0.552202,
+    "net_spread": 0.472202,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2888978.0,
+    "volumeB": 3232280.0
+  },
+  {
+    "id": "Bybit:PIXELUSDT:HTX:PIXELUSDT",
+    "spread": 0.551362,
+    "net_spread": 0.471362,
+    "fundingA": -0.002745,
+    "fundingB": -0.002065,
+    "volumeA": 3165820.395,
+    "volumeB": 14147400.0
+  },
+  {
+    "id": "Bitget:PIPPINUSDT:HTX:PIPPINUSDT",
+    "spread": 0.547545,
+    "net_spread": 0.467545,
+    "fundingA": 5e-05,
+    "fundingB": 0.000798,
+    "volumeA": 7187151.59669,
+    "volumeB": 48856080.0
+  },
+  {
+    "id": "MEXC:RIVERUSDT:OKX:RIVERUSDT",
+    "spread": 0.546655,
+    "net_spread": 0.466655,
+    "fundingA": 5e-05,
+    "fundingB": 0.00127,
+    "volumeA": 41910888.9578,
+    "volumeB": 18530159.7
+  },
+  {
+    "id": "Bybit:ALICEUSDT:Gate.io:ALICEUSDT",
+    "spread": 0.545282,
+    "net_spread": 0.465282,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 639296.1017,
+    "volumeB": 21488.0
+  },
+  {
+    "id": "Bybit:ONTUSDT:MEXC:ONTUSDT",
+    "spread": 0.538315,
+    "net_spread": 0.458315,
+    "fundingA": 1.3e-05,
+    "fundingB": -0.001275,
+    "volumeA": 108954916.8468,
+    "volumeB": 7137975.0127
+  },
+  {
+    "id": "Gate.io:MOVEUSDT:HTX:MOVEUSDT",
+    "spread": 0.537787,
+    "net_spread": 0.457787,
+    "fundingA": -8e-06,
+    "fundingB": -0.00072,
+    "volumeA": 76517.0,
+    "volumeB": 660646.0
+  },
+  {
+    "id": "Bybit:LABUSDT:Gate.io:LABUSDT",
+    "spread": 0.527136,
+    "net_spread": 0.447136,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2229786.1986,
+    "volumeB": 122029.0
+  },
+  {
+    "id": "Gate.io:MAVUSDT:MEXC:MAVUSDT",
+    "spread": 0.526956,
+    "net_spread": 0.446956,
+    "fundingA": -0.000695,
+    "fundingB": -5.6e-05,
+    "volumeA": 347836.0,
+    "volumeB": 147202.46
+  },
+  {
+    "id": "HTX:FOLKSUSDT:MEXC:FOLKSUSDT",
+    "spread": 0.524559,
+    "net_spread": 0.444559,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 38320.0,
+    "volumeB": 546831.975
+  },
+  {
+    "id": "HTX:SATSUSDT:MEXC:SATSUSDT",
+    "spread": 0.52356,
+    "net_spread": 0.44356,
+    "fundingA": 0.0001,
+    "fundingB": -0.000371,
+    "volumeA": 3090018000000.0,
+    "volumeB": 128531.1663
+  },
+  {
+    "id": "HTX:PIPPINUSDT:MEXC:PIPPINUSDT",
+    "spread": 0.522888,
+    "net_spread": 0.442888,
+    "fundingA": 0.000798,
+    "fundingB": 5e-05,
+    "volumeA": 48856080.0,
+    "volumeB": 15033765.794
+  },
+  {
+    "id": "Bybit:COAIUSDT:HTX:COAIUSDT",
+    "spread": 0.5228,
+    "net_spread": 0.4428,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 706819.2079,
+    "volumeB": 26497.4
+  },
+  {
+    "id": "Gate.io:FOLKSUSDT:HTX:FOLKSUSDT",
+    "spread": 0.521822,
+    "net_spread": 0.441822,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 260536.0,
+    "volumeB": 38320.0
+  },
+  {
+    "id": "Gate.io:BEATUSDT:HTX:BEATUSDT",
+    "spread": 0.508077,
+    "net_spread": 0.428077,
+    "fundingA": 0.0001,
+    "fundingB": 0.000917,
+    "volumeA": 5078336.0,
+    "volumeB": 2242000.0
+  },
+  {
+    "id": "Bybit:AIOZUSDT:MEXC:AIOZUSDT",
+    "spread": 0.504469,
+    "net_spread": 0.424469,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 148239.852,
+    "volumeB": 118306.7329
+  },
+  {
+    "id": "Gate.io:DAMUSDT:MEXC:DAMUSDT",
+    "spread": 0.49815,
+    "net_spread": 0.41815,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 81702.0,
+    "volumeB": 639364.2369
+  },
+  {
+    "id": "Bybit:LUMIAUSDT:Gate.io:LUMIAUSDT",
+    "spread": 0.497797,
+    "net_spread": 0.417797,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 648633.8046,
+    "volumeB": 56785.0
+  },
+  {
+    "id": "Gate.io:LUMIAUSDT:MEXC:LUMIAUSDT",
+    "spread": 0.495331,
+    "net_spread": 0.415331,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 56785.0,
+    "volumeB": 230472.38967
+  },
+  {
+    "id": "HTX:FTTUSDT:MEXC:FTTUSDT",
+    "spread": 0.49505,
+    "net_spread": 0.41505,
+    "fundingA": 0.0001,
+    "fundingB": 0.0002,
+    "volumeA": 188218.0,
+    "volumeB": 108443.58652
+  },
+  {
+    "id": "HTX:MEMEUSDT:OKX:MEMEUSDT",
+    "spread": 0.494071,
+    "net_spread": 0.414071,
+    "fundingA": -0.000354,
+    "fundingB": -0.000325,
+    "volumeA": 86786780.0,
+    "volumeB": 1845791200.0
+  },
+  {
+    "id": "Bybit:LPTUSDT:HTX:LPTUSDT",
+    "spread": 0.491039,
+    "net_spread": 0.411039,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1139633.4797,
+    "volumeB": 5296.6
+  },
+  {
+    "id": "Bitget:STEEMUSDT:MEXC:STEEMUSDT",
+    "spread": 0.487013,
+    "net_spread": 0.407013,
+    "fundingA": -0.000587,
+    "fundingB": -0.000692,
+    "volumeA": 458325.26013,
+    "volumeB": 106045.3048
+  },
+  {
+    "id": "Bybit:RECALLUSDT:OKX:RECALLUSDT",
+    "spread": 0.48633,
+    "net_spread": 0.40633,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 446751.7449,
+    "volumeB": 25410640.0
+  },
+  {
+    "id": "Bitget:MOVEUSDT:HTX:MOVEUSDT",
+    "spread": 0.481177,
+    "net_spread": 0.401177,
+    "fundingA": -3.2e-05,
+    "fundingB": -0.00072,
+    "volumeA": 158525.41459,
+    "volumeB": 660646.0
+  },
+  {
+    "id": "HTX:MERLUSDT:OKX:MERLUSDT",
+    "spread": 0.477327,
+    "net_spread": 0.397327,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 270976.0,
+    "volumeB": 106671825.0
+  },
+  {
+    "id": "Bybit:ALCHUSDT:HTX:ALCHUSDT",
+    "spread": 0.466528,
+    "net_spread": 0.386528,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 416389.2395,
+    "volumeB": 407480.0
+  },
+  {
+    "id": "Bybit:CETUSUSDT:Bitget:CETUSUSDT",
+    "spread": 0.466063,
+    "net_spread": 0.386063,
+    "fundingA": -0.003407,
+    "fundingB": -0.001322,
+    "volumeA": 10492605.4553,
+    "volumeB": 6661940.83748
+  },
+  {
+    "id": "Bybit:POWRUSDT:Gate.io:POWRUSDT",
+    "spread": 0.464499,
+    "net_spread": 0.384499,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 147119.1166,
+    "volumeB": 12098.0
+  },
+  {
+    "id": "Gate.io:RATSUSDT:HTX:RATSUSDT",
+    "spread": 0.463862,
+    "net_spread": 0.383862,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 429739.0,
+    "volumeB": 6069944000.0
+  },
+  {
+    "id": "Gate.io:AGIUSDT:MEXC:AGIUSDT",
+    "spread": 0.463607,
+    "net_spread": 0.383607,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 18112.0,
+    "volumeB": 108386.633
+  },
+  {
+    "id": "Gate.io:STEEMUSDT:MEXC:STEEMUSDT",
+    "spread": 0.461381,
+    "net_spread": 0.381381,
+    "fundingA": -0.003464,
+    "fundingB": -0.000692,
+    "volumeA": 81801.0,
+    "volumeB": 106045.3048
+  },
+  {
+    "id": "Bybit:DIAUSDT:Gate.io:DIAUSDT",
+    "spread": 0.460585,
+    "net_spread": 0.380585,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 109021.2383,
+    "volumeB": 201684.0
+  },
+  {
+    "id": "Gate.io:CHILLGUYUSDT:MEXC:CHILLGUYUSDT",
+    "spread": 0.45929,
+    "net_spread": 0.37929,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 72381.0,
+    "volumeB": 139664.2611
+  },
+  {
+    "id": "Bybit:ALLOUSDT:Gate.io:ALLOUSDT",
+    "spread": 0.456706,
+    "net_spread": 0.376706,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 133251.0284,
+    "volumeB": 48763.0
+  },
+  {
+    "id": "HTX:MERLUSDT:MEXC:MERLUSDT",
+    "spread": 0.455729,
+    "net_spread": 0.375729,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 270976.0,
+    "volumeB": 723289.09269
+  },
+  {
+    "id": "Gate.io:PEAQUSDT:MEXC:PEAQUSDT",
+    "spread": 0.452331,
+    "net_spread": 0.372331,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 25562.0,
+    "volumeB": 779539.9775
+  },
+  {
+    "id": "Bitget:DOODUSDT:OKX:DOODUSDT",
+    "spread": 0.447785,
+    "net_spread": 0.367785,
+    "fundingA": -0.002365,
+    "fundingB": -0.000836,
+    "volumeA": 3164905.931439,
+    "volumeB": 10826278000.0
+  },
+  {
+    "id": "Bybit:ENJUSDT:OKX:ENJUSDT",
+    "spread": 0.44645,
+    "net_spread": 0.36645,
+    "fundingA": -0.004191,
+    "fundingB": -0.000214,
+    "volumeA": 7271630.6259,
+    "volumeB": 608334190.0
+  },
+  {
+    "id": "Gate.io:CARVUSDT:Bitget:CARVUSDT",
+    "spread": 0.441895,
+    "net_spread": 0.361895,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 15199.0,
+    "volumeB": 79754.19308
+  },
+  {
+    "id": "Bybit:SIRENUSDT:Bitget:SIRENUSDT",
+    "spread": 0.441449,
+    "net_spread": 0.361449,
+    "fundingA": 5e-05,
+    "fundingB": -0.000233,
+    "volumeA": 52571173.3949,
+    "volumeB": 54229257.5969
+  },
+  {
+    "id": "Gate.io:OKBUSDT:HTX:OKBUSDT",
+    "spread": 0.440398,
+    "net_spread": 0.360398,
+    "fundingA": -4.7e-05,
+    "fundingB": 0.0001,
+    "volumeA": 674625.0,
+    "volumeB": 2490.12
+  },
+  {
+    "id": "HTX:LPTUSDT:MEXC:LPTUSDT",
+    "spread": 0.43999,
+    "net_spread": 0.35999,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 5296.6,
+    "volumeB": 172954.8086
+  },
+  {
+    "id": "MEXC:ENJUSDT:OKX:ENJUSDT",
+    "spread": 0.439131,
+    "net_spread": 0.359131,
+    "fundingA": -0.001817,
+    "fundingB": -0.000214,
+    "volumeA": 1060680.25085,
+    "volumeB": 608334190.0
+  },
+  {
+    "id": "Gate.io:PIXELUSDT:Bitget:PIXELUSDT",
+    "spread": 0.438453,
+    "net_spread": 0.358453,
+    "fundingA": -0.001224,
+    "fundingB": -0.002467,
+    "volumeA": 1222316.0,
+    "volumeB": 3604445.861515
+  },
+  {
+    "id": "Gate.io:PIPPINUSDT:HTX:PIPPINUSDT",
+    "spread": 0.438036,
+    "net_spread": 0.358036,
+    "fundingA": 1.2e-05,
+    "fundingB": 0.000798,
+    "volumeA": 5818548.0,
+    "volumeB": 48856080.0
+  },
+  {
+    "id": "Bybit:TRUTHUSDT:HTX:TRUTHUSDT",
+    "spread": 0.437528,
+    "net_spread": 0.357528,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1857613.8631,
+    "volumeB": 7625960.0
+  },
+  {
+    "id": "Gate.io:TRUSTUSDT:MEXC:TRUSTUSDT",
+    "spread": 0.434818,
+    "net_spread": 0.354818,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 98633.0,
+    "volumeB": 107385.03418
+  },
+  {
+    "id": "Bybit:AGIUSDT:Gate.io:AGIUSDT",
+    "spread": 0.433779,
+    "net_spread": 0.353779,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 195672.0954,
+    "volumeB": 18112.0
+  },
+  {
+    "id": "Bybit:PEAQUSDT:Gate.io:PEAQUSDT",
+    "spread": 0.433415,
+    "net_spread": 0.353415,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 368079.9612,
+    "volumeB": 25562.0
+  },
+  {
+    "id": "Bybit:SOLVUSDT:Gate.io:SOLVUSDT",
+    "spread": 0.432762,
+    "net_spread": 0.352762,
+    "fundingA": -0.000112,
+    "fundingB": 5e-05,
+    "volumeA": 346462.9578,
+    "volumeB": 70825.0
+  },
+  {
+    "id": "MEXC:DOODUSDT:OKX:DOODUSDT",
+    "spread": 0.431793,
+    "net_spread": 0.351793,
+    "fundingA": -0.002673,
+    "fundingB": -0.000836,
+    "volumeA": 684569.6311,
+    "volumeB": 10826278000.0
+  },
+  {
+    "id": "Bybit:OLUSDT:Bitget:OLUSDT",
+    "spread": 0.431655,
+    "net_spread": 0.351655,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 366760.6765,
+    "volumeB": 243537.9127
+  },
+  {
+    "id": "Bybit:HNTUSDT:MEXC:HNTUSDT",
+    "spread": 0.431555,
+    "net_spread": 0.351555,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 359342.1653,
+    "volumeB": 214170.4792
+  },
+  {
+    "id": "HTX:BEATUSDT:MEXC:BEATUSDT",
+    "spread": 0.430951,
+    "net_spread": 0.350951,
+    "fundingA": 0.000917,
+    "fundingB": 0.000237,
+    "volumeA": 2242000.0,
+    "volumeB": 15189355.5591
+  },
+  {
+    "id": "Bybit:TSTBSCUSDT:Gate.io:TSTBSCUSDT",
+    "spread": 0.430658,
+    "net_spread": 0.350658,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 124133.1386,
+    "volumeB": 19564.0
+  },
+  {
+    "id": "Bybit:RDNTUSDT:Gate.io:RDNTUSDT",
+    "spread": 0.429441,
+    "net_spread": 0.349441,
+    "fundingA": -0.002578,
+    "fundingB": -0.008422,
+    "volumeA": 1506503.4582,
+    "volumeB": 182563.0
+  },
+  {
+    "id": "Gate.io:RDNTUSDT:MEXC:RDNTUSDT",
+    "spread": 0.427604,
+    "net_spread": 0.347604,
+    "fundingA": -0.008422,
+    "fundingB": -0.00309,
+    "volumeA": 182563.0,
+    "volumeB": 274670.83169
+  },
+  {
+    "id": "Gate.io:INXUSDT:Bitget:INXUSDT",
+    "spread": 0.426927,
+    "net_spread": 0.346927,
+    "fundingA": 5e-05,
+    "fundingB": 0.000232,
+    "volumeA": 485810.0,
+    "volumeB": 2183983.83305
+  },
+  {
+    "id": "Gate.io:SIRENUSDT:MEXC:SIRENUSDT",
+    "spread": 0.426055,
+    "net_spread": 0.346055,
+    "fundingA": -0.000925,
+    "fundingB": -0.000309,
+    "volumeA": 47583802.0,
+    "volumeB": 21996432.2442
+  },
+  {
+    "id": "Gate.io:PIXELUSDT:MEXC:PIXELUSDT",
+    "spread": 0.425309,
+    "net_spread": 0.345309,
+    "fundingA": -0.001224,
+    "fundingB": -0.002379,
+    "volumeA": 1222316.0,
+    "volumeB": 1665117.83868
+  },
+  {
+    "id": "Bybit:ZBTUSDT:Bitget:ZBTUSDT",
+    "spread": 0.425139,
+    "net_spread": 0.345139,
+    "fundingA": 5e-05,
+    "fundingB": 0.000182,
+    "volumeA": 2334953.4637,
+    "volumeB": 917066.36069
+  },
+  {
+    "id": "Gate.io:ALICEUSDT:MEXC:ALICEUSDT",
+    "spread": 0.424929,
+    "net_spread": 0.344929,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 21488.0,
+    "volumeB": 119494.55152
+  },
+  {
+    "id": "Bitget:ZAMAUSDT:HTX:ZAMAUSDT",
+    "spread": 0.422222,
+    "net_spread": 0.342222,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 411767.57949,
+    "volumeB": 244240.0
+  },
+  {
+    "id": "HTX:ZAMAUSDT:OKX:ZAMAUSDT",
+    "spread": 0.420447,
+    "net_spread": 0.340447,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 244240.0,
+    "volumeB": 101389920.0
+  },
+  {
+    "id": "Bybit:XCNUSDT:Gate.io:XCNUSDT",
+    "spread": 0.419594,
+    "net_spread": 0.339594,
+    "fundingA": -0.001472,
+    "fundingB": -0.000566,
+    "volumeA": 660827.6264,
+    "volumeB": 12276.0
+  },
+  {
+    "id": "Bitget:HNTUSDT:MEXC:HNTUSDT",
+    "spread": 0.417633,
+    "net_spread": 0.337633,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 83624.8945,
+    "volumeB": 214170.4792
+  },
+  {
+    "id": "Gate.io:XPINUSDT:MEXC:XPINUSDT",
+    "spread": 0.417602,
+    "net_spread": 0.337602,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 186530.0,
+    "volumeB": 128631.295
+  },
+  {
+    "id": "Gate.io:DOODUSDT:OKX:DOODUSDT",
+    "spread": 0.4158,
+    "net_spread": 0.3358,
+    "fundingA": -0.005059,
+    "fundingB": -0.000836,
+    "volumeA": 754185.0,
+    "volumeB": 10826278000.0
+  },
+  {
+    "id": "Bybit:BUSDT:MEXC:BUSDT",
+    "spread": 0.414886,
+    "net_spread": 0.334886,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 200113.7347,
+    "volumeB": 202684.856
+  },
+  {
+    "id": "Bybit:LABUSDT:Bitget:LABUSDT",
+    "spread": 0.413015,
+    "net_spread": 0.333015,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2229786.1986,
+    "volumeB": 686263.24957
+  },
+  {
+    "id": "HTX:COREUSDT:OKX:COREUSDT",
+    "spread": 0.412882,
+    "net_spread": 0.332882,
+    "fundingA": 0.0001,
+    "fundingB": -0.000152,
+    "volumeA": 8348196.4,
+    "volumeB": 1148224731.0
+  },
+  {
+    "id": "Bybit:XAIUSDT:MEXC:XAIUSDT",
+    "spread": 0.412486,
+    "net_spread": 0.332486,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 295982.1084,
+    "volumeB": 277773.6534
+  },
+  {
+    "id": "Gate.io:RLSUSDT:Bitget:RLSUSDT",
+    "spread": 0.411711,
+    "net_spread": 0.331711,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 116453.0,
+    "volumeB": 67344.254983
+  },
+  {
+    "id": "Bybit:GUNUSDT:Gate.io:GUNUSDT",
+    "spread": 0.408614,
+    "net_spread": 0.328614,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2567967.6176,
+    "volumeB": 291473.0
+  },
+  {
+    "id": "Gate.io:XCNUSDT:MEXC:XCNUSDT",
+    "spread": 0.408163,
+    "net_spread": 0.328163,
+    "fundingA": -0.000566,
+    "fundingB": -0.00145,
+    "volumeA": 12276.0,
+    "volumeB": 148096.837
+  },
+  {
+    "id": "Bitget:RIVERUSDT:OKX:RIVERUSDT",
+    "spread": 0.407622,
+    "net_spread": 0.327622,
+    "fundingA": 5e-05,
+    "fundingB": 0.00127,
+    "volumeA": 40616892.014,
+    "volumeB": 18530159.7
+  },
+  {
+    "id": "Bybit:ALCHUSDT:MEXC:ALCHUSDT",
+    "spread": 0.407528,
+    "net_spread": 0.327528,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 416389.2395,
+    "volumeB": 650998.5216
+  },
+  {
+    "id": "Bitget:FRAXUSDT:MEXC:FRAXUSDT",
+    "spread": 0.407351,
+    "net_spread": 0.327351,
+    "fundingA": 8e-06,
+    "fundingB": 5e-05,
+    "volumeA": 109371.15373,
+    "volumeB": 114625.9242
+  },
+  {
+    "id": "Bybit:MEMEUSDT:HTX:MEMEUSDT",
+    "spread": 0.40715,
+    "net_spread": 0.32715,
+    "fundingA": -0.00031,
+    "fundingB": -0.000354,
+    "volumeA": 705370.4181,
+    "volumeB": 86786780.0
+  },
+  {
+    "id": "HTX:OKBUSDT:MEXC:OKBUSDT",
+    "spread": 0.406334,
+    "net_spread": 0.326334,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 2490.12,
+    "volumeB": 243867.976
+  },
+  {
+    "id": "Gate.io:LYNUSDT:Bitget:LYNUSDT",
+    "spread": 0.406158,
+    "net_spread": 0.326158,
+    "fundingA": 1.2e-05,
+    "fundingB": 0.000371,
+    "volumeA": 442629.0,
+    "volumeB": 2131251.189
+  },
+  {
+    "id": "Gate.io:MAVUSDT:Bitget:MAVUSDT",
+    "spread": 0.404858,
+    "net_spread": 0.324858,
+    "fundingA": -0.000695,
+    "fundingB": 0.0001,
+    "volumeA": 347836.0,
+    "volumeB": 141241.1564911
+  },
+  {
+    "id": "Gate.io:CARVUSDT:MEXC:CARVUSDT",
+    "spread": 0.404439,
+    "net_spread": 0.324439,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 15199.0,
+    "volumeB": 101077.8954
+  },
+  {
+    "id": "Bybit:FOLKSUSDT:Bitget:FOLKSUSDT",
+    "spread": 0.403877,
+    "net_spread": 0.323877,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1411940.5954,
+    "volumeB": 1077187.3252
+  },
+  {
+    "id": "Bybit:4USDT:Bitget:4USDT",
+    "spread": 0.403602,
+    "net_spread": 0.323602,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2235527.9422,
+    "volumeB": 715608.1083
+  },
+  {
+    "id": "Gate.io:BIRBUSDT:HTX:BIRBUSDT",
+    "spread": 0.403487,
+    "net_spread": 0.323487,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 309853.0,
+    "volumeB": 295840.0
+  },
+  {
+    "id": "Gate.io:BASUSDT:Bitget:BASUSDT",
+    "spread": 0.403476,
+    "net_spread": 0.323476,
+    "fundingA": 0.000296,
+    "fundingB": 5e-05,
+    "volumeA": 1091630.0,
+    "volumeB": 1693631.09509
+  },
+  {
+    "id": "Bybit:MAVUSDT:Gate.io:MAVUSDT",
+    "spread": 0.403226,
+    "net_spread": 0.323226,
+    "fundingA": 0.0001,
+    "fundingB": -0.000695,
+    "volumeA": 119198.7563,
+    "volumeB": 347836.0
+  },
+  {
+    "id": "Gate.io:BSVUSDT:HTX:BSVUSDT",
+    "spread": 0.401313,
+    "net_spread": 0.321313,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 551668.0,
+    "volumeB": 4394.08
+  },
+  {
+    "id": "Bybit:CETUSUSDT:MEXC:CETUSUSDT",
+    "spread": 0.39792,
+    "net_spread": 0.31792,
+    "fundingA": -0.003407,
+    "fundingB": -0.001608,
+    "volumeA": 10492605.4553,
+    "volumeB": 1685857.0821
+  },
+  {
+    "id": "MEXC:SOPHUSDT:OKX:SOPHUSDT",
+    "spread": 0.397578,
+    "net_spread": 0.317578,
+    "fundingA": -0.001272,
+    "fundingB": -0.000653,
+    "volumeA": 1074802.58968,
+    "volumeB": 1211395600.0
+  },
+  {
+    "id": "Bitget:KGENUSDT:MEXC:KGENUSDT",
+    "spread": 0.396318,
+    "net_spread": 0.316318,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 306840.65085,
+    "volumeB": 136071.2116
+  },
+  {
+    "id": "Gate.io:BANUSDT:MEXC:BANUSDT",
+    "spread": 0.396007,
+    "net_spread": 0.316007,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 453343.0,
+    "volumeB": 448743.5406
+  },
+  {
+    "id": "Gate.io:XAIUSDT:MEXC:XAIUSDT",
+    "spread": 0.395764,
+    "net_spread": 0.315764,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 223689.0,
+    "volumeB": 277773.6534
+  },
+  {
+    "id": "HTX:PIPPINUSDT:OKX:PIPPINUSDT",
+    "spread": 0.393953,
+    "net_spread": 0.313953,
+    "fundingA": 0.000798,
+    "fundingB": 5e-05,
+    "volumeA": 48856080.0,
+    "volumeB": 944644540.0
+  },
+  {
+    "id": "Bybit:IOSTUSDT:Gate.io:IOSTUSDT",
+    "spread": 0.392734,
+    "net_spread": 0.312734,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 124013.7475,
+    "volumeB": 41320.0
+  },
+  {
+    "id": "HTX:BEATUSDT:OKX:BEATUSDT",
+    "spread": 0.392022,
+    "net_spread": 0.312022,
+    "fundingA": 0.000917,
+    "fundingB": 0.000153,
+    "volumeA": 2242000.0,
+    "volumeB": 226921700.0
+  },
+  {
+    "id": "Bybit:SKRUSDT:HTX:SKRUSDT",
+    "spread": 0.391828,
+    "net_spread": 0.311828,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1681799.2137,
+    "volumeB": 1978980.0
+  },
+  {
+    "id": "Bitget:CLUSDT:OKX:CLUSDT",
+    "spread": 0.390073,
+    "net_spread": 0.310073,
+    "fundingA": 0.0,
+    "fundingB": -0.00122,
+    "volumeA": 20537764.48204,
+    "volumeB": 673593.3
+  },
+  {
+    "id": "Gate.io:ALLOUSDT:MEXC:ALLOUSDT",
+    "spread": 0.389936,
+    "net_spread": 0.309936,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 48763.0,
+    "volumeB": 132810.0699
+  },
+  {
+    "id": "Gate.io:SKRUSDT:HTX:SKRUSDT",
+    "spread": 0.389126,
+    "net_spread": 0.309126,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 142049.0,
+    "volumeB": 1978980.0
+  },
+  {
+    "id": "Bybit:AIOUSDT:MEXC:AIOUSDT",
+    "spread": 0.387506,
+    "net_spread": 0.307506,
+    "fundingA": 0.000148,
+    "fundingB": 5e-05,
+    "volumeA": 185075.9298,
+    "volumeB": 1379656.989
+  },
+  {
+    "id": "HTX:LAUSDT:OKX:LAUSDT",
+    "spread": 0.385781,
+    "net_spread": 0.305781,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 402932.0,
+    "volumeB": 8604020.0
+  },
+  {
+    "id": "Bitget:TACUSDT:MEXC:TACUSDT",
+    "spread": 0.385728,
+    "net_spread": 0.305728,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 64369.038215,
+    "volumeB": 119835.44672
+  },
+  {
+    "id": "Bitget:INXUSDT:MEXC:INXUSDT",
+    "spread": 0.385281,
+    "net_spread": 0.305281,
+    "fundingA": 0.000232,
+    "fundingB": 5e-05,
+    "volumeA": 2183983.83305,
+    "volumeB": 468995.578
+  },
+  {
+    "id": "Bybit:1000XECUSDT:Bitget:1000XECUSDT",
+    "spread": 0.384906,
+    "net_spread": 0.304906,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 18778.3447,
+    "volumeB": 8437.19963
+  },
+  {
+    "id": "Bybit:SENTUSDT:HTX:SENTUSDT",
+    "spread": 0.384305,
+    "net_spread": 0.304305,
+    "fundingA": 1.3e-05,
+    "fundingB": -0.000939,
+    "volumeA": 19593466.5401,
+    "volumeB": 16646400.0
+  },
+  {
+    "id": "Bybit:OLUSDT:MEXC:OLUSDT",
+    "spread": 0.383877,
+    "net_spread": 0.303877,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 366760.6765,
+    "volumeB": 165814.0486
+  },
+  {
+    "id": "Bybit:NAORISUSDT:MEXC:NAORISUSDT",
+    "spread": 0.382303,
+    "net_spread": 0.302303,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 581718.0923,
+    "volumeB": 308902.8666
+  },
+  {
+    "id": "HTX:SNXUSDT:OKX:SNXUSDT",
+    "spread": 0.381333,
+    "net_spread": 0.301333,
+    "fundingA": 0.0001,
+    "fundingB": -0.000181,
+    "volumeA": 111000.0,
+    "volumeB": 10919823.0
+  },
+  {
+    "id": "Bitget:ACXUSDT:MEXC:ACXUSDT",
+    "spread": 0.380499,
+    "net_spread": 0.300499,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 92741.74109,
+    "volumeB": 119746.70234
+  },
+  {
+    "id": "Gate.io:HEIUSDT:MEXC:HEIUSDT",
+    "spread": 0.378634,
+    "net_spread": 0.298634,
+    "fundingA": 5e-05,
+    "fundingB": -3.7e-05,
+    "volumeA": 192264.0,
+    "volumeB": 138300.7883
+  },
+  {
+    "id": "Bybit:ZAMAUSDT:HTX:ZAMAUSDT",
+    "spread": 0.377778,
+    "net_spread": 0.297778,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 359772.213,
+    "volumeB": 244240.0
+  },
+  {
+    "id": "Bitget:ZILUSDT:OKX:ZILUSDT",
+    "spread": 0.376901,
+    "net_spread": 0.296901,
+    "fundingA": 5e-05,
+    "fundingB": -0.000363,
+    "volumeA": 374130.083243,
+    "volumeB": 661258000.0
+  },
+  {
+    "id": "Gate.io:RIVERUSDT:OKX:RIVERUSDT",
+    "spread": 0.376023,
+    "net_spread": 0.296023,
+    "fundingA": 0.000874,
+    "fundingB": 0.00127,
+    "volumeA": 8895609.0,
+    "volumeB": 18530159.7
+  },
+  {
+    "id": "Bybit:EDUUSDT:MEXC:EDUUSDT",
+    "spread": 0.375107,
+    "net_spread": 0.295107,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 404461.0759,
+    "volumeB": 186144.8947
+  },
+  {
+    "id": "HTX:SENTUSDT:OKX:SENTUSDT",
+    "spread": 0.374833,
+    "net_spread": 0.294833,
+    "fundingA": -0.000939,
+    "fundingB": -0.000491,
+    "volumeA": 16646400.0,
+    "volumeB": 2625119700.0
+  },
+  {
+    "id": "Gate.io:DUSDT:MEXC:DUSDT",
+    "spread": 0.371722,
+    "net_spread": 0.291722,
+    "fundingA": -0.002594,
+    "fundingB": -0.000171,
+    "volumeA": 3875853.0,
+    "volumeB": 3160041.04614
+  },
+  {
+    "id": "Bitget:ZBTUSDT:MEXC:ZBTUSDT",
+    "spread": 0.371058,
+    "net_spread": 0.291058,
+    "fundingA": 0.000182,
+    "fundingB": 5e-05,
+    "volumeA": 917066.36069,
+    "volumeB": 551937.704
+  },
+  {
+    "id": "Bybit:OKBUSDT:HTX:OKBUSDT",
+    "spread": 0.368982,
+    "net_spread": 0.288982,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 555226.6035,
+    "volumeB": 2490.12
+  },
+  {
+    "id": "Bybit:COAIUSDT:OKX:COAIUSDT",
+    "spread": 0.3688,
+    "net_spread": 0.2888,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 706819.2079,
+    "volumeB": 2129113.1
+  },
+  {
+    "id": "Bybit:SPELLUSDT:Gate.io:SPELLUSDT",
+    "spread": 0.368437,
+    "net_spread": 0.288437,
+    "fundingA": 8.8e-05,
+    "fundingB": 0.0001,
+    "volumeA": 116671.2931,
+    "volumeB": 68197.0
+  },
+  {
+    "id": "Gate.io:LPTUSDT:HTX:LPTUSDT",
+    "spread": 0.368279,
+    "net_spread": 0.288279,
+    "fundingA": -7.8e-05,
+    "fundingB": 5e-05,
+    "volumeA": 92062.0,
+    "volumeB": 5296.6
+  },
+  {
+    "id": "Gate.io:SIRENUSDT:HTX:SIRENUSDT",
+    "spread": 0.365508,
+    "net_spread": 0.285508,
+    "fundingA": -0.000925,
+    "fundingB": -0.000136,
+    "volumeA": 47583802.0,
+    "volumeB": 2466720.0
+  },
+  {
+    "id": "Bybit:CHILLGUYUSDT:Gate.io:CHILLGUYUSDT",
+    "spread": 0.363535,
+    "net_spread": 0.283535,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 263158.2508,
+    "volumeB": 72381.0
+  },
+  {
+    "id": "Gate.io:LABUSDT:OKX:LABUSDT",
+    "spread": 0.363436,
+    "net_spread": 0.283436,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 122029.0,
+    "volumeB": 12950210.0
+  },
+  {
+    "id": "MEXC:COREUSDT:OKX:COREUSDT",
+    "spread": 0.363336,
+    "net_spread": 0.283336,
+    "fundingA": -0.000107,
+    "fundingB": -0.000152,
+    "volumeA": 4635660.35057,
+    "volumeB": 1148224731.0
+  },
+  {
+    "id": "Bitget:FOLKSUSDT:MEXC:FOLKSUSDT",
+    "spread": 0.362423,
+    "net_spread": 0.282423,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1077187.3252,
+    "volumeB": 546831.975
+  },
+  {
+    "id": "Bybit:VELOUSDT:Gate.io:VELOUSDT",
+    "spread": 0.361915,
+    "net_spread": 0.281915,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 118401.2099,
+    "volumeB": 40845.0
+  },
+  {
+    "id": "Gate.io:ZBCNUSDT:MEXC:ZBCNUSDT",
+    "spread": 0.361573,
+    "net_spread": 0.281573,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 32705.0,
+    "volumeB": 299599.9421
+  },
+  {
+    "id": "Gate.io:FOLKSUSDT:Bitget:FOLKSUSDT",
+    "spread": 0.361114,
+    "net_spread": 0.281114,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 260536.0,
+    "volumeB": 1077187.3252
+  },
+  {
+    "id": "Bitget:SOPHUSDT:OKX:SOPHUSDT",
+    "spread": 0.360878,
+    "net_spread": 0.280878,
+    "fundingA": -0.001164,
+    "fundingB": -0.000653,
+    "volumeA": 1537697.27412,
+    "volumeB": 1211395600.0
+  },
+  {
+    "id": "Bybit:ZBCNUSDT:Gate.io:ZBCNUSDT",
+    "spread": 0.36027,
+    "net_spread": 0.28027,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 799492.6897,
+    "volumeB": 32705.0
+  },
+  {
+    "id": "Bitget:LYNUSDT:MEXC:LYNUSDT",
+    "spread": 0.360224,
+    "net_spread": 0.280224,
+    "fundingA": 0.000371,
+    "fundingB": 0.000336,
+    "volumeA": 2131251.189,
+    "volumeB": 3254605.81957
+  },
+  {
+    "id": "HTX:EWYUSDT:MEXC:EWYUSDT",
+    "spread": 0.359665,
+    "net_spread": 0.279665,
+    "fundingA": 1.3e-05,
+    "fundingB": 0.000135,
+    "volumeA": 1404.42,
+    "volumeB": 133270.4344
+  },
+  {
+    "id": "HTX:TURBOUSDT:OKX:TURBOUSDT",
+    "spread": 0.358494,
+    "net_spread": 0.278494,
+    "fundingA": -0.001115,
+    "fundingB": -0.000133,
+    "volumeA": 67427600.0,
+    "volumeB": 4028462000.0
+  },
+  {
+    "id": "Bitget:KGENUSDT:HTX:KGENUSDT",
+    "spread": 0.355553,
+    "net_spread": 0.275553,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 306840.65085,
+    "volumeB": 152540.0
+  },
+  {
+    "id": "Gate.io:DIAUSDT:Bitget:DIAUSDT",
+    "spread": 0.353045,
+    "net_spread": 0.273045,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 201684.0,
+    "volumeB": 72817.6804
+  },
+  {
+    "id": "Gate.io:QUSDT:Bitget:QUSDT",
+    "spread": 0.352376,
+    "net_spread": 0.272376,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 399364.0,
+    "volumeB": 1204053.496542
+  },
+  {
+    "id": "Gate.io:FIOUSDT:MEXC:FIOUSDT",
+    "spread": 0.352257,
+    "net_spread": 0.272257,
+    "fundingA": 5e-05,
+    "fundingB": 5e-06,
+    "volumeA": 44679.0,
+    "volumeB": 130099.6914
+  },
+  {
+    "id": "Gate.io:FRAXUSDT:MEXC:FRAXUSDT",
+    "spread": 0.351165,
+    "net_spread": 0.271165,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 90002.0,
+    "volumeB": 114625.9242
+  },
+  {
+    "id": "HTX:EWYUSDT:OKX:EWYUSDT",
+    "spread": 0.351029,
+    "net_spread": 0.271029,
+    "fundingA": 1.3e-05,
+    "fundingB": 0.0,
+    "volumeA": 1404.42,
+    "volumeB": 7114.63
+  },
+  {
+    "id": "Gate.io:COREUSDT:OKX:COREUSDT",
+    "spread": 0.346821,
+    "net_spread": 0.266821,
+    "fundingA": -0.000613,
+    "fundingB": -0.000152,
+    "volumeA": 3888723.0,
+    "volumeB": 1148224731.0
+  },
+  {
+    "id": "Gate.io:CTSIUSDT:Bitget:CTSIUSDT",
+    "spread": 0.345702,
+    "net_spread": 0.265702,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 46294.0,
+    "volumeB": 132053.4804
+  },
+  {
+    "id": "Gate.io:CTSIUSDT:MEXC:CTSIUSDT",
+    "spread": 0.345702,
+    "net_spread": 0.265702,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 46294.0,
+    "volumeB": 106589.33452
+  },
+  {
+    "id": "Bybit:XNYUSDT:Gate.io:XNYUSDT",
+    "spread": 0.345281,
+    "net_spread": 0.265281,
+    "fundingA": 0.000991,
+    "fundingB": 5e-05,
+    "volumeA": 656586.8602,
+    "volumeB": 141636.0
+  },
+  {
+    "id": "Bybit:PTBUSDT:MEXC:PTBUSDT",
+    "spread": 0.343826,
+    "net_spread": 0.263826,
+    "fundingA": 0.001733,
+    "fundingB": 7.2e-05,
+    "volumeA": 8035028.4299,
+    "volumeB": 479964.30798
+  },
+  {
+    "id": "Bitget:LPTUSDT:HTX:LPTUSDT",
+    "spread": 0.343727,
+    "net_spread": 0.263727,
+    "fundingA": 1e-05,
+    "fundingB": 5e-05,
+    "volumeA": 217248.2618,
+    "volumeB": 5296.6
+  },
+  {
+    "id": "Bybit:IOSTUSDT:Bitget:IOSTUSDT",
+    "spread": 0.343474,
+    "net_spread": 0.263474,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 124013.7475,
+    "volumeB": 81879.616388
+  },
+  {
+    "id": "Gate.io:TACUSDT:Bitget:TACUSDT",
+    "spread": 0.343077,
+    "net_spread": 0.263077,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 27741.0,
+    "volumeB": 64369.038215
+  },
+  {
+    "id": "Bybit:RECALLUSDT:Gate.io:RECALLUSDT",
+    "spread": 0.34224,
+    "net_spread": 0.26224,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 446751.7449,
+    "volumeB": 64346.0
+  },
+  {
+    "id": "Gate.io:RENDERUSDT:OKX:RENDERUSDT",
+    "spread": 0.341957,
+    "net_spread": 0.261957,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1589931.0,
+    "volumeB": 4820172.0
+  },
+  {
+    "id": "Gate.io:ENJUSDT:OKX:ENJUSDT",
+    "spread": 0.341547,
+    "net_spread": 0.261547,
+    "fundingA": -0.000654,
+    "fundingB": -0.000214,
+    "volumeA": 1378642.0,
+    "volumeB": 608334190.0
+  },
+  {
+    "id": "Gate.io:CUSDT:MEXC:CUSDT",
+    "spread": 0.340872,
+    "net_spread": 0.260872,
+    "fundingA": 1.2e-05,
+    "fundingB": -0.000195,
+    "volumeA": 2932660.0,
+    "volumeB": 1790897.92
+  },
+  {
+    "id": "Gate.io:AVAUSDT:Bitget:AVAUSDT",
+    "spread": 0.340671,
+    "net_spread": 0.260671,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 14278.0,
+    "volumeB": 102039.3029
+  },
+  {
+    "id": "Gate.io:UAIUSDT:MEXC:UAIUSDT",
+    "spread": 0.340102,
+    "net_spread": 0.260102,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 645555.0,
+    "volumeB": 317588.0253
+  },
+  {
+    "id": "Gate.io:MAVIAUSDT:MEXC:MAVIAUSDT",
+    "spread": 0.339953,
+    "net_spread": 0.259953,
+    "fundingA": -0.000217,
+    "fundingB": 5e-05,
+    "volumeA": 120133.0,
+    "volumeB": 118137.13626
+  },
+  {
+    "id": "Gate.io:BLESSUSDT:Bitget:BLESSUSDT",
+    "spread": 0.339668,
+    "net_spread": 0.259668,
+    "fundingA": 0.000583,
+    "fundingB": 5e-05,
+    "volumeA": 539938.0,
+    "volumeB": 510796.887633
+  },
+  {
+    "id": "Gate.io:CETUSUSDT:Bitget:CETUSUSDT",
+    "spread": 0.339367,
+    "net_spread": 0.259367,
+    "fundingA": -0.001315,
+    "fundingB": -0.001322,
+    "volumeA": 2040697.0,
+    "volumeB": 6661940.83748
+  },
+  {
+    "id": "Gate.io:ALLOUSDT:OKX:ALLOUSDT",
+    "spread": 0.339046,
+    "net_spread": 0.259046,
+    "fundingA": 5e-05,
+    "fundingB": -0.000225,
+    "volumeA": 48763.0,
+    "volumeB": 10959220.0
+  },
+  {
+    "id": "MEXC:ZETAUSDT:OKX:ZETAUSDT",
+    "spread": 0.339019,
+    "net_spread": 0.259019,
+    "fundingA": -8e-05,
+    "fundingB": -0.000921,
+    "volumeA": 165998.6766,
+    "volumeB": 15191300.0
+  },
+  {
+    "id": "Bitget:TRUSTUSDT:MEXC:TRUSTUSDT",
+    "spread": 0.338191,
+    "net_spread": 0.258191,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 73366.30453,
+    "volumeB": 107385.03418
+  },
+  {
+    "id": "Gate.io:AGTUSDT:MEXC:AGTUSDT",
+    "spread": 0.337655,
+    "net_spread": 0.257655,
+    "fundingA": 5e-05,
+    "fundingB": 4.7e-05,
+    "volumeA": 515581.0,
+    "volumeB": 201365.7658
+  },
+  {
+    "id": "Bitget:MEMEUSDT:HTX:MEMEUSDT",
+    "spread": 0.337637,
+    "net_spread": 0.257637,
+    "fundingA": -7.8e-05,
+    "fundingB": -0.000354,
+    "volumeA": 445161.7698884,
+    "volumeB": 86786780.0
+  },
+  {
+    "id": "Bitget:OLUSDT:OKX:OLUSDT",
+    "spread": 0.336862,
+    "net_spread": 0.256862,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 243537.9127,
+    "volumeB": 68793900.0
+  },
+  {
+    "id": "Gate.io:QUSDT:MEXC:QUSDT",
+    "spread": 0.336413,
+    "net_spread": 0.256413,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 399364.0,
+    "volumeB": 104058.0739
+  },
+  {
+    "id": "Bybit:RLSUSDT:Bitget:RLSUSDT",
+    "spread": 0.335468,
+    "net_spread": 0.255468,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 56815.7505,
+    "volumeB": 67344.254983
+  },
+  {
+    "id": "Gate.io:ALLOUSDT:Bitget:ALLOUSDT",
+    "spread": 0.334417,
+    "net_spread": 0.254417,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 48763.0,
+    "volumeB": 101452.0719
+  },
+  {
+    "id": "Bybit:VELOUSDT:MEXC:VELOUSDT",
+    "spread": 0.333983,
+    "net_spread": 0.253983,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 118401.2099,
+    "volumeB": 136209.468
+  },
+  {
+    "id": "HTX:SKRUSDT:MEXC:SKRUSDT",
+    "spread": 0.333962,
+    "net_spread": 0.253962,
+    "fundingA": 5e-05,
+    "fundingB": -0.000127,
+    "volumeA": 1978980.0,
+    "volumeB": 344068.269
+  },
+  {
+    "id": "HTX:ZAMAUSDT:MEXC:ZAMAUSDT",
+    "spread": 0.332226,
+    "net_spread": 0.252226,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 244240.0,
+    "volumeB": 356980.8529
+  },
+  {
+    "id": "Bybit:COAIUSDT:MEXC:COAIUSDT",
+    "spread": 0.332042,
+    "net_spread": 0.252042,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 706819.2079,
+    "volumeB": 599503.7587
+  },
+  {
+    "id": "Gate.io:LAUSDT:HTX:LAUSDT",
+    "spread": 0.33195,
+    "net_spread": 0.25195,
+    "fundingA": -0.000687,
+    "fundingB": 5e-05,
+    "volumeA": 364891.0,
+    "volumeB": 402932.0
+  },
+  {
+    "id": "Bybit:DOGUSDT:Gate.io:DOGUSDT",
+    "spread": 0.330846,
+    "net_spread": 0.250846,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 428335.7717,
+    "volumeB": 116424.0
+  },
+  {
+    "id": "Gate.io:TUSDT:Bitget:TUSDT",
+    "spread": 0.328007,
+    "net_spread": 0.248007,
+    "fundingA": -0.00169,
+    "fundingB": -0.000344,
+    "volumeA": 6273.0,
+    "volumeB": 112507.7733
+  },
+  {
+    "id": "Gate.io:MEMEUSDT:HTX:MEMEUSDT",
+    "spread": 0.327706,
+    "net_spread": 0.247706,
+    "fundingA": -0.0002,
+    "fundingB": -0.000354,
+    "volumeA": 89681.0,
+    "volumeB": 86786780.0
+  },
+  {
+    "id": "Gate.io:CLANKERUSDT:MEXC:CLANKERUSDT",
+    "spread": 0.327332,
+    "net_spread": 0.247332,
+    "fundingA": 5e-05,
+    "fundingB": -0.000338,
+    "volumeA": 25936.0,
+    "volumeB": 118402.4725
+  },
+  {
+    "id": "Bitget:SPXUSDT:HTX:SPXUSDT",
+    "spread": 0.327175,
+    "net_spread": 0.247175,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 670139.073,
+    "volumeB": 142932.0
+  },
+  {
+    "id": "Bybit:IRYSUSDT:Bitget:IRYSUSDT",
+    "spread": 0.327151,
+    "net_spread": 0.247151,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1163165.9066,
+    "volumeB": 601634.33442
+  },
+  {
+    "id": "HTX:MEMEUSDT:MEXC:MEMEUSDT",
+    "spread": 0.326636,
+    "net_spread": 0.246636,
+    "fundingA": -0.000354,
+    "fundingB": -0.000211,
+    "volumeA": 86786780.0,
+    "volumeB": 265973.40055
+  },
+  {
+    "id": "Gate.io:AIXBTUSDT:OKX:AIXBTUSDT",
+    "spread": 0.326584,
+    "net_spread": 0.246584,
+    "fundingA": -0.001019,
+    "fundingB": -0.000106,
+    "volumeA": 264032.0,
+    "volumeB": 58774140.0
+  },
+  {
+    "id": "Gate.io:BASUSDT:MEXC:BASUSDT",
+    "spread": 0.326138,
+    "net_spread": 0.246138,
+    "fundingA": 0.000296,
+    "fundingB": 0.000314,
+    "volumeA": 1091630.0,
+    "volumeB": 805651.9245
+  },
+  {
+    "id": "Bitget:FLOCKUSDT:MEXC:FLOCKUSDT",
+    "spread": 0.326119,
+    "net_spread": 0.246119,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 192810.47571,
+    "volumeB": 114388.82396
+  },
+  {
+    "id": "Bybit:SOPHUSDT:MEXC:SOPHUSDT",
+    "spread": 0.325473,
+    "net_spread": 0.245473,
+    "fundingA": -0.001488,
+    "fundingB": -0.001272,
+    "volumeA": 6274235.0489,
+    "volumeB": 1074802.58968
+  },
+  {
+    "id": "Gate.io:DOGUSDT:MEXC:DOGUSDT",
+    "spread": 0.324859,
+    "net_spread": 0.244859,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 116424.0,
+    "volumeB": 2767539.961
+  },
+  {
+    "id": "Gate.io:NAORISUSDT:MEXC:NAORISUSDT",
+    "spread": 0.323724,
+    "net_spread": 0.243724,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1684012.0,
+    "volumeB": 308902.8666
+  },
+  {
+    "id": "Bybit:REZUSDT:Bitget:REZUSDT",
+    "spread": 0.323425,
+    "net_spread": 0.243425,
+    "fundingA": -0.003189,
+    "fundingB": -0.002046,
+    "volumeA": 558749.8576,
+    "volumeB": 563021.483596
+  },
+  {
+    "id": "Bybit:REZUSDT:MEXC:REZUSDT",
+    "spread": 0.323425,
+    "net_spread": 0.243425,
+    "fundingA": -0.003189,
+    "fundingB": -0.001855,
+    "volumeA": 558749.8576,
+    "volumeB": 304346.6285
+  },
+  {
+    "id": "HTX:OKBUSDT:OKX:OKBUSDT",
+    "spread": 0.322407,
+    "net_spread": 0.242407,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 2490.12,
+    "volumeB": 123981.53
+  },
+  {
+    "id": "Bybit:HFTUSDT:Bitget:HFTUSDT",
+    "spread": 0.321915,
+    "net_spread": 0.241915,
+    "fundingA": 0.000148,
+    "fundingB": 0.0001,
+    "volumeA": 332536.4314,
+    "volumeB": 85472.21269
+  },
+  {
+    "id": "Bitget:MUUSDT:OKX:MUUSDT",
+    "spread": 0.320726,
+    "net_spread": 0.240726,
+    "fundingA": 0.0,
+    "fundingB": 0.001425,
+    "volumeA": 8289233.2091,
+    "volumeB": 6282.91
+  },
+  {
+    "id": "Bybit:BLESSUSDT:Gate.io:BLESSUSDT",
+    "spread": 0.32022,
+    "net_spread": 0.24022,
+    "fundingA": 5e-05,
+    "fundingB": 0.000583,
+    "volumeA": 1390442.2804,
+    "volumeB": 539938.0
+  },
+  {
+    "id": "Gate.io:VELOUSDT:Bitget:VELOUSDT",
+    "spread": 0.319134,
+    "net_spread": 0.239134,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 40845.0,
+    "volumeB": 317603.35395
+  },
+  {
+    "id": "Bybit:LAUSDT:HTX:LAUSDT",
+    "spread": 0.318119,
+    "net_spread": 0.238119,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2884485.9787,
+    "volumeB": 402932.0
+  },
+  {
+    "id": "Bybit:RIVERUSDT:HTX:RIVERUSDT",
+    "spread": 0.317813,
+    "net_spread": 0.237813,
+    "fundingA": 0.001848,
+    "fundingB": 5e-05,
+    "volumeA": 106379457.1488,
+    "volumeB": 855247.6
+  },
+  {
+    "id": "Gate.io:EWYUSDT:HTX:EWYUSDT",
+    "spread": 0.317474,
+    "net_spread": 0.237474,
+    "fundingA": 0.0001,
+    "fundingB": 1.3e-05,
+    "volumeA": 351227.0,
+    "volumeB": 1404.42
+  },
+  {
+    "id": "Bybit:4USDT:Gate.io:4USDT",
+    "spread": 0.317153,
+    "net_spread": 0.237153,
+    "fundingA": 5e-05,
+    "fundingB": 0.001465,
+    "volumeA": 2235527.9422,
+    "volumeB": 1352137.0
+  },
+  {
+    "id": "HTX:ENAUSDT:OKX:ENAUSDT",
+    "spread": 0.316192,
+    "net_spread": 0.236192,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 11325690.0,
+    "volumeB": 181059990.0
+  },
+  {
+    "id": "Bybit:QUSDT:Gate.io:QUSDT",
+    "spread": 0.316117,
+    "net_spread": 0.236117,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1075376.0508,
+    "volumeB": 399364.0
+  },
+  {
+    "id": "Gate.io:MUBARAKUSDT:MEXC:MUBARAKUSDT",
+    "spread": 0.315884,
+    "net_spread": 0.235884,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 179539.0,
+    "volumeB": 176158.867
+  },
+  {
+    "id": "Gate.io:FHEUSDT:MEXC:FHEUSDT",
+    "spread": 0.31582,
+    "net_spread": 0.23582,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 312008.0,
+    "volumeB": 1122666.7465
+  },
+  {
+    "id": "Bitget:RECALLUSDT:OKX:RECALLUSDT",
+    "spread": 0.315457,
+    "net_spread": 0.235457,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 341321.88767,
+    "volumeB": 25410640.0
+  },
+  {
+    "id": "Gate.io:ZBTUSDT:Bitget:ZBTUSDT",
+    "spread": 0.314233,
+    "net_spread": 0.234233,
+    "fundingA": 0.0001,
+    "fundingB": 0.000182,
+    "volumeA": 307920.0,
+    "volumeB": 917066.36069
+  },
+  {
+    "id": "HTX:PIXELUSDT:MEXC:PIXELUSDT",
+    "spread": 0.314074,
+    "net_spread": 0.234074,
+    "fundingA": -0.002065,
+    "fundingB": -0.002379,
+    "volumeA": 14147400.0,
+    "volumeB": 1665117.83868
+  },
+  {
+    "id": "Bybit:CAMPUSDT:Gate.io:CAMPUSDT",
+    "spread": 0.312826,
+    "net_spread": 0.232826,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2510054.7957,
+    "volumeB": 109741.0
+  },
+  {
+    "id": "Gate.io:ZAMAUSDT:HTX:ZAMAUSDT",
+    "spread": 0.311111,
+    "net_spread": 0.231111,
+    "fundingA": -0.000304,
+    "fundingB": 5e-05,
+    "volumeA": 141910.0,
+    "volumeB": 244240.0
+  },
+  {
+    "id": "Gate.io:HEIUSDT:Bitget:HEIUSDT",
+    "spread": 0.310811,
+    "net_spread": 0.230811,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 192264.0,
+    "volumeB": 94481.9267
+  },
+  {
+    "id": "Gate.io:MUUSDT:OKX:MUUSDT",
+    "spread": 0.309881,
+    "net_spread": 0.229881,
+    "fundingA": 0.0,
+    "fundingB": 0.001425,
+    "volumeA": 1174999.0,
+    "volumeB": 6282.91
+  },
+  {
+    "id": "Bybit:SNXUSDT:HTX:SNXUSDT",
+    "spread": 0.30988,
+    "net_spread": 0.22988,
+    "fundingA": -0.000217,
+    "fundingB": 0.0001,
+    "volumeA": 2460355.769,
+    "volumeB": 111000.0
+  },
+  {
+    "id": "Bitget:SNXUSDT:OKX:SNXUSDT",
+    "spread": 0.308698,
+    "net_spread": 0.228698,
+    "fundingA": -0.000448,
+    "fundingB": -0.000181,
+    "volumeA": 334232.09375,
+    "volumeB": 10919823.0
+  },
+  {
+    "id": "MEXC:SNXUSDT:OKX:SNXUSDT",
+    "spread": 0.308698,
+    "net_spread": 0.228698,
+    "fundingA": -0.000299,
+    "fundingB": -0.000181,
+    "volumeA": 336290.3539,
+    "volumeB": 10919823.0
+  },
+  {
+    "id": "Gate.io:CUSDT:Bitget:CUSDT",
+    "spread": 0.307995,
+    "net_spread": 0.227995,
+    "fundingA": 1.2e-05,
+    "fundingB": -0.000325,
+    "volumeA": 2932660.0,
+    "volumeB": 5071147.88648
+  },
+  {
+    "id": "Gate.io:QTUMUSDT:Bitget:QTUMUSDT",
+    "spread": 0.30721,
+    "net_spread": 0.22721,
+    "fundingA": 0.0001,
+    "fundingB": -0.000255,
+    "volumeA": 37859.0,
+    "volumeB": 253263.7858
+  },
+  {
+    "id": "HTX:CRVUSDT:OKX:CRVUSDT",
+    "spread": 0.306387,
+    "net_spread": 0.226387,
+    "fundingA": 0.0001,
+    "fundingB": 3.3e-05,
+    "volumeA": 518468.0,
+    "volumeB": 102282276.0
+  },
+  {
+    "id": "Gate.io:ETHWUSDT:OKX:ETHWUSDT",
+    "spread": 0.306373,
+    "net_spread": 0.226373,
+    "fundingA": 5e-05,
+    "fundingB": -9.8e-05,
+    "volumeA": 50533.0,
+    "volumeB": 1300788.7
+  },
+  {
+    "id": "HTX:IPUSDT:OKX:IPUSDT",
+    "spread": 0.306053,
+    "net_spread": 0.226053,
+    "fundingA": -0.000682,
+    "fundingB": -3.8e-05,
+    "volumeA": 232918.0,
+    "volumeB": 26448060.0
+  },
+  {
+    "id": "Gate.io:CFGUSDT:HTX:CFGUSDT",
+    "spread": 0.305755,
+    "net_spread": 0.225755,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 840118.0,
+    "volumeB": 916920.0
+  },
+  {
+    "id": "Bybit:BROCCOLIUSDT:Bitget:BROCCOLIUSDT",
+    "spread": 0.305732,
+    "net_spread": 0.225732,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 194692.9319,
+    "volumeB": 312184.3702
+  },
+  {
+    "id": "Gate.io:SWARMSUSDT:MEXC:SWARMSUSDT",
+    "spread": 0.305466,
+    "net_spread": 0.225466,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 164987.0,
+    "volumeB": 130048.16177
+  },
+  {
+    "id": "Gate.io:BEATUSDT:Bitget:BEATUSDT",
+    "spread": 0.305117,
+    "net_spread": 0.225117,
+    "fundingA": 0.0001,
+    "fundingB": -0.000452,
+    "volumeA": 5078336.0,
+    "volumeB": 8704899.16072
+  },
+  {
+    "id": "Bybit:SYNUSDT:Bitget:SYNUSDT",
+    "spread": 0.304225,
+    "net_spread": 0.224225,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 51221.9662,
+    "volumeB": 69066.05238
+  },
+  {
+    "id": "Gate.io:INITUSDT:OKX:INITUSDT",
+    "spread": 0.30347,
+    "net_spread": 0.22347,
+    "fundingA": -0.000334,
+    "fundingB": -0.00036,
+    "volumeA": 82117.0,
+    "volumeB": 8259690.0
+  },
+  {
+    "id": "Gate.io:FUNUSDT:Bitget:FUNUSDT",
+    "spread": 0.303321,
+    "net_spread": 0.223321,
+    "fundingA": 5e-05,
+    "fundingB": 0.000187,
+    "volumeA": 63419.0,
+    "volumeB": 54624.43083
+  },
+  {
+    "id": "MEXC:RECALLUSDT:OKX:RECALLUSDT",
+    "spread": 0.302313,
+    "net_spread": 0.222313,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 217628.48666,
+    "volumeB": 25410640.0
+  },
+  {
+    "id": "Bitget:PIXELUSDT:HTX:PIXELUSDT",
+    "spread": 0.301936,
+    "net_spread": 0.221936,
+    "fundingA": -0.002467,
+    "fundingB": -0.002065,
+    "volumeA": 3604445.861515,
+    "volumeB": 14147400.0
+  },
+  {
+    "id": "Bybit:CUSDT:MEXC:CUSDT",
+    "spread": 0.30154,
+    "net_spread": 0.22154,
+    "fundingA": -0.000169,
+    "fundingB": -0.000195,
+    "volumeA": 6247683.6489,
+    "volumeB": 1790897.92
+  },
+  {
+    "id": "HTX:JUPUSDT:OKX:JUPUSDT",
+    "spread": 0.301104,
+    "net_spread": 0.221104,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1445098.0,
+    "volumeB": 54426740.0
+  },
+  {
+    "id": "Gate.io:DEGENUSDT:MEXC:DEGENUSDT",
+    "spread": 0.301001,
+    "net_spread": 0.221001,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 10303.0,
+    "volumeB": 114099.85856
+  },
+  {
+    "id": "Bitget:NAORISUSDT:MEXC:NAORISUSDT",
+    "spread": 0.300601,
+    "net_spread": 0.220601,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 901125.79274,
+    "volumeB": 308902.8666
+  },
+  {
+    "id": "Gate.io:SOPHUSDT:OKX:SOPHUSDT",
+    "spread": 0.299713,
+    "net_spread": 0.219713,
+    "fundingA": -0.003201,
+    "fundingB": -0.000653,
+    "volumeA": 788491.0,
+    "volumeB": 1211395600.0
+  },
+  {
+    "id": "Bybit:2ZUSDT:HTX:2ZUSDT",
+    "spread": 0.298673,
+    "net_spread": 0.218673,
+    "fundingA": -0.000374,
+    "fundingB": 5e-05,
+    "volumeA": 1022248.0524,
+    "volumeB": 334786.0
+  },
+  {
+    "id": "Gate.io:POWRUSDT:MEXC:POWRUSDT",
+    "spread": 0.297717,
+    "net_spread": 0.217717,
+    "fundingA": 5e-05,
+    "fundingB": 4.9e-05,
+    "volumeA": 12098.0,
+    "volumeB": 202590.6888
+  },
+  {
+    "id": "Gate.io:TRUSTUSDT:OKX:TRUSTUSDT",
+    "spread": 0.297523,
+    "net_spread": 0.217523,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 98633.0,
+    "volumeB": 2396210.0
+  },
+  {
+    "id": "Bybit:BEATUSDT:HTX:BEATUSDT",
+    "spread": 0.297475,
+    "net_spread": 0.217475,
+    "fundingA": 5e-05,
+    "fundingB": 0.000917,
+    "volumeA": 24751833.807,
+    "volumeB": 2242000.0
+  },
+  {
+    "id": "Bitget:RENDERUSDT:OKX:RENDERUSDT",
+    "spread": 0.297354,
+    "net_spread": 0.217354,
+    "fundingA": -1.9e-05,
+    "fundingB": 5e-05,
+    "volumeA": 4846725.5283,
+    "volumeB": 4820172.0
+  },
+  {
+    "id": "MEXC:RENDERUSDT:OKX:RENDERUSDT",
+    "spread": 0.297354,
+    "net_spread": 0.217354,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 9190237.73,
+    "volumeB": 4820172.0
+  },
+  {
+    "id": "Bybit:ACXUSDT:MEXC:ACXUSDT",
+    "spread": 0.297265,
+    "net_spread": 0.217265,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 98503.339,
+    "volumeB": 119746.70234
+  },
+  {
+    "id": "Gate.io:GRIFFAINUSDT:Bitget:GRIFFAINUSDT",
+    "spread": 0.29726,
+    "net_spread": 0.21726,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 119986.0,
+    "volumeB": 424831.72689
+  },
+  {
+    "id": "Bybit:BIRBUSDT:HTX:BIRBUSDT",
+    "spread": 0.296905,
+    "net_spread": 0.216905,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2099816.5151,
+    "volumeB": 295840.0
+  },
+  {
+    "id": "Bybit:TRUSTUSDT:Gate.io:TRUSTUSDT",
+    "spread": 0.296641,
+    "net_spread": 0.216641,
+    "fundingA": -0.000477,
+    "fundingB": 0.0001,
+    "volumeA": 214027.9135,
+    "volumeB": 98633.0
+  },
+  {
+    "id": "Gate.io:SENTUSDT:HTX:SENTUSDT",
+    "spread": 0.295619,
+    "net_spread": 0.215619,
+    "fundingA": -0.00043,
+    "fundingB": -0.000939,
+    "volumeA": 2552883.0,
+    "volumeB": 16646400.0
+  },
+  {
+    "id": "HTX:BSBUSDT:MEXC:BSBUSDT",
+    "spread": 0.295516,
+    "net_spread": 0.215516,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 3232280.0,
+    "volumeB": 6143209.1763
+  },
+  {
+    "id": "Bybit:ERAUSDT:Bitget:ERAUSDT",
+    "spread": 0.295341,
+    "net_spread": 0.215341,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 250916.1228,
+    "volumeB": 20906.8411
+  },
+  {
+    "id": "Gate.io:WAVESUSDT:HTX:WAVESUSDT",
+    "spread": 0.295239,
+    "net_spread": 0.215239,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 39610.0,
+    "volumeB": 102768.0
+  },
+  {
+    "id": "Bybit:QTUMUSDT:Bitget:QTUMUSDT",
+    "spread": 0.294671,
+    "net_spread": 0.214671,
+    "fundingA": 0.0001,
+    "fundingB": -0.000255,
+    "volumeA": 492824.4153,
+    "volumeB": 253263.7858
+  },
+  {
+    "id": "Bybit:BSBUSDT:HTX:BSBUSDT",
+    "spread": 0.294645,
+    "net_spread": 0.214645,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 33427517.6528,
+    "volumeB": 3232280.0
+  },
+  {
+    "id": "Bybit:IOSTUSDT:MEXC:IOSTUSDT",
+    "spread": 0.294262,
+    "net_spread": 0.214262,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 124013.7475,
+    "volumeB": 132884.0512
+  },
+  {
+    "id": "Bybit:LABUSDT:MEXC:LABUSDT",
+    "spread": 0.29405,
+    "net_spread": 0.21405,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2229786.1986,
+    "volumeB": 371548.334
+  },
+  {
+    "id": "Bybit:LYNUSDT:Gate.io:LYNUSDT",
+    "spread": 0.294006,
+    "net_spread": 0.214006,
+    "fundingA": 8.3e-05,
+    "fundingB": 1.2e-05,
+    "volumeA": 3773307.5475,
+    "volumeB": 442629.0
+  },
+  {
+    "id": "Bitget:BSBUSDT:HTX:BSBUSDT",
+    "spread": 0.292584,
+    "net_spread": 0.212584,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 9121368.22749,
+    "volumeB": 3232280.0
+  },
+  {
+    "id": "Bitget:VELOUSDT:MEXC:VELOUSDT",
+    "spread": 0.292235,
+    "net_spread": 0.212235,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 317603.35395,
+    "volumeB": 136209.468
+  },
+  {
+    "id": "Gate.io:ARCUSDT:Bitget:ARCUSDT",
+    "spread": 0.291868,
+    "net_spread": 0.211868,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 987210.0,
+    "volumeB": 1524213.49118
+  },
+  {
+    "id": "Gate.io:RSRUSDT:Bitget:RSRUSDT",
+    "spread": 0.291545,
+    "net_spread": 0.211545,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 174221.0,
+    "volumeB": 393735.515576
+  },
+  {
+    "id": "Gate.io:RSRUSDT:OKX:RSRUSDT",
+    "spread": 0.291545,
+    "net_spread": 0.211545,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 174221.0,
+    "volumeB": 516487600.0
+  },
+  {
+    "id": "Gate.io:CAMPUSDT:MEXC:CAMPUSDT",
+    "spread": 0.291121,
+    "net_spread": 0.211121,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 109741.0,
+    "volumeB": 409189.21767
+  },
+  {
+    "id": "Gate.io:OPENUSDT:Bitget:OPENUSDT",
+    "spread": 0.290792,
+    "net_spread": 0.210792,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 125598.0,
+    "volumeB": 147475.5579
+  },
+  {
+    "id": "Gate.io:GOATUSDT:MEXC:GOATUSDT",
+    "spread": 0.290617,
+    "net_spread": 0.210617,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1847631.0,
+    "volumeB": 2598351.3763
+  },
+  {
+    "id": "Gate.io:SNXUSDT:OKX:SNXUSDT",
+    "spread": 0.290539,
+    "net_spread": 0.210539,
+    "fundingA": 7.6e-05,
+    "fundingB": -0.000181,
+    "volumeA": 152577.0,
+    "volumeB": 10919823.0
+  },
+  {
+    "id": "HTX:SPXUSDT:MEXC:SPXUSDT",
+    "spread": 0.289519,
+    "net_spread": 0.209519,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 142932.0,
+    "volumeB": 3139492.5807
+  },
+  {
+    "id": "Bybit:VELVETUSDT:Bitget:VELVETUSDT",
+    "spread": 0.289512,
+    "net_spread": 0.209512,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 193060.1269,
+    "volumeB": 463611.84702
+  },
+  {
+    "id": "Bybit:VELVETUSDT:MEXC:VELVETUSDT",
+    "spread": 0.289512,
+    "net_spread": 0.209512,
+    "fundingA": 5e-05,
+    "fundingB": 0.000134,
+    "volumeA": 193060.1269,
+    "volumeB": 274078.3212
+  },
+  {
+    "id": "Gate.io:RLSUSDT:MEXC:RLSUSDT",
+    "spread": 0.289369,
+    "net_spread": 0.209369,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 116453.0,
+    "volumeB": 110064.25497
+  },
+  {
+    "id": "Bybit:AVAUSDT:Gate.io:AVAUSDT",
+    "spread": 0.289245,
+    "net_spread": 0.209245,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 195253.8612,
+    "volumeB": 14278.0
+  },
+  {
+    "id": "Bybit:DOODUSDT:Bitget:DOODUSDT",
+    "spread": 0.289157,
+    "net_spread": 0.209157,
+    "fundingA": -0.001689,
+    "fundingB": -0.002365,
+    "volumeA": 11764360.7209,
+    "volumeB": 3164905.931439
+  },
+  {
+    "id": "Bybit:RIVERUSDT:MEXC:RIVERUSDT",
+    "spread": 0.289128,
+    "net_spread": 0.209128,
+    "fundingA": 0.001848,
+    "fundingB": 5e-05,
+    "volumeA": 106379457.1488,
+    "volumeB": 41910888.9578
+  },
+  {
+    "id": "Bitget:RLSUSDT:OKX:RLSUSDT",
+    "spread": 0.288886,
+    "net_spread": 0.208886,
+    "fundingA": 5e-05,
+    "fundingB": 0.000412,
+    "volumeA": 67344.254983,
+    "volumeB": 41181200.0
+  },
+  {
+    "id": "Gate.io:ALCHUSDT:HTX:ALCHUSDT",
+    "spread": 0.288803,
+    "net_spread": 0.208803,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 105247.0,
+    "volumeB": 407480.0
+  },
+  {
+    "id": "MEXC:OLUSDT:OKX:OLUSDT",
+    "spread": 0.288739,
+    "net_spread": 0.208739,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 165814.0486,
+    "volumeB": 68793900.0
+  },
+  {
+    "id": "Bybit:SPXUSDT:HTX:SPXUSDT",
+    "spread": 0.288684,
+    "net_spread": 0.208684,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 4946203.1547,
+    "volumeB": 142932.0
+  },
+  {
+    "id": "Bybit:SOPHUSDT:Bitget:SOPHUSDT",
+    "spread": 0.288521,
+    "net_spread": 0.208521,
+    "fundingA": -0.001488,
+    "fundingB": -0.001164,
+    "volumeA": 6274235.0489,
+    "volumeB": 1537697.27412
+  },
+  {
+    "id": "Gate.io:DUSKUSDT:MEXC:DUSKUSDT",
+    "spread": 0.288144,
+    "net_spread": 0.208144,
+    "fundingA": 0.0001,
+    "fundingB": -1.4e-05,
+    "volumeA": 90356.0,
+    "volumeB": 662356.7005
+  },
+  {
+    "id": "Bybit:OPENUSDT:Gate.io:OPENUSDT",
+    "spread": 0.286727,
+    "net_spread": 0.206727,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 2378212.2672,
+    "volumeB": 125598.0
+  },
+  {
+    "id": "Bybit:SKLUSDT:Gate.io:SKLUSDT",
+    "spread": 0.286707,
+    "net_spread": 0.206707,
+    "fundingA": 0.0001,
+    "fundingB": 1.7e-05,
+    "volumeA": 114144.963,
+    "volumeB": 81351.0
+  },
+  {
+    "id": "Bybit:SKLUSDT:Bitget:SKLUSDT",
+    "spread": 0.286707,
+    "net_spread": 0.206707,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 114144.963,
+    "volumeB": 46266.17593
+  },
+  {
+    "id": "Bybit:SKLUSDT:MEXC:SKLUSDT",
+    "spread": 0.286707,
+    "net_spread": 0.206707,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 114144.963,
+    "volumeB": 106602.3105
+  },
+  {
+    "id": "HTX:PIUSDT:OKX:PIUSDT",
+    "spread": 0.286287,
+    "net_spread": 0.206287,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 497588.0,
+    "volumeB": 32580756.0
+  },
+  {
+    "id": "Bybit:AKTUSDT:Gate.io:AKTUSDT",
+    "spread": 0.286065,
+    "net_spread": 0.206065,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2750486.4168,
+    "volumeB": 271758.0
+  },
+  {
+    "id": "Gate.io:SUNUSDT:HTX:SUNUSDT",
+    "spread": 0.285594,
+    "net_spread": 0.205594,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 50081.0,
+    "volumeB": 10551200.0
+  },
+  {
+    "id": "Bitget:MOODENGUSDT:OKX:MOODENGUSDT",
+    "spread": 0.285557,
+    "net_spread": 0.205557,
+    "fundingA": -0.000515,
+    "fundingB": -0.000127,
+    "volumeA": 1844866.64997,
+    "volumeB": 191235100.0
+  },
+  {
+    "id": "Gate.io:ARIAUSDT:MEXC:ARIAUSDT",
+    "spread": 0.285422,
+    "net_spread": 0.205422,
+    "fundingA": -3.1e-05,
+    "fundingB": -0.000366,
+    "volumeA": 1328375.0,
+    "volumeB": 13184341.9515
+  },
+  {
+    "id": "Gate.io:2ZUSDT:HTX:2ZUSDT",
+    "spread": 0.284782,
+    "net_spread": 0.204782,
+    "fundingA": -0.000142,
+    "fundingB": 5e-05,
+    "volumeA": 112052.0,
+    "volumeB": 334786.0
+  },
+  {
+    "id": "Bybit:KNCUSDT:MEXC:KNCUSDT",
+    "spread": 0.284486,
+    "net_spread": 0.204486,
+    "fundingA": -0.000965,
+    "fundingB": -0.001397,
+    "volumeA": 2131048.3276,
+    "volumeB": 289144.20904
+  },
+  {
+    "id": "Bybit:CVXUSDT:Gate.io:CVXUSDT",
+    "spread": 0.284207,
+    "net_spread": 0.204207,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 831202.8012,
+    "volumeB": 71752.0
+  },
+  {
+    "id": "Bybit:CVXUSDT:MEXC:CVXUSDT",
+    "spread": 0.284207,
+    "net_spread": 0.204207,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 831202.8012,
+    "volumeB": 701204.459
+  },
+  {
+    "id": "Gate.io:ZILUSDT:Bitget:ZILUSDT",
+    "spread": 0.283745,
+    "net_spread": 0.203745,
+    "fundingA": -8.7e-05,
+    "fundingB": 5e-05,
+    "volumeA": 143742.0,
+    "volumeB": 374130.083243
+  },
+  {
+    "id": "Bybit:WALUSDT:Gate.io:WALUSDT",
+    "spread": 0.283327,
+    "net_spread": 0.203327,
+    "fundingA": -6.4e-05,
+    "fundingB": 5e-05,
+    "volumeA": 848640.7534,
+    "volumeB": 43247.0
+  },
+  {
+    "id": "Bybit:SWARMSUSDT:Gate.io:SWARMSUSDT",
+    "spread": 0.283165,
+    "net_spread": 0.203165,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 292455.4315,
+    "volumeB": 164987.0
+  },
+  {
+    "id": "Bybit:PIPPINUSDT:HTX:PIPPINUSDT",
+    "spread": 0.282898,
+    "net_spread": 0.202898,
+    "fundingA": 5e-05,
+    "fundingB": 0.000798,
+    "volumeA": 15553532.7028,
+    "volumeB": 48856080.0
+  },
+  {
+    "id": "HTX:ARBUSDT:OKX:ARBUSDT",
+    "spread": 0.282689,
+    "net_spread": 0.202689,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 5942710.0,
+    "volumeB": 139656307.0
+  },
+  {
+    "id": "Bybit:RSRUSDT:Gate.io:RSRUSDT",
+    "spread": 0.282651,
+    "net_spread": 0.202651,
+    "fundingA": -4e-05,
+    "fundingB": 0.0001,
+    "volumeA": 263981.0484,
+    "volumeB": 174221.0
+  },
+  {
+    "id": "Bybit:SYSUSDT:Gate.io:SYSUSDT",
+    "spread": 0.281549,
+    "net_spread": 0.201549,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 21521.4322,
+    "volumeB": 27185.0
+  },
+  {
+    "id": "Bitget:QTUMUSDT:OKX:QTUMUSDT",
+    "spread": 0.281338,
+    "net_spread": 0.201338,
+    "fundingA": -0.000255,
+    "fundingB": -8.6e-05,
+    "volumeA": 253263.7858,
+    "volumeB": 946784.0
+  },
+  {
+    "id": "HTX:POWERUSDT:MEXC:POWERUSDT",
+    "spread": 0.281071,
+    "net_spread": 0.201071,
+    "fundingA": 5e-05,
+    "fundingB": 0.000303,
+    "volumeA": 1742940.0,
+    "volumeB": 2050361.49514
+  },
+  {
+    "id": "Gate.io:ICNTUSDT:Bitget:ICNTUSDT",
+    "spread": 0.281057,
+    "net_spread": 0.201057,
+    "fundingA": 0.0001,
+    "fundingB": -0.00021,
+    "volumeA": 969469.0,
+    "volumeB": 898953.8055
+  },
+  {
+    "id": "Gate.io:USUSDT:MEXC:USUSDT",
+    "spread": 0.280935,
+    "net_spread": 0.200935,
+    "fundingA": 5e-05,
+    "fundingB": 0.000315,
+    "volumeA": 135635.0,
+    "volumeB": 803092.81721
+  },
+  {
+    "id": "Gate.io:SSVUSDT:HTX:SSVUSDT",
+    "spread": 0.278616,
+    "net_spread": 0.198616,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 151887.0,
+    "volumeB": 49821.1
+  },
+  {
+    "id": "Gate.io:PARTIUSDT:Bitget:PARTIUSDT",
+    "spread": 0.276673,
+    "net_spread": 0.196673,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 195091.0,
+    "volumeB": 415474.932297
+  },
+  {
+    "id": "Bitget:BUSDT:MEXC:BUSDT",
+    "spread": 0.27659,
+    "net_spread": 0.19659,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 221192.501,
+    "volumeB": 202684.856
+  },
+  {
+    "id": "Bybit:KGENUSDT:MEXC:KGENUSDT",
+    "spread": 0.276144,
+    "net_spread": 0.196144,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 288853.1855,
+    "volumeB": 136071.2116
+  },
+  {
+    "id": "HTX:LAUSDT:MEXC:LAUSDT",
+    "spread": 0.275862,
+    "net_spread": 0.195862,
+    "fundingA": 5e-05,
+    "fundingB": -0.000286,
+    "volumeA": 402932.0,
+    "volumeB": 220739.2617
+  },
+  {
+    "id": "Gate.io:CFGUSDT:Bitget:CFGUSDT",
+    "spread": 0.275697,
+    "net_spread": 0.195697,
+    "fundingA": 5e-05,
+    "fundingB": -0.000312,
+    "volumeA": 840118.0,
+    "volumeB": 3325631.63317
+  },
+  {
+    "id": "Gate.io:AWEUSDT:Bitget:AWEUSDT",
+    "spread": 0.274838,
+    "net_spread": 0.194838,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 151388.0,
+    "volumeB": 120620.826291
+  },
+  {
+    "id": "Gate.io:TURBOUSDT:HTX:TURBOUSDT",
+    "spread": 0.274835,
+    "net_spread": 0.194835,
+    "fundingA": -0.000492,
+    "fundingB": -0.001115,
+    "volumeA": 958785.0,
+    "volumeB": 67427600.0
+  },
+  {
+    "id": "Bybit:DOODUSDT:MEXC:DOODUSDT",
+    "spread": 0.273049,
+    "net_spread": 0.193049,
+    "fundingA": -0.001689,
+    "fundingB": -0.002673,
+    "volumeA": 11764360.7209,
+    "volumeB": 684569.6311
+  },
+  {
+    "id": "Bitget:ORDIUSDT:HTX:ORDIUSDT",
+    "spread": 0.272541,
+    "net_spread": 0.192541,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1281954.4979,
+    "volumeB": 98278.4
+  },
+  {
+    "id": "Bitget:ZBTUSDT:OKX:ZBTUSDT",
+    "spread": 0.27184,
+    "net_spread": 0.19184,
+    "fundingA": 0.000182,
+    "fundingB": 5e-05,
+    "volumeA": 917066.36069,
+    "volumeB": 25544986.0
+  },
+  {
+    "id": "Bybit:INXUSDT:Bitget:INXUSDT",
+    "spread": 0.271681,
+    "net_spread": 0.191681,
+    "fundingA": 5e-05,
+    "fundingB": 0.000232,
+    "volumeA": 1405739.8457,
+    "volumeB": 2183983.83305
+  },
+  {
+    "id": "Gate.io:CETUSUSDT:MEXC:CETUSUSDT",
+    "spread": 0.271309,
+    "net_spread": 0.191309,
+    "fundingA": -0.001315,
+    "fundingB": -0.001608,
+    "volumeA": 2040697.0,
+    "volumeB": 1685857.0821
+  },
+  {
+    "id": "Bybit:INITUSDT:Gate.io:INITUSDT",
+    "spread": 0.271308,
+    "net_spread": 0.191308,
+    "fundingA": -0.000326,
+    "fundingB": -0.000334,
+    "volumeA": 6463492.9879,
+    "volumeB": 82117.0
+  },
+  {
+    "id": "Gate.io:JCTUSDT:MEXC:JCTUSDT",
+    "spread": 0.271172,
+    "net_spread": 0.191172,
+    "fundingA": 0.000324,
+    "fundingB": 5e-05,
+    "volumeA": 84002.0,
+    "volumeB": 144774.0905
+  },
+  {
+    "id": "Bybit:KATUSDT:HTX:KATUSDT",
+    "spread": 0.271125,
+    "net_spread": 0.191125,
+    "fundingA": -0.000819,
+    "fundingB": -0.000247,
+    "volumeA": 4135504.2702,
+    "volumeB": 6051600.0
+  },
+  {
+    "id": "Gate.io:KATUSDT:HTX:KATUSDT",
+    "spread": 0.271125,
+    "net_spread": 0.191125,
+    "fundingA": -0.00049,
+    "fundingB": -0.000247,
+    "volumeA": 1049016.0,
+    "volumeB": 6051600.0
+  },
+  {
+    "id": "Gate.io:MUBARAKUSDT:Bitget:MUBARAKUSDT",
+    "spread": 0.270636,
+    "net_spread": 0.190636,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 179539.0,
+    "volumeB": 146883.88364
+  },
+  {
+    "id": "Gate.io:TRIAUSDT:Bitget:TRIAUSDT",
+    "spread": 0.270598,
+    "net_spread": 0.190598,
+    "fundingA": 0.000396,
+    "fundingB": 5e-05,
+    "volumeA": 1101075.0,
+    "volumeB": 3976867.203752
+  },
+  {
+    "id": "Bybit:ICNTUSDT:Gate.io:ICNTUSDT",
+    "spread": 0.270575,
+    "net_spread": 0.190575,
+    "fundingA": 1.9e-05,
+    "fundingB": 0.0001,
+    "volumeA": 3228887.6254,
+    "volumeB": 969469.0
+  },
+  {
+    "id": "HTX:KATUSDT:OKX:KATUSDT",
+    "spread": 0.270392,
+    "net_spread": 0.190392,
+    "fundingA": -0.000247,
+    "fundingB": -0.00037,
+    "volumeA": 6051600.0,
+    "volumeB": 1752557100.0
+  },
+  {
+    "id": "Gate.io:ENJUSDT:Bitget:ENJUSDT",
+    "spread": 0.270005,
+    "net_spread": 0.190005,
+    "fundingA": -0.000654,
+    "fundingB": -0.002285,
+    "volumeA": 1378642.0,
+    "volumeB": 1126829.976763
+  },
+  {
+    "id": "HTX:AXSUSDT:OKX:AXSUSDT",
+    "spread": 0.269772,
+    "net_spread": 0.189772,
+    "fundingA": 5e-05,
+    "fundingB": -0.00041,
+    "volumeA": 106442.6,
+    "volumeB": 4952562.7
+  },
+  {
+    "id": "HTX:SUNUSDT:MEXC:SUNUSDT",
+    "spread": 0.269519,
+    "net_spread": 0.189519,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 10551200.0,
+    "volumeB": 521324.386
+  },
+  {
+    "id": "MEXC:LITUSDT:OKX:LITUSDT",
+    "spread": 0.269272,
+    "net_spread": 0.189272,
+    "fundingA": -4.2e-05,
+    "fundingB": -3.8e-05,
+    "volumeA": 1787382.79829,
+    "volumeB": 7294180.0
+  },
+  {
+    "id": "Bybit:TRUTHUSDT:MEXC:TRUTHUSDT",
+    "spread": 0.268938,
+    "net_spread": 0.188938,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1857613.8631,
+    "volumeB": 360675.6313
+  },
+  {
+    "id": "Bitget:TURBOUSDT:OKX:TURBOUSDT",
+    "spread": 0.268871,
+    "net_spread": 0.188871,
+    "fundingA": -0.00056,
+    "fundingB": -0.000133,
+    "volumeA": 661092.577547,
+    "volumeB": 4028462000.0
+  },
+  {
+    "id": "Bybit:CUSDT:Bitget:CUSDT",
+    "spread": 0.268676,
+    "net_spread": 0.188676,
+    "fundingA": -0.000169,
+    "fundingB": -0.000325,
+    "volumeA": 6247683.6489,
+    "volumeB": 5071147.88648
+  },
+  {
+    "id": "Bybit:USUSDT:MEXC:USUSDT",
+    "spread": 0.268165,
+    "net_spread": 0.188165,
+    "fundingA": 5e-05,
+    "fundingB": 0.000315,
+    "volumeA": 830996.5018,
+    "volumeB": 803092.81721
+  },
+  {
+    "id": "Bybit:FORMUSDT:MEXC:FORMUSDT",
+    "spread": 0.268149,
+    "net_spread": 0.188149,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 503616.8491,
+    "volumeB": 231554.6744
+  },
+  {
+    "id": "Bybit:PRLUSDT:Gate.io:PRLUSDT",
+    "spread": 0.268114,
+    "net_spread": 0.188114,
+    "fundingA": -7.3e-05,
+    "fundingB": -0.00045,
+    "volumeA": 8241257.3028,
+    "volumeB": 2237155.0
+  },
+  {
+    "id": "HTX:SENTUSDT:MEXC:SENTUSDT",
+    "spread": 0.268025,
+    "net_spread": 0.188025,
+    "fundingA": -0.000939,
+    "fundingB": -0.000504,
+    "volumeA": 16646400.0,
+    "volumeB": 1309067.1533
+  },
+  {
+    "id": "Bitget:JUPUSDT:OKX:JUPUSDT",
+    "spread": 0.267648,
+    "net_spread": 0.187648,
+    "fundingA": -5.3e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1920943.2816,
+    "volumeB": 54426740.0
+  },
+  {
+    "id": "Bybit:NFPUSDT:Gate.io:NFPUSDT",
+    "spread": 0.267118,
+    "net_spread": 0.187118,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 24888.3169,
+    "volumeB": 101560.0
+  },
+  {
+    "id": "Gate.io:ARKMUSDT:MEXC:ARKMUSDT",
+    "spread": 0.266383,
+    "net_spread": 0.186383,
+    "fundingA": 0.0001,
+    "fundingB": -0.000869,
+    "volumeA": 83256.0,
+    "volumeB": 711175.449
+  },
+  {
+    "id": "Bybit:PHAUSDT:Bitget:PHAUSDT",
+    "spread": 0.266347,
+    "net_spread": 0.186347,
+    "fundingA": -0.002099,
+    "fundingB": -0.000898,
+    "volumeA": 1714793.5366,
+    "volumeB": 909507.91123
+  },
+  {
+    "id": "Bybit:PIPPINUSDT:Bitget:PIPPINUSDT",
+    "spread": 0.266104,
+    "net_spread": 0.186104,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 15553532.7028,
+    "volumeB": 7187151.59669
+  },
+  {
+    "id": "Bybit:SAHARAUSDT:Bitget:SAHARAUSDT",
+    "spread": 0.265857,
+    "net_spread": 0.185857,
+    "fundingA": -0.001755,
+    "fundingB": -0.001241,
+    "volumeA": 7256707.2632,
+    "volumeB": 1483191.95613
+  },
+  {
+    "id": "Bitget:OGNUSDT:MEXC:OGNUSDT",
+    "spread": 0.26506,
+    "net_spread": 0.18506,
+    "fundingA": -0.000129,
+    "fundingB": -0.000189,
+    "volumeA": 562107.24337,
+    "volumeB": 712357.1502
+  },
+  {
+    "id": "Bitget:ZETAUSDT:OKX:ZETAUSDT",
+    "spread": 0.264859,
+    "net_spread": 0.184859,
+    "fundingA": 5e-05,
+    "fundingB": -0.000921,
+    "volumeA": 313364.29704,
+    "volumeB": 15191300.0
+  },
+  {
+    "id": "HTX:ROBOUSDT:OKX:ROBOUSDT",
+    "spread": 0.264842,
+    "net_spread": 0.184842,
+    "fundingA": -0.000657,
+    "fundingB": -0.000789,
+    "volumeA": 4474700.0,
+    "volumeB": 536304000.0
+  },
+  {
+    "id": "HTX:GALAUSDT:OKX:GALAUSDT",
+    "spread": 0.264784,
+    "net_spread": 0.184784,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 28085240.0,
+    "volumeB": 7832032100.0
+  },
+  {
+    "id": "MEXC:GALAUSDT:OKX:GALAUSDT",
+    "spread": 0.264784,
+    "net_spread": 0.184784,
+    "fundingA": 6e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2679136.0092,
+    "volumeB": 7832032100.0
+  },
+  {
+    "id": "Gate.io:POWRUSDT:Bitget:POWRUSDT",
+    "spread": 0.264725,
+    "net_spread": 0.184725,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 12098.0,
+    "volumeB": 60554.63296
+  },
+  {
+    "id": "HTX:MOODENGUSDT:OKX:MOODENGUSDT",
+    "spread": 0.263591,
+    "net_spread": 0.183591,
+    "fundingA": -0.000252,
+    "fundingB": -0.000127,
+    "volumeA": 5865960.0,
+    "volumeB": 191235100.0
+  },
+  {
+    "id": "Gate.io:我踏马来了USDT:HTX:我踏马来了USDT",
+    "spread": 0.263574,
+    "net_spread": 0.183574,
+    "fundingA": 8.5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 522688.0,
+    "volumeB": 36702200.0
+  },
+  {
+    "id": "Bybit:BANKUSDT:MEXC:BANKUSDT",
+    "spread": 0.263442,
+    "net_spread": 0.183442,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 200195.3276,
+    "volumeB": 345843.984
+  },
+  {
+    "id": "Gate.io:BTRUSDT:MEXC:BTRUSDT",
+    "spread": 0.263418,
+    "net_spread": 0.183418,
+    "fundingA": 0.0001,
+    "fundingB": 0.000114,
+    "volumeA": 782764.0,
+    "volumeB": 203026.5022
+  },
+  {
+    "id": "Bybit:CARVUSDT:Bitget:CARVUSDT",
+    "spread": 0.263257,
+    "net_spread": 0.183257,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 200193.3333,
+    "volumeB": 79754.19308
+  },
+  {
+    "id": "HTX:2ZUSDT:OKX:2ZUSDT",
+    "spread": 0.263249,
+    "net_spread": 0.183249,
+    "fundingA": 5e-05,
+    "fundingB": -0.000679,
+    "volumeA": 334786.0,
+    "volumeB": 15873840.0
+  },
+  {
+    "id": "Bitget:SUNUSDT:HTX:SUNUSDT",
+    "spread": 0.263195,
+    "net_spread": 0.183195,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 315962.51867,
+    "volumeB": 10551200.0
+  },
+  {
+    "id": "Gate.io:GOATUSDT:Bitget:GOATUSDT",
+    "spread": 0.263012,
+    "net_spread": 0.183012,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1847631.0,
+    "volumeB": 3272636.9086
+  },
+  {
+    "id": "Gate.io:SKYAIUSDT:Bitget:SKYAIUSDT",
+    "spread": 0.262834,
+    "net_spread": 0.182834,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 343155.0,
+    "volumeB": 185323.89612
+  },
+  {
+    "id": "Gate.io:ARIAUSDT:Bitget:ARIAUSDT",
+    "spread": 0.26283,
+    "net_spread": 0.18283,
+    "fundingA": -3.1e-05,
+    "fundingB": -2.3e-05,
+    "volumeA": 1328375.0,
+    "volumeB": 6327516.38482
+  },
+  {
+    "id": "Gate.io:XNYUSDT:MEXC:XNYUSDT",
+    "spread": 0.262381,
+    "net_spread": 0.182381,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 141636.0,
+    "volumeB": 199417.9266
+  },
+  {
+    "id": "Gate.io:AVAUSDT:MEXC:AVAUSDT",
+    "spread": 0.262261,
+    "net_spread": 0.182261,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 14278.0,
+    "volumeB": 180433.9456
+  },
+  {
+    "id": "Bybit:MUBARAKUSDT:MEXC:MUBARAKUSDT",
+    "spread": 0.261733,
+    "net_spread": 0.181733,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 122534.0354,
+    "volumeB": 176158.867
+  },
+  {
+    "id": "Bitget:EWYUSDT:HTX:EWYUSDT",
+    "spread": 0.260938,
+    "net_spread": 0.180938,
+    "fundingA": 0.0,
+    "fundingB": 1.3e-05,
+    "volumeA": 1286259.6972,
+    "volumeB": 1404.42
+  },
+  {
+    "id": "Gate.io:BSBUSDT:Bitget:BSBUSDT",
+    "spread": 0.260379,
+    "net_spread": 0.180379,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2888978.0,
+    "volumeB": 9121368.22749
+  },
+  {
+    "id": "Bybit:RIVERUSDT:OKX:RIVERUSDT",
+    "spread": 0.259108,
+    "net_spread": 0.179108,
+    "fundingA": 0.001848,
+    "fundingB": 0.00127,
+    "volumeA": 106379457.1488,
+    "volumeB": 18530159.7
+  },
+  {
+    "id": "Bybit:BSBUSDT:Gate.io:BSBUSDT",
+    "spread": 0.258987,
+    "net_spread": 0.178987,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 33427517.6528,
+    "volumeB": 2888978.0
+  },
+  {
+    "id": "Bitget:CRCLUSDT:OKX:CRCLUSDT",
+    "spread": 0.258703,
+    "net_spread": 0.178703,
+    "fundingA": 0.0,
+    "fundingB": 0.00018,
+    "volumeA": 54904479.3187,
+    "volumeB": 297396.6
+  },
+  {
+    "id": "Bybit:COAIUSDT:Gate.io:COAIUSDT",
+    "spread": 0.258446,
+    "net_spread": 0.178446,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 706819.2079,
+    "volumeB": 151556.0
+  },
+  {
+    "id": "Bybit:COAIUSDT:Bitget:COAIUSDT",
+    "spread": 0.258446,
+    "net_spread": 0.178446,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 706819.2079,
+    "volumeB": 176608.7977
+  },
+  {
+    "id": "Gate.io:BSBUSDT:MEXC:BSBUSDT",
+    "spread": 0.258318,
+    "net_spread": 0.178318,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2888978.0,
+    "volumeB": 6143209.1763
+  },
+  {
+    "id": "Bybit:AIXBTUSDT:Gate.io:AIXBTUSDT",
+    "spread": 0.257754,
+    "net_spread": 0.177754,
+    "fundingA": 5e-05,
+    "fundingB": -0.001019,
+    "volumeA": 1239661.7496,
+    "volumeB": 264032.0
+  },
+  {
+    "id": "Bybit:TUTUSDT:MEXC:TUTUSDT",
+    "spread": 0.257639,
+    "net_spread": 0.177639,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 86315.1506,
+    "volumeB": 148453.848
+  },
+  {
+    "id": "Gate.io:IRYSUSDT:Bitget:IRYSUSDT",
+    "spread": 0.257599,
+    "net_spread": 0.177599,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1241433.0,
+    "volumeB": 601634.33442
+  },
+  {
+    "id": "Bitget:ICXUSDT:OKX:ICXUSDT",
+    "spread": 0.257069,
+    "net_spread": 0.177069,
+    "fundingA": -5e-06,
+    "fundingB": 5e-05,
+    "volumeA": 397810.26301,
+    "volumeB": 18218590.0
+  },
+  {
+    "id": "Bybit:DOODUSDT:Gate.io:DOODUSDT",
+    "spread": 0.256946,
+    "net_spread": 0.176946,
+    "fundingA": -0.001689,
+    "fundingB": -0.005059,
+    "volumeA": 11764360.7209,
+    "volumeB": 754185.0
+  },
+  {
+    "id": "Bybit:EPICUSDT:Gate.io:EPICUSDT",
+    "spread": 0.256904,
+    "net_spread": 0.176904,
+    "fundingA": 5e-05,
+    "fundingB": -9.9e-05,
+    "volumeA": 195706.256,
+    "volumeB": 108795.0
+  },
+  {
+    "id": "Bybit:STEEMUSDT:MEXC:STEEMUSDT",
+    "spread": 0.256323,
+    "net_spread": 0.176323,
+    "fundingA": -0.000674,
+    "fundingB": -0.000692,
+    "volumeA": 1047018.4547,
+    "volumeB": 106045.3048
+  },
+  {
+    "id": "Gate.io:SOLVUSDT:MEXC:SOLVUSDT",
+    "spread": 0.255795,
+    "net_spread": 0.175795,
+    "fundingA": 5e-05,
+    "fundingB": 3.2e-05,
+    "volumeA": 70825.0,
+    "volumeB": 163540.46385
+  },
+  {
+    "id": "Bybit:BANUSDT:MEXC:BANUSDT",
+    "spread": 0.255754,
+    "net_spread": 0.175754,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1891481.7016,
+    "volumeB": 448743.5406
+  },
+  {
+    "id": "MEXC:ZILUSDT:OKX:ZILUSDT",
+    "spread": 0.255754,
+    "net_spread": 0.175754,
+    "fundingA": 5e-05,
+    "fundingB": -0.000363,
+    "volumeA": 529134.5046,
+    "volumeB": 661258000.0
+  },
+  {
+    "id": "Bitget:BROCCOLIUSDT:MEXC:BROCCOLIUSDT",
+    "spread": 0.255428,
+    "net_spread": 0.175428,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 312184.3702,
+    "volumeB": 181196.2603
+  },
+  {
+    "id": "Bybit:FLUXUSDT:Bitget:FLUXUSDT",
+    "spread": 0.253436,
+    "net_spread": 0.173436,
+    "fundingA": -0.000164,
+    "fundingB": -0.000196,
+    "volumeA": 213323.0517,
+    "volumeB": 224847.57934
+  },
+  {
+    "id": "Bybit:PTBUSDT:Gate.io:PTBUSDT",
+    "spread": 0.253325,
+    "net_spread": 0.173325,
+    "fundingA": 0.001733,
+    "fundingB": 0.000479,
+    "volumeA": 8035028.4299,
+    "volumeB": 2368889.0
+  },
+  {
+    "id": "Bybit:ALCHUSDT:Bitget:ALCHUSDT",
+    "spread": 0.252319,
+    "net_spread": 0.172319,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 416389.2395,
+    "volumeB": 167116.56638
+  },
+  {
+    "id": "Gate.io:BUSDT:MEXC:BUSDT",
+    "spread": 0.251446,
+    "net_spread": 0.171446,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 662081.0,
+    "volumeB": 202684.856
+  },
+  {
+    "id": "Gate.io:WOOUSDT:MEXC:WOOUSDT",
+    "spread": 0.251177,
+    "net_spread": 0.171177,
+    "fundingA": 0.0001,
+    "fundingB": -0.000364,
+    "volumeA": 68598.0,
+    "volumeB": 192900.92854
+  },
+  {
+    "id": "Gate.io:WOOUSDT:OKX:WOOUSDT",
+    "spread": 0.251177,
+    "net_spread": 0.171177,
+    "fundingA": 0.0001,
+    "fundingB": -0.000267,
+    "volumeA": 68598.0,
+    "volumeB": 15061170.0
+  },
+  {
+    "id": "Gate.io:CHILLGUYUSDT:Bitget:CHILLGUYUSDT",
+    "spread": 0.251046,
+    "net_spread": 0.171046,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 72381.0,
+    "volumeB": 106588.7692
+  },
+  {
+    "id": "Bitget:SAHARAUSDT:OKX:SAHARAUSDT",
+    "spread": 0.250574,
+    "net_spread": 0.170574,
+    "fundingA": -0.001241,
+    "fundingB": -0.0012,
+    "volumeA": 1483191.95613,
+    "volumeB": 362372820.0
+  },
+  {
+    "id": "Bitget:FUSDT:OKX:FUSDT",
+    "spread": 0.249551,
+    "net_spread": 0.169551,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 54173.159467,
+    "volumeB": 46265100.0
+  },
+  {
+    "id": "Bybit:TRUTHUSDT:Gate.io:TRUTHUSDT",
+    "spread": 0.249066,
+    "net_spread": 0.169066,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1857613.8631,
+    "volumeB": 332640.0
+  },
+  {
+    "id": "Gate.io:AEVOUSDT:OKX:AEVOUSDT",
+    "spread": 0.248925,
+    "net_spread": 0.168925,
+    "fundingA": 2.6e-05,
+    "fundingB": -0.000305,
+    "volumeA": 210063.0,
+    "volumeB": 25978200.0
+  },
+  {
+    "id": "Bybit:SAPIENUSDT:Bitget:SAPIENUSDT",
+    "spread": 0.248892,
+    "net_spread": 0.168892,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 143556.752,
+    "volumeB": 179260.80973
+  },
+  {
+    "id": "Bybit:PIXELUSDT:Bitget:PIXELUSDT",
+    "spread": 0.248675,
+    "net_spread": 0.168675,
+    "fundingA": -0.002745,
+    "fundingB": -0.002467,
+    "volumeA": 3165820.395,
+    "volumeB": 3604445.861515
+  },
+  {
+    "id": "HTX:POLUSDT:OKX:POLUSDT",
+    "spread": 0.24866,
+    "net_spread": 0.16866,
+    "fundingA": 5e-05,
+    "fundingB": -0.000158,
+    "volumeA": 598420.0,
+    "volumeB": 52935400.0
+  },
+  {
+    "id": "Bitget:LABUSDT:OKX:LABUSDT",
+    "spread": 0.248424,
+    "net_spread": 0.168424,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 686263.24957,
+    "volumeB": 12950210.0
+  },
+  {
+    "id": "Gate.io:YBUSDT:OKX:YBUSDT",
+    "spread": 0.248385,
+    "net_spread": 0.168385,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 136686.0,
+    "volumeB": 11744407.0
+  },
+  {
+    "id": "Bitget:SAPIENUSDT:OKX:SAPIENUSDT",
+    "spread": 0.248274,
+    "net_spread": 0.168274,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 179260.80973,
+    "volumeB": 4632430.0
+  },
+  {
+    "id": "Bybit:XPINUSDT:Gate.io:XPINUSDT",
+    "spread": 0.248005,
+    "net_spread": 0.168005,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 271457.8207,
+    "volumeB": 186530.0
+  },
+  {
+    "id": "HTX:LIGHTUSDT:OKX:LIGHTUSDT",
+    "spread": 0.247934,
+    "net_spread": 0.167934,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 331142.0,
+    "volumeB": 33523724.0
+  },
+  {
+    "id": "Bybit:B3USDT:MEXC:B3USDT",
+    "spread": 0.24741,
+    "net_spread": 0.16741,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1367701.9381,
+    "volumeB": 144460.62287
+  },
+  {
+    "id": "Bitget:XPINUSDT:MEXC:XPINUSDT",
+    "spread": 0.246969,
+    "net_spread": 0.166969,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 425729.3761177,
+    "volumeB": 128631.295
+  },
+  {
+    "id": "Bybit:RENDERUSDT:OKX:RENDERUSDT",
+    "spread": 0.246803,
+    "net_spread": 0.166803,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 12153848.2316,
+    "volumeB": 4820172.0
+  },
+  {
+    "id": "Gate.io:ATUSDT:MEXC:ATUSDT",
+    "spread": 0.24655,
+    "net_spread": 0.16655,
+    "fundingA": 0.000232,
+    "fundingB": 5e-05,
+    "volumeA": 105942.0,
+    "volumeB": 199072.25447
+  },
+  {
+    "id": "Bybit:LYNUSDT:MEXC:LYNUSDT",
+    "spread": 0.246469,
+    "net_spread": 0.166469,
+    "fundingA": 8.3e-05,
+    "fundingB": 0.000336,
+    "volumeA": 3773307.5475,
+    "volumeB": 3254605.81957
+  },
+  {
+    "id": "Bybit:FORMUSDT:Gate.io:FORMUSDT",
+    "spread": 0.246295,
+    "net_spread": 0.166295,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 503616.8491,
+    "volumeB": 656442.0
+  },
+  {
+    "id": "Bybit:FORMUSDT:Bitget:FORMUSDT",
+    "spread": 0.246295,
+    "net_spread": 0.166295,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 503616.8491,
+    "volumeB": 601820.1715
+  },
+  {
+    "id": "Gate.io:RONUSDT:Bitget:RONUSDT",
+    "spread": 0.246246,
+    "net_spread": 0.166246,
+    "fundingA": 3.5e-05,
+    "fundingB": 7e-06,
+    "volumeA": 5700.0,
+    "volumeB": 19629.7605
+  },
+  {
+    "id": "Bybit:SPELLUSDT:MEXC:SPELLUSDT",
+    "spread": 0.245927,
+    "net_spread": 0.165927,
+    "fundingA": 8.8e-05,
+    "fundingB": -0.00036,
+    "volumeA": 116671.2931,
+    "volumeB": 121442.90374
+  },
+  {
+    "id": "Gate.io:CLANKERUSDT:Bitget:CLANKERUSDT",
+    "spread": 0.2457,
+    "net_spread": 0.1657,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 25936.0,
+    "volumeB": 124360.5472
+  },
+  {
+    "id": "Gate.io:MONUSDT:OKX:MONUSDT",
+    "spread": 0.244934,
+    "net_spread": 0.164934,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1934338.0,
+    "volumeB": 872549620.0
+  },
+  {
+    "id": "Gate.io:RPLUSDT:Bitget:RPLUSDT",
+    "spread": 0.244275,
+    "net_spread": 0.164275,
+    "fundingA": -0.000447,
+    "fundingB": -0.00034,
+    "volumeA": 75936.0,
+    "volumeB": 283303.7283
+  },
+  {
+    "id": "Gate.io:LITUSDT:OKX:LITUSDT",
+    "spread": 0.244223,
+    "net_spread": 0.164223,
+    "fundingA": -0.000134,
+    "fundingB": -3.8e-05,
+    "volumeA": 236584.0,
+    "volumeB": 7294180.0
+  },
+  {
+    "id": "Bitget:LITUSDT:OKX:LITUSDT",
+    "spread": 0.244223,
+    "net_spread": 0.164223,
+    "fundingA": 5e-05,
+    "fundingB": -3.8e-05,
+    "volumeA": 832717.014,
+    "volumeB": 7294180.0
+  },
+  {
+    "id": "Bitget:LPTUSDT:OKX:LPTUSDT",
+    "spread": 0.244081,
+    "net_spread": 0.164081,
+    "fundingA": 1e-05,
+    "fundingB": 5e-05,
+    "volumeA": 217248.2618,
+    "volumeB": 608997.2
+  },
+  {
+    "id": "MEXC:MORPHOUSDT:OKX:MORPHOUSDT",
+    "spread": 0.243927,
+    "net_spread": 0.163927,
+    "fundingA": 5e-05,
+    "fundingB": -9.9e-05,
+    "volumeA": 648347.1951,
+    "volumeB": 997803.0
+  },
+  {
+    "id": "Gate.io:BIOUSDT:OKX:BIOUSDT",
+    "spread": 0.243383,
+    "net_spread": 0.163383,
+    "fundingA": 8.9e-05,
+    "fundingB": 5e-05,
+    "volumeA": 192974.0,
+    "volumeB": 89752106.0
+  },
+  {
+    "id": "Bitget:BIOUSDT:OKX:BIOUSDT",
+    "spread": 0.243383,
+    "net_spread": 0.163383,
+    "fundingA": -0.000341,
+    "fundingB": 5e-05,
+    "volumeA": 444940.93286,
+    "volumeB": 89752106.0
+  },
+  {
+    "id": "Bitget:KGENUSDT:OKX:KGENUSDT",
+    "spread": 0.243278,
+    "net_spread": 0.163278,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 306840.65085,
+    "volumeB": 1837850.0
+  },
+  {
+    "id": "Bitget:IMXUSDT:OKX:IMXUSDT",
+    "spread": 0.243224,
+    "net_spread": 0.163224,
+    "fundingA": 5e-05,
+    "fundingB": 4e-06,
+    "volumeA": 166535.19653,
+    "volumeB": 4770326.0
+  },
+  {
+    "id": "Gate.io:USUSDT:Bitget:USUSDT",
+    "spread": 0.242718,
+    "net_spread": 0.162718,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 135635.0,
+    "volumeB": 499207.448302
+  },
+  {
+    "id": "Bybit:HEIUSDT:Gate.io:HEIUSDT",
+    "spread": 0.24249,
+    "net_spread": 0.16249,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 40161.7361,
+    "volumeB": 192264.0
+  },
+  {
+    "id": "Gate.io:PUFFERUSDT:Bitget:PUFFERUSDT",
+    "spread": 0.242326,
+    "net_spread": 0.162326,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 228404.0,
+    "volumeB": 65912.8535
+  },
+  {
+    "id": "Bybit:ZILUSDT:OKX:ZILUSDT",
+    "spread": 0.242294,
+    "net_spread": 0.162294,
+    "fundingA": -0.00036,
+    "fundingB": -0.000363,
+    "volumeA": 1497187.9786,
+    "volumeB": 661258000.0
+  },
+  {
+    "id": "HTX:PTBUSDT:MEXC:PTBUSDT",
+    "spread": 0.242131,
+    "net_spread": 0.162131,
+    "fundingA": 5e-05,
+    "fundingB": 7.2e-05,
+    "volumeA": 107686800.0,
+    "volumeB": 479964.30798
+  },
+  {
+    "id": "MEXC:MOODENGUSDT:OKX:MOODENGUSDT",
+    "spread": 0.241625,
+    "net_spread": 0.161625,
+    "fundingA": -0.000372,
+    "fundingB": -0.000127,
+    "volumeA": 507748.6828,
+    "volumeB": 191235100.0
+  },
+  {
+    "id": "Gate.io:VANRYUSDT:MEXC:VANRYUSDT",
+    "spread": 0.240891,
+    "net_spread": 0.160891,
+    "fundingA": 5e-05,
+    "fundingB": -2.6e-05,
+    "volumeA": 179411.0,
+    "volumeB": 246449.41035
+  },
+  {
+    "id": "Gate.io:KOMAUSDT:MEXC:KOMAUSDT",
+    "spread": 0.240646,
+    "net_spread": 0.160646,
+    "fundingA": 0.000216,
+    "fundingB": 0.00036,
+    "volumeA": 75965.0,
+    "volumeB": 165488.16647
+  },
+  {
+    "id": "Gate.io:NOMUSDT:Bitget:NOMUSDT",
+    "spread": 0.24024,
+    "net_spread": 0.16024,
+    "fundingA": -0.000945,
+    "fundingB": -0.000221,
+    "volumeA": 18239877.0,
+    "volumeB": 45941063.693081
+  },
+  {
+    "id": "Gate.io:ELSAUSDT:MEXC:ELSAUSDT",
+    "spread": 0.239868,
+    "net_spread": 0.159868,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 166752.0,
+    "volumeB": 290412.456
+  },
+  {
+    "id": "Gate.io:OLUSDT:Bitget:OLUSDT",
+    "spread": 0.239808,
+    "net_spread": 0.159808,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 60633.0,
+    "volumeB": 243537.9127
+  },
+  {
+    "id": "Bybit:PHAUSDT:MEXC:PHAUSDT",
+    "spread": 0.239649,
+    "net_spread": 0.159649,
+    "fundingA": -0.002099,
+    "fundingB": -0.001219,
+    "volumeA": 1714793.5366,
+    "volumeB": 594263.1184
+  },
+  {
+    "id": "Bitget:MMTUSDT:MEXC:MMTUSDT",
+    "spread": 0.239349,
+    "net_spread": 0.159349,
+    "fundingA": 5e-05,
+    "fundingB": -0.000205,
+    "volumeA": 167991.476,
+    "volumeB": 191679.5291
+  },
+  {
+    "id": "Gate.io:MMTUSDT:Bitget:MMTUSDT",
+    "spread": 0.238777,
+    "net_spread": 0.158777,
+    "fundingA": -9e-05,
+    "fundingB": 5e-05,
+    "volumeA": 104546.0,
+    "volumeB": 167991.476
+  },
+  {
+    "id": "Gate.io:MERLUSDT:MEXC:MERLUSDT",
+    "spread": 0.238715,
+    "net_spread": 0.158715,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 224678.0,
+    "volumeB": 723289.09269
+  },
+  {
+    "id": "Bybit:OGNUSDT:MEXC:OGNUSDT",
+    "spread": 0.238554,
+    "net_spread": 0.158554,
+    "fundingA": -0.001305,
+    "fundingB": -0.000189,
+    "volumeA": 1137612.2945,
+    "volumeB": 712357.1502
+  },
+  {
+    "id": "Bybit:PIPPINUSDT:MEXC:PIPPINUSDT",
+    "spread": 0.23851,
+    "net_spread": 0.15851,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 15553532.7028,
+    "volumeB": 15033765.794
+  },
+  {
+    "id": "Gate.io:BLESSUSDT:MEXC:BLESSUSDT",
+    "spread": 0.238445,
+    "net_spread": 0.158445,
+    "fundingA": 0.000583,
+    "fundingB": 5e-05,
+    "volumeA": 539938.0,
+    "volumeB": 951155.1605
+  },
+  {
+    "id": "Bybit:KERNELUSDT:Gate.io:KERNELUSDT",
+    "spread": 0.238355,
+    "net_spread": 0.158355,
+    "fundingA": -0.000269,
+    "fundingB": 5e-05,
+    "volumeA": 2208304.855,
+    "volumeB": 722181.0
+  },
+  {
+    "id": "Bitget:POWERUSDT:MEXC:POWERUSDT",
+    "spread": 0.238299,
+    "net_spread": 0.158299,
+    "fundingA": 0.00042,
+    "fundingB": 0.000303,
+    "volumeA": 1441945.17279,
+    "volumeB": 2050361.49514
+  },
+  {
+    "id": "HTX:MUSDT:MEXC:MUSDT",
+    "spread": 0.237725,
+    "net_spread": 0.157725,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 336540.0,
+    "volumeB": 2161988.283
+  },
+  {
+    "id": "Bybit:4USDT:MEXC:4USDT",
+    "spread": 0.23722,
+    "net_spread": 0.15722,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2235527.9422,
+    "volumeB": 943219.9272
+  },
+  {
+    "id": "Gate.io:JTOUSDT:OKX:JTOUSDT",
+    "spread": 0.237183,
+    "net_spread": 0.157183,
+    "fundingA": -0.000374,
+    "fundingB": -0.00055,
+    "volumeA": 154389.0,
+    "volumeB": 17107970.0
+  },
+  {
+    "id": "Bybit:SNXUSDT:Bitget:SNXUSDT",
+    "spread": 0.236794,
+    "net_spread": 0.156794,
+    "fundingA": -0.000217,
+    "fundingB": -0.000448,
+    "volumeA": 2460355.769,
+    "volumeB": 334232.09375
+  },
+  {
+    "id": "Bybit:SNXUSDT:MEXC:SNXUSDT",
+    "spread": 0.236794,
+    "net_spread": 0.156794,
+    "fundingA": -0.000217,
+    "fundingB": -0.000299,
+    "volumeA": 2460355.769,
+    "volumeB": 336290.3539
+  },
+  {
+    "id": "Gate.io:TURTLEUSDT:MEXC:TURTLEUSDT",
+    "spread": 0.236731,
+    "net_spread": 0.156731,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 63283.0,
+    "volumeB": 105507.7331
+  },
+  {
+    "id": "Bitget:CELOUSDT:OKX:CELOUSDT",
+    "spread": 0.236438,
+    "net_spread": 0.156438,
+    "fundingA": -0.000159,
+    "fundingB": 7.8e-05,
+    "volumeA": 173910.2926,
+    "volumeB": 12694856.0
+  },
+  {
+    "id": "Bitget:SYNUSDT:MEXC:SYNUSDT",
+    "spread": 0.236061,
+    "net_spread": 0.156061,
+    "fundingA": 5e-05,
+    "fundingB": -1.9e-05,
+    "volumeA": 69066.05238,
+    "volumeB": 118804.97919
+  },
+  {
+    "id": "Gate.io:DIAUSDT:MEXC:DIAUSDT",
+    "spread": 0.235641,
+    "net_spread": 0.155641,
+    "fundingA": 5e-05,
+    "fundingB": -8e-06,
+    "volumeA": 201684.0,
+    "volumeB": 370340.8818
+  },
+  {
+    "id": "Bybit:PIXELUSDT:MEXC:PIXELUSDT",
+    "spread": 0.235556,
+    "net_spread": 0.155556,
+    "fundingA": -0.002745,
+    "fundingB": -0.002379,
+    "volumeA": 3165820.395,
+    "volumeB": 1665117.83868
+  },
+  {
+    "id": "Bybit:KGENUSDT:HTX:KGENUSDT",
+    "spread": 0.23533,
+    "net_spread": 0.15533,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 288853.1855,
+    "volumeB": 152540.0
+  },
+  {
+    "id": "Gate.io:LABUSDT:MEXC:LABUSDT",
+    "spread": 0.234321,
+    "net_spread": 0.154321,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 122029.0,
+    "volumeB": 371548.334
+  },
+  {
+    "id": "Bybit:TRUTHUSDT:OKX:TRUTHUSDT",
+    "spread": 0.234157,
+    "net_spread": 0.154157,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1857613.8631,
+    "volumeB": 333423300.0
+  },
+  {
+    "id": "Gate.io:MANAUSDT:OKX:MANAUSDT",
+    "spread": 0.23412,
+    "net_spread": 0.15412,
+    "fundingA": 0.0001,
+    "fundingB": 7.9e-05,
+    "volumeA": 174050.0,
+    "volumeB": 10881550.0
+  },
+  {
+    "id": "Gate.io:FLUXUSDT:Bitget:FLUXUSDT",
+    "spread": 0.233941,
+    "net_spread": 0.153941,
+    "fundingA": -2.2e-05,
+    "fundingB": -0.000196,
+    "volumeA": 63174.0,
+    "volumeB": 224847.57934
+  },
+  {
+    "id": "Bybit:AWEUSDT:Bitget:AWEUSDT",
+    "spread": 0.233817,
+    "net_spread": 0.153817,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 128393.9878,
+    "volumeB": 120620.826291
+  },
+  {
+    "id": "Gate.io:SIRENUSDT:Bitget:SIRENUSDT",
+    "spread": 0.233606,
+    "net_spread": 0.153606,
+    "fundingA": -0.000925,
+    "fundingB": -0.000233,
+    "volumeA": 47583802.0,
+    "volumeB": 54229257.5969
+  },
+  {
+    "id": "Bitget:GRIFFAINUSDT:MEXC:GRIFFAINUSDT",
+    "spread": 0.232775,
+    "net_spread": 0.152775,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 424831.72689,
+    "volumeB": 234986.2082
+  },
+  {
+    "id": "Bybit:BANANAUSDT:Bitget:BANANAUSDT",
+    "spread": 0.23263,
+    "net_spread": 0.15263,
+    "fundingA": -0.00056,
+    "fundingB": -0.000483,
+    "volumeA": 2688329.468,
+    "volumeB": 732911.39685
+  },
+  {
+    "id": "HTX:COMPUSDT:OKX:COMPUSDT",
+    "spread": 0.232626,
+    "net_spread": 0.152626,
+    "fundingA": 0.0001,
+    "fundingB": -0.000549,
+    "volumeA": 290.92,
+    "volumeB": 71955.6
+  },
+  {
+    "id": "Bybit:DUSKUSDT:MEXC:DUSKUSDT",
+    "spread": 0.232374,
+    "net_spread": 0.152374,
+    "fundingA": -1.7e-05,
+    "fundingB": -1.4e-05,
+    "volumeA": 1379401.9636,
+    "volumeB": 662356.7005
+  },
+  {
+    "id": "Gate.io:TRIAUSDT:HTX:TRIAUSDT",
+    "spread": 0.232327,
+    "net_spread": 0.152327,
+    "fundingA": 0.000396,
+    "fundingB": 5e-05,
+    "volumeA": 1101075.0,
+    "volumeB": 6300000.0
+  },
+  {
+    "id": "Bybit:DOLOUSDT:Gate.io:DOLOUSDT",
+    "spread": 0.232172,
+    "net_spread": 0.152172,
+    "fundingA": 5e-05,
+    "fundingB": -0.000264,
+    "volumeA": 258382.1437,
+    "volumeB": 16946.0
+  },
+  {
+    "id": "Bybit:ELSAUSDT:Gate.io:ELSAUSDT",
+    "spread": 0.232153,
+    "net_spread": 0.152153,
+    "fundingA": -0.000358,
+    "fundingB": 5e-05,
+    "volumeA": 2672054.2239,
+    "volumeB": 166752.0
+  },
+  {
+    "id": "MEXC:ZRXUSDT:OKX:ZRXUSDT",
+    "spread": 0.231902,
+    "net_spread": 0.151902,
+    "fundingA": -8.7e-05,
+    "fundingB": -0.00023,
+    "volumeA": 158979.6121,
+    "volumeB": 2975230.0
+  },
+  {
+    "id": "Bybit:FIGHTUSDT:MEXC:FIGHTUSDT",
+    "spread": 0.231839,
+    "net_spread": 0.151839,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 529843.7407,
+    "volumeB": 133629.63125
+  },
+  {
+    "id": "Bybit:STEEMUSDT:Bitget:STEEMUSDT",
+    "spread": 0.231819,
+    "net_spread": 0.151819,
+    "fundingA": -0.000674,
+    "fundingB": -0.000587,
+    "volumeA": 1047018.4547,
+    "volumeB": 458325.26013
+  },
+  {
+    "id": "HTX:SANDUSDT:OKX:SANDUSDT",
+    "spread": 0.231428,
+    "net_spread": 0.151428,
+    "fundingA": 0.0001,
+    "fundingB": -0.000184,
+    "volumeA": 646260.0,
+    "volumeB": 41566570.0
+  },
+  {
+    "id": "Bybit:ARCUSDT:Gate.io:ARCUSDT",
+    "spread": 0.230808,
+    "net_spread": 0.150808,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2150200.2719,
+    "volumeB": 987210.0
+  },
+  {
+    "id": "Gate.io:PARTIUSDT:MEXC:PARTIUSDT",
+    "spread": 0.230667,
+    "net_spread": 0.150667,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 195091.0,
+    "volumeB": 291969.3046
+  },
+  {
+    "id": "Bybit:ZKCUSDT:Gate.io:ZKCUSDT",
+    "spread": 0.230175,
+    "net_spread": 0.150175,
+    "fundingA": -0.000176,
+    "fundingB": 5e-05,
+    "volumeA": 595800.8017,
+    "volumeB": 49024.0
+  },
+  {
+    "id": "Gate.io:SKYAIUSDT:MEXC:SKYAIUSDT",
+    "spread": 0.230055,
+    "net_spread": 0.150055,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 343155.0,
+    "volumeB": 181274.455
+  },
+  {
+    "id": "Bybit:USUSDT:Bitget:USUSDT",
+    "spread": 0.229944,
+    "net_spread": 0.149944,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 830996.5018,
+    "volumeB": 499207.448302
+  },
+  {
+    "id": "Bybit:EDUUSDT:Gate.io:EDUUSDT",
+    "spread": 0.229846,
+    "net_spread": 0.149846,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 404461.0759,
+    "volumeB": 89877.0
+  },
+  {
+    "id": "Gate.io:ALCHUSDT:MEXC:ALCHUSDT",
+    "spread": 0.229698,
+    "net_spread": 0.149698,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 105247.0,
+    "volumeB": 650998.5216
+  },
+  {
+    "id": "Bybit:NFPUSDT:MEXC:NFPUSDT",
+    "spread": 0.22941,
+    "net_spread": 0.14941,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 24888.3169,
+    "volumeB": 134245.86476
+  },
+  {
+    "id": "Gate.io:JCTUSDT:Bitget:JCTUSDT",
+    "spread": 0.229358,
+    "net_spread": 0.149358,
+    "fundingA": 0.000324,
+    "fundingB": 5e-05,
+    "volumeA": 84002.0,
+    "volumeB": 725009.737457
+  },
+  {
+    "id": "Bybit:MONUSDT:OKX:MONUSDT",
+    "spread": 0.229348,
+    "net_spread": 0.149348,
+    "fundingA": -2.3e-05,
+    "fundingB": 5e-05,
+    "volumeA": 16161540.6204,
+    "volumeB": 872549620.0
+  },
+  {
+    "id": "HTX:PIUSDT:MEXC:PIUSDT",
+    "spread": 0.228898,
+    "net_spread": 0.148898,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 497588.0,
+    "volumeB": 3452751.0877
+  },
+  {
+    "id": "HTX:IPUSDT:MEXC:IPUSDT",
+    "spread": 0.228749,
+    "net_spread": 0.148749,
+    "fundingA": -0.000682,
+    "fundingB": 0.0,
+    "volumeA": 232918.0,
+    "volumeB": 2051263.0292
+  },
+  {
+    "id": "Gate.io:PIUSDT:HTX:PIUSDT",
+    "spread": 0.228376,
+    "net_spread": 0.148376,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2891471.0,
+    "volumeB": 497588.0
+  },
+  {
+    "id": "Bitget:PIUSDT:HTX:PIUSDT",
+    "spread": 0.228376,
+    "net_spread": 0.148376,
+    "fundingA": 4.4e-05,
+    "fundingB": 5e-05,
+    "volumeA": 3283315.8726,
+    "volumeB": 497588.0
+  },
+  {
+    "id": "Bybit:ACEUSDT:Gate.io:ACEUSDT",
+    "spread": 0.22787,
+    "net_spread": 0.14787,
+    "fundingA": -0.000276,
+    "fundingB": 0.0001,
+    "volumeA": 138598.9838,
+    "volumeB": 131173.0
+  },
+  {
+    "id": "Gate.io:DOGSUSDT:MEXC:DOGSUSDT",
+    "spread": 0.227704,
+    "net_spread": 0.147704,
+    "fundingA": -0.000428,
+    "fundingB": 5e-05,
+    "volumeA": 177521.0,
+    "volumeB": 164871.72837
+  },
+  {
+    "id": "HTX:ORDIUSDT:MEXC:ORDIUSDT",
+    "spread": 0.227635,
+    "net_spread": 0.147635,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 98278.4,
+    "volumeB": 372719.4571
+  },
+  {
+    "id": "Bybit:ICXUSDT:Bitget:ICXUSDT",
+    "spread": 0.227411,
+    "net_spread": 0.147411,
+    "fundingA": 0.0001,
+    "fundingB": -5e-06,
+    "volumeA": 391171.4323,
+    "volumeB": 397810.26301
+  },
+  {
+    "id": "Bybit:FLOCKUSDT:MEXC:FLOCKUSDT",
+    "spread": 0.227295,
+    "net_spread": 0.147295,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 637947.0276,
+    "volumeB": 114388.82396
+  },
+  {
+    "id": "MEXC:EWJUSDT:OKX:EWJUSDT",
+    "spread": 0.227259,
+    "net_spread": 0.147259,
+    "fundingA": -0.000112,
+    "fundingB": 0.0,
+    "volumeA": 115408.4645,
+    "volumeB": 1701.45
+  },
+  {
+    "id": "Bybit:SOPHUSDT:Gate.io:SOPHUSDT",
+    "spread": 0.226994,
+    "net_spread": 0.146994,
+    "fundingA": -0.001488,
+    "fundingB": -0.003201,
+    "volumeA": 6274235.0489,
+    "volumeB": 788491.0
+  },
+  {
+    "id": "Bybit:MUSDT:MEXC:MUSDT",
+    "spread": 0.226919,
+    "net_spread": 0.146919,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 10945361.8756,
+    "volumeB": 2161988.283
+  },
+  {
+    "id": "Gate.io:RSRUSDT:MEXC:RSRUSDT",
+    "spread": 0.226904,
+    "net_spread": 0.146904,
+    "fundingA": 0.0001,
+    "fundingB": -6.9e-05,
+    "volumeA": 174221.0,
+    "volumeB": 478021.006757
+  },
+  {
+    "id": "Bitget:BEATUSDT:MEXC:BEATUSDT",
+    "spread": 0.226492,
+    "net_spread": 0.146492,
+    "fundingA": -0.000452,
+    "fundingB": 0.000237,
+    "volumeA": 8704899.16072,
+    "volumeB": 15189355.5591
+  },
+  {
+    "id": "Gate.io:AEVOUSDT:Bitget:AEVOUSDT",
+    "spread": 0.226347,
+    "net_spread": 0.146347,
+    "fundingA": 2.6e-05,
+    "fundingB": 5e-05,
+    "volumeA": 210063.0,
+    "volumeB": 234234.234291
+  },
+  {
+    "id": "Gate.io:MANTRAUSDT:Bitget:MANTRAUSDT",
+    "spread": 0.225964,
+    "net_spread": 0.145964,
+    "fundingA": -0.000453,
+    "fundingB": -0.000358,
+    "volumeA": 169933.0,
+    "volumeB": 322457.88068
+  },
+  {
+    "id": "Gate.io:MANTRAUSDT:MEXC:MANTRAUSDT",
+    "spread": 0.225964,
+    "net_spread": 0.145964,
+    "fundingA": -0.000453,
+    "fundingB": -0.000376,
+    "volumeA": 169933.0,
+    "volumeB": 382857.795
+  },
+  {
+    "id": "Bybit:KATUSDT:Bitget:KATUSDT",
+    "spread": 0.225836,
+    "net_spread": 0.145836,
+    "fundingA": -0.000819,
+    "fundingB": -0.00102,
+    "volumeA": 4135504.2702,
+    "volumeB": 2513060.34099
+  },
+  {
+    "id": "Gate.io:KATUSDT:Bitget:KATUSDT",
+    "spread": 0.225836,
+    "net_spread": 0.145836,
+    "fundingA": -0.00049,
+    "fundingB": -0.00102,
+    "volumeA": 1049016.0,
+    "volumeB": 2513060.34099
+  },
+  {
+    "id": "Bybit:CARVUSDT:MEXC:CARVUSDT",
+    "spread": 0.225734,
+    "net_spread": 0.145734,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 200193.3333,
+    "volumeB": 101077.8954
+  },
+  {
+    "id": "Bitget:AUSDT:OKX:AUSDT",
+    "spread": 0.22561,
+    "net_spread": 0.14561,
+    "fundingA": 5e-05,
+    "fundingB": -0.000138,
+    "volumeA": 154715.32722,
+    "volumeB": 12080020.0
+  },
+  {
+    "id": "Bitget:PEOPLEUSDT:OKX:PEOPLEUSDT",
+    "spread": 0.225552,
+    "net_spread": 0.145552,
+    "fundingA": -0.000437,
+    "fundingB": 0.0001,
+    "volumeA": 760053.292021,
+    "volumeB": 634374400.0
+  },
+  {
+    "id": "Gate.io:AWEUSDT:MEXC:AWEUSDT",
+    "spread": 0.225502,
+    "net_spread": 0.145502,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 151388.0,
+    "volumeB": 103264.1604
+  },
+  {
+    "id": "Bybit:CVXUSDT:Bitget:CVXUSDT",
+    "spread": 0.225476,
+    "net_spread": 0.145476,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 831202.8012,
+    "volumeB": 478900.77827
+  },
+  {
+    "id": "Bitget:KATUSDT:OKX:KATUSDT",
+    "spread": 0.225327,
+    "net_spread": 0.145327,
+    "fundingA": -0.00102,
+    "fundingB": -0.00037,
+    "volumeA": 2513060.34099,
+    "volumeB": 1752557100.0
+  },
+  {
+    "id": "MEXC:MUBARAKUSDT:OKX:MUBARAKUSDT",
+    "spread": 0.225124,
+    "net_spread": 0.145124,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 176158.867,
+    "volumeB": 36686800.0
+  },
+  {
+    "id": "Bybit:BELUSDT:Gate.io:BELUSDT",
+    "spread": 0.22483,
+    "net_spread": 0.14483,
+    "fundingA": 0.0001,
+    "fundingB": -5.7e-05,
+    "volumeA": 124012.0101,
+    "volumeB": 17892.0
+  },
+  {
+    "id": "Gate.io:WALUSDT:OKX:WALUSDT",
+    "spread": 0.224703,
+    "net_spread": 0.144703,
+    "fundingA": 5e-05,
+    "fundingB": -0.000175,
+    "volumeA": 43247.0,
+    "volumeB": 3403120.0
+  },
+  {
+    "id": "Gate.io:CVCUSDT:Bitget:CVCUSDT",
+    "spread": 0.224525,
+    "net_spread": 0.144525,
+    "fundingA": -7e-06,
+    "fundingB": 5e-05,
+    "volumeA": 245965.0,
+    "volumeB": 38834.56987
+  },
+  {
+    "id": "Gate.io:CVCUSDT:MEXC:CVCUSDT",
+    "spread": 0.224525,
+    "net_spread": 0.144525,
+    "fundingA": -7e-06,
+    "fundingB": 5e-05,
+    "volumeA": 245965.0,
+    "volumeB": 107044.4292
+  },
+  {
+    "id": "Gate.io:ETHWUSDT:Bitget:ETHWUSDT",
+    "spread": 0.22449,
+    "net_spread": 0.14449,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 50533.0,
+    "volumeB": 22158.5132
+  },
+  {
+    "id": "HTX:BIRBUSDT:MEXC:BIRBUSDT",
+    "spread": 0.224079,
+    "net_spread": 0.144079,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 295840.0,
+    "volumeB": 187469.636
+  },
+  {
+    "id": "Bybit:DIAUSDT:MEXC:DIAUSDT",
+    "spread": 0.223859,
+    "net_spread": 0.143859,
+    "fundingA": 5e-05,
+    "fundingB": -8e-06,
+    "volumeA": 109021.2383,
+    "volumeB": 370340.8818
+  },
+  {
+    "id": "Bybit:SPORTFUNUSDT:MEXC:SPORTFUNUSDT",
+    "spread": 0.223535,
+    "net_spread": 0.143535,
+    "fundingA": 5e-05,
+    "fundingB": 9.6e-05,
+    "volumeA": 179832.3913,
+    "volumeB": 134651.8286
+  },
+  {
+    "id": "Bybit:GUNUSDT:MEXC:GUNUSDT",
+    "spread": 0.223281,
+    "net_spread": 0.143281,
+    "fundingA": 5e-05,
+    "fundingB": 4.7e-05,
+    "volumeA": 2567967.6176,
+    "volumeB": 655226.6028
+  },
+  {
+    "id": "Bybit:HIPPOUSDT:MEXC:HIPPOUSDT",
+    "spread": 0.223214,
+    "net_spread": 0.143214,
+    "fundingA": 5e-05,
+    "fundingB": 8.6e-05,
+    "volumeA": 220492.9134,
+    "volumeB": 108140.5312
+  },
+  {
+    "id": "Bybit:VELODROMEUSDT:Bitget:VELODROMEUSDT",
+    "spread": 0.223014,
+    "net_spread": 0.143014,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 51837.775,
+    "volumeB": 38825.62302
+  },
+  {
+    "id": "Bybit:PUFFERUSDT:Gate.io:PUFFERUSDT",
+    "spread": 0.222672,
+    "net_spread": 0.142672,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 106623.1409,
+    "volumeB": 228404.0
+  },
+  {
+    "id": "Gate.io:ATUSDT:Bitget:ATUSDT",
+    "spread": 0.222527,
+    "net_spread": 0.142527,
+    "fundingA": 0.000232,
+    "fundingB": 5e-05,
+    "volumeA": 105942.0,
+    "volumeB": 124408.0378
+  },
+  {
+    "id": "Gate.io:B2USDT:MEXC:B2USDT",
+    "spread": 0.222507,
+    "net_spread": 0.142507,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 76415.0,
+    "volumeB": 812972.1996
+  },
+  {
+    "id": "Gate.io:ZETAUSDT:OKX:ZETAUSDT",
+    "spread": 0.222481,
+    "net_spread": 0.142481,
+    "fundingA": 5e-05,
+    "fundingB": -0.000921,
+    "volumeA": 166888.0,
+    "volumeB": 15191300.0
+  },
+  {
+    "id": "Bitget:ARBUSDT:HTX:ARBUSDT",
+    "spread": 0.222346,
+    "net_spread": 0.142346,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 4964667.359909,
+    "volumeB": 5942710.0
+  },
+  {
+    "id": "HTX:ARBUSDT:MEXC:ARBUSDT",
+    "spread": 0.221852,
+    "net_spread": 0.141852,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 5942710.0,
+    "volumeB": 32859196.5684
+  },
+  {
+    "id": "Bitget:SKRUSDT:HTX:SKRUSDT",
+    "spread": 0.221586,
+    "net_spread": 0.141586,
+    "fundingA": -0.000115,
+    "fundingB": 5e-05,
+    "volumeA": 329825.441373,
+    "volumeB": 1978980.0
+  },
+  {
+    "id": "Bitget:LAUSDT:HTX:LAUSDT",
+    "spread": 0.2213,
+    "net_spread": 0.1413,
+    "fundingA": -0.000117,
+    "fundingB": 5e-05,
+    "volumeA": 320701.6681,
+    "volumeB": 402932.0
+  },
+  {
+    "id": "Gate.io:ROBOUSDT:HTX:ROBOUSDT",
+    "spread": 0.221288,
+    "net_spread": 0.141288,
+    "fundingA": -0.000972,
+    "fundingB": -0.000657,
+    "volumeA": 599267.0,
+    "volumeB": 4474700.0
+  },
+  {
+    "id": "Bybit:SUNUSDT:HTX:SUNUSDT",
+    "spread": 0.221196,
+    "net_spread": 0.141196,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 534174.2543,
+    "volumeB": 10551200.0
+  },
+  {
+    "id": "Bybit:FIOUSDT:Gate.io:FIOUSDT",
+    "spread": 0.220408,
+    "net_spread": 0.140408,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 228621.9455,
+    "volumeB": 44679.0
+  },
+  {
+    "id": "Bybit:PROMUSDT:Gate.io:PROMUSDT",
+    "spread": 0.220357,
+    "net_spread": 0.140357,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 224273.7733,
+    "volumeB": 30267.0
+  },
+  {
+    "id": "Bitget:YGGUSDT:OKX:YGGUSDT",
+    "spread": 0.220103,
+    "net_spread": 0.140103,
+    "fundingA": 5e-05,
+    "fundingB": -0.000129,
+    "volumeA": 128558.646863,
+    "volumeB": 46169719.0
+  },
+  {
+    "id": "Bitget:VELODROMEUSDT:MEXC:VELODROMEUSDT",
+    "spread": 0.219899,
+    "net_spread": 0.139899,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 38825.62302,
+    "volumeB": 119500.4333
+  },
+  {
+    "id": "Bybit:DYMUSDT:Bitget:DYMUSDT",
+    "spread": 0.21978,
+    "net_spread": 0.13978,
+    "fundingA": -0.000547,
+    "fundingB": -0.000565,
+    "volumeA": 364546.3253,
+    "volumeB": 686760.721502
+  },
+  {
+    "id": "Bybit:DYMUSDT:MEXC:DYMUSDT",
+    "spread": 0.21978,
+    "net_spread": 0.13978,
+    "fundingA": -0.000547,
+    "fundingB": -0.000422,
+    "volumeA": 364546.3253,
+    "volumeB": 223386.41835
+  },
+  {
+    "id": "Gate.io:LPTUSDT:OKX:LPTUSDT",
+    "spread": 0.219673,
+    "net_spread": 0.139673,
+    "fundingA": -7.8e-05,
+    "fundingB": 5e-05,
+    "volumeA": 92062.0,
+    "volumeB": 608997.2
+  },
+  {
+    "id": "Bybit:TACUSDT:Bitget:TACUSDT",
+    "spread": 0.219569,
+    "net_spread": 0.139569,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 78947.4478,
+    "volumeB": 64369.038215
+  },
+  {
+    "id": "Gate.io:DENTUSDT:Bitget:DENTUSDT",
+    "spread": 0.219358,
+    "net_spread": 0.139358,
+    "fundingA": -0.001005,
+    "fundingB": -0.00124,
+    "volumeA": 310614.0,
+    "volumeB": 500017.7834674
+  },
+  {
+    "id": "Bitget:BSVUSDT:HTX:BSVUSDT",
+    "spread": 0.218898,
+    "net_spread": 0.138898,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 128561.0868,
+    "volumeB": 4394.08
+  },
+  {
+    "id": "Gate.io:RAVEUSDT:MEXC:RAVEUSDT",
+    "spread": 0.218778,
+    "net_spread": 0.138778,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 105961.0,
+    "volumeB": 248383.353
+  },
+  {
+    "id": "Gate.io:XAIUSDT:Bitget:XAIUSDT",
+    "spread": 0.218732,
+    "net_spread": 0.138732,
+    "fundingA": 5e-05,
+    "fundingB": -0.000198,
+    "volumeA": 223689.0,
+    "volumeB": 155673.87788
+  },
+  {
+    "id": "Gate.io:ACEUSDT:Bitget:ACEUSDT",
+    "spread": 0.218627,
+    "net_spread": 0.138627,
+    "fundingA": 0.0001,
+    "fundingB": -6.2e-05,
+    "volumeA": 131173.0,
+    "volumeB": 125708.898426
+  },
+  {
+    "id": "Bybit:SNXUSDT:Gate.io:SNXUSDT",
+    "spread": 0.218539,
+    "net_spread": 0.138539,
+    "fundingA": -0.000217,
+    "fundingB": 7.6e-05,
+    "volumeA": 2460355.769,
+    "volumeB": 152577.0
+  },
+  {
+    "id": "Gate.io:CROSSUSDT:MEXC:CROSSUSDT",
+    "spread": 0.218464,
+    "net_spread": 0.138464,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 48886.0,
+    "volumeB": 267663.5119
+  },
+  {
+    "id": "HTX:BSVUSDT:MEXC:BSVUSDT",
+    "spread": 0.21842,
+    "net_spread": 0.13842,
+    "fundingA": 0.0001,
+    "fundingB": -0.000294,
+    "volumeA": 4394.08,
+    "volumeB": 227392.0105
+  },
+  {
+    "id": "HTX:UNIUSDT:OKX:UNIUSDT",
+    "spread": 0.218366,
+    "net_spread": 0.138366,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 3157966.0,
+    "volumeB": 8148404.0
+  },
+  {
+    "id": "Bybit:DEGENUSDT:MEXC:DEGENUSDT",
+    "spread": 0.218226,
+    "net_spread": 0.138226,
+    "fundingA": -0.000261,
+    "fundingB": 5e-05,
+    "volumeA": 129117.7031,
+    "volumeB": 114099.85856
+  },
+  {
+    "id": "Bybit:KNCUSDT:Bitget:KNCUSDT",
+    "spread": 0.218182,
+    "net_spread": 0.138182,
+    "fundingA": -0.000965,
+    "fundingB": -0.001063,
+    "volumeA": 2131048.3276,
+    "volumeB": 929440.23181
+  },
+  {
+    "id": "Bybit:CTKUSDT:Bitget:CTKUSDT",
+    "spread": 0.21791,
+    "net_spread": 0.13791,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 57625.8311,
+    "volumeB": 31686.4506
+  },
+  {
+    "id": "Bybit:CTKUSDT:MEXC:CTKUSDT",
+    "spread": 0.21791,
+    "net_spread": 0.13791,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 57625.8311,
+    "volumeB": 106981.4878
+  },
+  {
+    "id": "MEXC:GIGGLEUSDT:OKX:GIGGLEUSDT",
+    "spread": 0.217628,
+    "net_spread": 0.137628,
+    "fundingA": 0.000124,
+    "fundingB": 5e-05,
+    "volumeA": 348818.516,
+    "volumeB": 78424.52
+  },
+  {
+    "id": "Gate.io:OGNUSDT:Bitget:OGNUSDT",
+    "spread": 0.217444,
+    "net_spread": 0.137444,
+    "fundingA": -0.001245,
+    "fundingB": -0.000129,
+    "volumeA": 385853.0,
+    "volumeB": 562107.24337
+  },
+  {
+    "id": "Gate.io:FLOCKUSDT:MEXC:FLOCKUSDT",
+    "spread": 0.217413,
+    "net_spread": 0.137413,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 57541.0,
+    "volumeB": 114388.82396
+  },
+  {
+    "id": "Gate.io:AIOUSDT:MEXC:AIOUSDT",
+    "spread": 0.217238,
+    "net_spread": 0.137238,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 65204.0,
+    "volumeB": 1379656.989
+  },
+  {
+    "id": "Gate.io:NEWTUSDT:Bitget:NEWTUSDT",
+    "spread": 0.217228,
+    "net_spread": 0.137228,
+    "fundingA": 0.0001,
+    "fundingB": 4.9e-05,
+    "volumeA": 6444.0,
+    "volumeB": 84889.3943
+  },
+  {
+    "id": "Bybit:ENAUSDT:HTX:ENAUSDT",
+    "spread": 0.217028,
+    "net_spread": 0.137028,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 56616448.6854,
+    "volumeB": 11325690.0
+  },
+  {
+    "id": "Gate.io:MERLUSDT:OKX:MERLUSDT",
+    "spread": 0.216967,
+    "net_spread": 0.136967,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 224678.0,
+    "volumeB": 106671825.0
+  },
+  {
+    "id": "Bitget:MORPHOUSDT:OKX:MORPHOUSDT",
+    "spread": 0.216824,
+    "net_spread": 0.136824,
+    "fundingA": 5e-05,
+    "fundingB": -9.9e-05,
+    "volumeA": 664531.2802,
+    "volumeB": 997803.0
+  },
+  {
+    "id": "Bybit:SXPUSDT:MEXC:SXPUSDT",
+    "spread": 0.216685,
+    "net_spread": 0.136685,
+    "fundingA": -0.001036,
+    "fundingB": -0.001051,
+    "volumeA": 1459910.6125,
+    "volumeB": 331845.84565
+  },
+  {
+    "id": "Bybit:MUBARAKUSDT:Bitget:MUBARAKUSDT",
+    "spread": 0.216509,
+    "net_spread": 0.136509,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 122534.0354,
+    "volumeB": 146883.88364
+  },
+  {
+    "id": "Gate.io:PHBUSDT:Bitget:PHBUSDT",
+    "spread": 0.21645,
+    "net_spread": 0.13645,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 44818.0,
+    "volumeB": 49033.83841
+  },
+  {
+    "id": "Gate.io:TRIAUSDT:MEXC:TRIAUSDT",
+    "spread": 0.215696,
+    "net_spread": 0.135696,
+    "fundingA": 0.000396,
+    "fundingB": 0.000121,
+    "volumeA": 1101075.0,
+    "volumeB": 1418614.946
+  },
+  {
+    "id": "Gate.io:CFGUSDT:MEXC:CFGUSDT",
+    "spread": 0.215633,
+    "net_spread": 0.135633,
+    "fundingA": 5e-05,
+    "fundingB": -0.000404,
+    "volumeA": 840118.0,
+    "volumeB": 315264.224
+  },
+  {
+    "id": "Gate.io:UAIUSDT:Bitget:UAIUSDT",
+    "spread": 0.215468,
+    "net_spread": 0.135468,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 645555.0,
+    "volumeB": 1513942.35018
+  },
+  {
+    "id": "Bybit:COREUSDT:Gate.io:COREUSDT",
+    "spread": 0.215446,
+    "net_spread": 0.135446,
+    "fundingA": -0.001307,
+    "fundingB": -0.000613,
+    "volumeA": 13116779.196,
+    "volumeB": 3888723.0
+  },
+  {
+    "id": "Bybit:BSVUSDT:HTX:BSVUSDT",
+    "spread": 0.21525,
+    "net_spread": 0.13525,
+    "fundingA": -0.000214,
+    "fundingB": 0.0001,
+    "volumeA": 458415.1147,
+    "volumeB": 4394.08
+  },
+  {
+    "id": "Bybit:NTRNUSDT:Gate.io:NTRNUSDT",
+    "spread": 0.215054,
+    "net_spread": 0.135054,
+    "fundingA": -0.006808,
+    "fundingB": -0.000439,
+    "volumeA": 923341.5157,
+    "volumeB": 137325.0
+  },
+  {
+    "id": "Bybit:COWUSDT:Bitget:COWUSDT",
+    "spread": 0.214999,
+    "net_spread": 0.134999,
+    "fundingA": -4.1e-05,
+    "fundingB": -2e-05,
+    "volumeA": 242126.07,
+    "volumeB": 234373.6412
+  },
+  {
+    "id": "Bybit:COWUSDT:MEXC:COWUSDT",
+    "spread": 0.214999,
+    "net_spread": 0.134999,
+    "fundingA": -4.1e-05,
+    "fundingB": -0.000117,
+    "volumeA": 242126.07,
+    "volumeB": 134413.141
+  },
+  {
+    "id": "Bitget:SENTUSDT:HTX:SENTUSDT",
+    "spread": 0.214996,
+    "net_spread": 0.134996,
+    "fundingA": -0.000652,
+    "fundingB": -0.000939,
+    "volumeA": 5338979.20528,
+    "volumeB": 16646400.0
+  },
+  {
+    "id": "Bitget:ALCHUSDT:HTX:ALCHUSDT",
+    "spread": 0.214751,
+    "net_spread": 0.134751,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 167116.56638,
+    "volumeB": 407480.0
+  },
+  {
+    "id": "Gate.io:NTRNUSDT:MEXC:NTRNUSDT",
+    "spread": 0.214592,
+    "net_spread": 0.134592,
+    "fundingA": -0.000439,
+    "fundingB": -0.006869,
+    "volumeA": 137325.0,
+    "volumeB": 413632.98839
+  },
+  {
+    "id": "Bybit:FLUXUSDT:MEXC:FLUXUSDT",
+    "spread": 0.214362,
+    "net_spread": 0.134362,
+    "fundingA": -0.000164,
+    "fundingB": -0.000127,
+    "volumeA": 213323.0517,
+    "volumeB": 279252.00132
+  },
+  {
+    "id": "Gate.io:GUNUSDT:Bitget:GUNUSDT",
+    "spread": 0.214286,
+    "net_spread": 0.134286,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 291473.0,
+    "volumeB": 781307.14255
+  },
+  {
+    "id": "Gate.io:PLAYUSDT:MEXC:PLAYUSDT",
+    "spread": 0.214133,
+    "net_spread": 0.134133,
+    "fundingA": -9.9e-05,
+    "fundingB": 5.5e-05,
+    "volumeA": 3414238.0,
+    "volumeB": 10529902.9102
+  },
+  {
+    "id": "Bybit:ZKUSDT:HTX:ZKUSDT",
+    "spread": 0.214076,
+    "net_spread": 0.134076,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1783247.665,
+    "volumeB": 4995580.0
+  },
+  {
+    "id": "Gate.io:RAREUSDT:MEXC:RAREUSDT",
+    "spread": 0.214056,
+    "net_spread": 0.134056,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 28588.0,
+    "volumeB": 117178.9949
+  },
+  {
+    "id": "Bybit:RLSUSDT:MEXC:RLSUSDT",
+    "spread": 0.21322,
+    "net_spread": 0.13322,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 56815.7505,
+    "volumeB": 110064.25497
+  },
+  {
+    "id": "Gate.io:FIGHTUSDT:MEXC:FIGHTUSDT",
+    "spread": 0.212519,
+    "net_spread": 0.132519,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 69661.0,
+    "volumeB": 133629.63125
+  },
+  {
+    "id": "Gate.io:SKYUSDT:OKX:SKYUSDT",
+    "spread": 0.212358,
+    "net_spread": 0.132358,
+    "fundingA": 5e-05,
+    "fundingB": -3.2e-05,
+    "volumeA": 374988.0,
+    "volumeB": 22201400.0
+  },
+  {
+    "id": "Bybit:TURTLEUSDT:Gate.io:TURTLEUSDT",
+    "spread": 0.212314,
+    "net_spread": 0.132314,
+    "fundingA": 3.9e-05,
+    "fundingB": 0.0001,
+    "volumeA": 103161.4228,
+    "volumeB": 63283.0
+  },
+  {
+    "id": "Bybit:GALAUSDT:OKX:GALAUSDT",
+    "spread": 0.211827,
+    "net_spread": 0.131827,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 24615259.5465,
+    "volumeB": 7832032100.0
+  },
+  {
+    "id": "Gate.io:GALAUSDT:OKX:GALAUSDT",
+    "spread": 0.211827,
+    "net_spread": 0.131827,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 6369884.0,
+    "volumeB": 7832032100.0
+  },
+  {
+    "id": "Bitget:GALAUSDT:OKX:GALAUSDT",
+    "spread": 0.211827,
+    "net_spread": 0.131827,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 2109826.354256,
+    "volumeB": 7832032100.0
+  },
+  {
+    "id": "Bitget:ICXUSDT:MEXC:ICXUSDT",
+    "spread": 0.2118,
+    "net_spread": 0.1318,
+    "fundingA": -5e-06,
+    "fundingB": 5e-05,
+    "volumeA": 397810.26301,
+    "volumeB": 100359.84
+  },
+  {
+    "id": "Bybit:ATUSDT:Gate.io:ATUSDT",
+    "spread": 0.211785,
+    "net_spread": 0.131785,
+    "fundingA": 5e-05,
+    "fundingB": 0.000232,
+    "volumeA": 246814.1182,
+    "volumeB": 105942.0
+  },
+  {
+    "id": "Bybit:BEATUSDT:Gate.io:BEATUSDT",
+    "spread": 0.211678,
+    "net_spread": 0.131678,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 24751833.807,
+    "volumeB": 5078336.0
+  },
+  {
+    "id": "Gate.io:ARBUSDT:HTX:ARBUSDT",
+    "spread": 0.211228,
+    "net_spread": 0.131228,
+    "fundingA": 1.7e-05,
+    "fundingB": 0.0001,
+    "volumeA": 4303666.0,
+    "volumeB": 5942710.0
+  },
+  {
+    "id": "Bitget:ARCUSDT:HTX:ARCUSDT",
+    "spread": 0.210907,
+    "net_spread": 0.130907,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1524213.49118,
+    "volumeB": 1777620.0
+  },
+  {
+    "id": "Bybit:CROSSUSDT:Gate.io:CROSSUSDT",
+    "spread": 0.210834,
+    "net_spread": 0.130834,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 64466.6088,
+    "volumeB": 48886.0
+  },
+  {
+    "id": "Bybit:CLANKERUSDT:MEXC:CLANKERUSDT",
+    "spread": 0.21072,
+    "net_spread": 0.13072,
+    "fundingA": 5e-05,
+    "fundingB": -0.000338,
+    "volumeA": 195230.1487,
+    "volumeB": 118402.4725
+  },
+  {
+    "id": "Gate.io:IDOLUSDT:Bitget:IDOLUSDT",
+    "spread": 0.2107,
+    "net_spread": 0.1307,
+    "fundingA": 5e-05,
+    "fundingB": 0.000568,
+    "volumeA": 146002.0,
+    "volumeB": 99616.25905
+  },
+  {
+    "id": "Bybit:VANRYUSDT:Gate.io:VANRYUSDT",
+    "spread": 0.210273,
+    "net_spread": 0.130273,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 529158.0826,
+    "volumeB": 179411.0
+  },
+  {
+    "id": "Bybit:REDUSDT:Bitget:REDUSDT",
+    "spread": 0.210269,
+    "net_spread": 0.130269,
+    "fundingA": 5e-05,
+    "fundingB": -0.000527,
+    "volumeA": 482533.7391,
+    "volumeB": 241792.27301
+  },
+  {
+    "id": "Bybit:REDUSDT:MEXC:REDUSDT",
+    "spread": 0.210269,
+    "net_spread": 0.130269,
+    "fundingA": 5e-05,
+    "fundingB": -8.3e-05,
+    "volumeA": 482533.7391,
+    "volumeB": 157100.0393
+  },
+  {
+    "id": "Gate.io:WALUSDT:MEXC:WALUSDT",
+    "spread": 0.210236,
+    "net_spread": 0.130236,
+    "fundingA": 5e-05,
+    "fundingB": -1.5e-05,
+    "volumeA": 43247.0,
+    "volumeB": 142525.3637
+  },
+  {
+    "id": "Gate.io:CELRUSDT:Bitget:CELRUSDT",
+    "spread": 0.209864,
+    "net_spread": 0.129864,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 23356.0,
+    "volumeB": 98386.539344
+  },
+  {
+    "id": "Gate.io:CELRUSDT:MEXC:CELRUSDT",
+    "spread": 0.209864,
+    "net_spread": 0.129864,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 23356.0,
+    "volumeB": 1234203.213765
+  },
+  {
+    "id": "Bybit:IPUSDT:HTX:IPUSDT",
+    "spread": 0.209843,
+    "net_spread": 0.129843,
+    "fundingA": 4.7e-05,
+    "fundingB": -0.000682,
+    "volumeA": 8159020.8694,
+    "volumeB": 232918.0
+  },
+  {
+    "id": "Bitget:IPUSDT:HTX:IPUSDT",
+    "spread": 0.209843,
+    "net_spread": 0.129843,
+    "fundingA": 5e-05,
+    "fundingB": -0.000682,
+    "volumeA": 1204554.75225,
+    "volumeB": 232918.0
+  },
+  {
+    "id": "HTX:ONDOUSDT:OKX:ONDOUSDT",
+    "spread": 0.209724,
+    "net_spread": 0.129724,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1907302.0,
+    "volumeB": 46688710.0
+  },
+  {
+    "id": "Bitget:IOTAUSDT:OKX:IOTAUSDT",
+    "spread": 0.20972,
+    "net_spread": 0.12972,
+    "fundingA": -0.000217,
+    "fundingB": 0.0001,
+    "volumeA": 590264.775047,
+    "volumeB": 44633450.0
+  },
+  {
+    "id": "Gate.io:TUTUSDT:MEXC:TUTUSDT",
+    "spread": 0.209706,
+    "net_spread": 0.129706,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 113122.0,
+    "volumeB": 148453.848
+  },
+  {
+    "id": "Bitget:BIRBUSDT:HTX:BIRBUSDT",
+    "spread": 0.209356,
+    "net_spread": 0.129356,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 896561.48188,
+    "volumeB": 295840.0
+  },
+  {
+    "id": "Gate.io:CTKUSDT:Bitget:CTKUSDT",
+    "spread": 0.208955,
+    "net_spread": 0.128955,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 81629.0,
+    "volumeB": 31686.4506
+  },
+  {
+    "id": "Gate.io:CTKUSDT:MEXC:CTKUSDT",
+    "spread": 0.208955,
+    "net_spread": 0.128955,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 81629.0,
+    "volumeB": 106981.4878
+  },
+  {
+    "id": "Gate.io:SSVUSDT:Bitget:SSVUSDT",
+    "spread": 0.208817,
+    "net_spread": 0.128817,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 151887.0,
+    "volumeB": 82479.96309
+  },
+  {
+    "id": "Bitget:CHILLGUYUSDT:MEXC:CHILLGUYUSDT",
+    "spread": 0.208768,
+    "net_spread": 0.128768,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 106588.7692,
+    "volumeB": 139664.2611
+  },
+  {
+    "id": "Bybit:GOATUSDT:Gate.io:GOATUSDT",
+    "spread": 0.208189,
+    "net_spread": 0.128189,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 11164587.9334,
+    "volumeB": 1847631.0
+  },
+  {
+    "id": "Bitget:XAUUSDT:HTX:XAUUSDT",
+    "spread": 0.207954,
+    "net_spread": 0.127954,
+    "fundingA": 5e-05,
+    "fundingB": 0.000124,
+    "volumeA": 495911185.5826,
+    "volumeB": 233.384
+  },
+  {
+    "id": "Gate.io:KGENUSDT:Bitget:KGENUSDT",
+    "spread": 0.207932,
+    "net_spread": 0.127932,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 222475.0,
+    "volumeB": 306840.65085
+  },
+  {
+    "id": "Bybit:SIRENUSDT:Gate.io:SIRENUSDT",
+    "spread": 0.207359,
+    "net_spread": 0.127359,
+    "fundingA": 5e-05,
+    "fundingB": -0.000925,
+    "volumeA": 52571173.3949,
+    "volumeB": 47583802.0
+  },
+  {
+    "id": "Gate.io:ASTRUSDT:MEXC:ASTRUSDT",
+    "spread": 0.207225,
+    "net_spread": 0.127225,
+    "fundingA": -0.000331,
+    "fundingB": -0.000104,
+    "volumeA": 47250.0,
+    "volumeB": 140079.12914
+  },
+  {
+    "id": "Gate.io:HFTUSDT:Bitget:HFTUSDT",
+    "spread": 0.206356,
+    "net_spread": 0.126356,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 204565.0,
+    "volumeB": 85472.21269
+  },
+  {
+    "id": "Bybit:STEEMUSDT:Gate.io:STEEMUSDT",
+    "spread": 0.206009,
+    "net_spread": 0.126009,
+    "fundingA": -0.000674,
+    "fundingB": -0.003464,
+    "volumeA": 1047018.4547,
+    "volumeB": 81801.0
+  },
+  {
+    "id": "Bitget:MAGMAUSDT:MEXC:MAGMAUSDT",
+    "spread": 0.205796,
+    "net_spread": 0.125796,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 492009.62087,
+    "volumeB": 145841.743
+  },
+  {
+    "id": "Gate.io:COSUSDT:MEXC:COSUSDT",
+    "spread": 0.205554,
+    "net_spread": 0.125554,
+    "fundingA": 5e-05,
+    "fundingB": -0.002096,
+    "volumeA": 60488.0,
+    "volumeB": 161939.3178
+  },
+  {
+    "id": "Bybit:FLRUSDT:Gate.io:FLRUSDT",
+    "spread": 0.205457,
+    "net_spread": 0.125457,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 357186.7137,
+    "volumeB": 47286.0
+  },
+  {
+    "id": "Gate.io:GUSDT:HTX:GUSDT",
+    "spread": 0.205429,
+    "net_spread": 0.125429,
+    "fundingA": -0.000325,
+    "fundingB": 5e-05,
+    "volumeA": 107274.0,
+    "volumeB": 1498600.0
+  },
+  {
+    "id": "Bitget:ENAUSDT:OKX:ENAUSDT",
+    "spread": 0.205248,
+    "net_spread": 0.125248,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 10199048.5563,
+    "volumeB": 181059990.0
+  },
+  {
+    "id": "MEXC:ENAUSDT:OKX:ENAUSDT",
+    "spread": 0.205248,
+    "net_spread": 0.125248,
+    "fundingA": 3.6e-05,
+    "fundingB": 5e-05,
+    "volumeA": 26188438.308,
+    "volumeB": 181059990.0
+  },
+  {
+    "id": "Gate.io:VICUSDT:MEXC:VICUSDT",
+    "spread": 0.205141,
+    "net_spread": 0.125141,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 24966.0,
+    "volumeB": 108146.3753
+  },
+  {
+    "id": "HTX:ZKUSDT:OKX:ZKUSDT",
+    "spread": 0.204858,
+    "net_spread": 0.124858,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 4995580.0,
+    "volumeB": 62050820.0
+  },
+  {
+    "id": "Bybit:JUPUSDT:HTX:JUPUSDT",
+    "spread": 0.204698,
+    "net_spread": 0.124698,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 6977222.806,
+    "volumeB": 1445098.0
+  },
+  {
+    "id": "Gate.io:EULUSDT:MEXC:EULUSDT",
+    "spread": 0.204499,
+    "net_spread": 0.124499,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 38497.0,
+    "volumeB": 263221.3334
+  },
+  {
+    "id": "Bybit:SUPERUSDT:Gate.io:SUPERUSDT",
+    "spread": 0.204276,
+    "net_spread": 0.124276,
+    "fundingA": -3.1e-05,
+    "fundingB": 1e-05,
+    "volumeA": 1425565.9248,
+    "volumeB": 157987.0
+  },
+  {
+    "id": "HTX:TRUTHUSDT:OKX:TRUTHUSDT",
+    "spread": 0.204265,
+    "net_spread": 0.124265,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 7625960.0,
+    "volumeB": 333423300.0
+  },
+  {
+    "id": "Bybit:AEVOUSDT:Gate.io:AEVOUSDT",
+    "spread": 0.204174,
+    "net_spread": 0.124174,
+    "fundingA": 2.2e-05,
+    "fundingB": 2.6e-05,
+    "volumeA": 405772.6179,
+    "volumeB": 210063.0
+  },
+  {
+    "id": "Bybit:VELVETUSDT:Gate.io:VELVETUSDT",
+    "spread": 0.204149,
+    "net_spread": 0.124149,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 193060.1269,
+    "volumeB": 75217.0
+  },
+  {
+    "id": "Gate.io:ACUUSDT:MEXC:ACUUSDT",
+    "spread": 0.204082,
+    "net_spread": 0.124082,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 89431.0,
+    "volumeB": 139446.174
+  },
+  {
+    "id": "Gate.io:ACUUSDT:OKX:ACUUSDT",
+    "spread": 0.204082,
+    "net_spread": 0.124082,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 89431.0,
+    "volumeB": 8660170.0
+  },
+  {
+    "id": "Bybit:CELOUSDT:Bitget:CELOUSDT",
+    "spread": 0.204082,
+    "net_spread": 0.124082,
+    "fundingA": -0.000321,
+    "fundingB": -0.000159,
+    "volumeA": 858767.8949,
+    "volumeB": 173910.2926
+  },
+  {
+    "id": "Gate.io:ETHWUSDT:MEXC:ETHWUSDT",
+    "spread": 0.20404,
+    "net_spread": 0.12404,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 50533.0,
+    "volumeB": 424000.11354
+  },
+  {
+    "id": "Bybit:COMPUSDT:HTX:COMPUSDT",
+    "spread": 0.204022,
+    "net_spread": 0.124022,
+    "fundingA": -5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 970739.3619,
+    "volumeB": 290.92
+  },
+  {
+    "id": "Bybit:RLCUSDT:MEXC:RLCUSDT",
+    "spread": 0.203952,
+    "net_spread": 0.123952,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 222527.3858,
+    "volumeB": 132064.4343
+  },
+  {
+    "id": "Bybit:KMNOUSDT:MEXC:KMNOUSDT",
+    "spread": 0.203785,
+    "net_spread": 0.123785,
+    "fundingA": -3e-05,
+    "fundingB": 5e-05,
+    "volumeA": 211179.6524,
+    "volumeB": 132109.531
+  },
+  {
+    "id": "Gate.io:AEVOUSDT:MEXC:AEVOUSDT",
+    "spread": 0.203758,
+    "net_spread": 0.123758,
+    "fundingA": 2.6e-05,
+    "fundingB": -1.4e-05,
+    "volumeA": 210063.0,
+    "volumeB": 138470.6976
+  },
+  {
+    "id": "Bitget:BEATUSDT:HTX:BEATUSDT",
+    "spread": 0.203582,
+    "net_spread": 0.123582,
+    "fundingA": -0.000452,
+    "fundingB": 0.000917,
+    "volumeA": 8704899.16072,
+    "volumeB": 2242000.0
+  },
+  {
+    "id": "Bybit:HIGHUSDT:Gate.io:HIGHUSDT",
+    "spread": 0.203404,
+    "net_spread": 0.123404,
+    "fundingA": -0.000993,
+    "fundingB": 0.0001,
+    "volumeA": 60326.4558,
+    "volumeB": 56234.0
+  },
+  {
+    "id": "Bybit:HIGHUSDT:MEXC:HIGHUSDT",
+    "spread": 0.203404,
+    "net_spread": 0.123404,
+    "fundingA": -0.000993,
+    "fundingB": -0.000645,
+    "volumeA": 60326.4558,
+    "volumeB": 114894.2857
+  },
+  {
+    "id": "Gate.io:HOLOUSDT:MEXC:HOLOUSDT",
+    "spread": 0.203193,
+    "net_spread": 0.123193,
+    "fundingA": 5e-05,
+    "fundingB": 1.1e-05,
+    "volumeA": 182227.0,
+    "volumeB": 133028.16533
+  },
+  {
+    "id": "Bybit:ARKMUSDT:Gate.io:ARKMUSDT",
+    "spread": 0.202991,
+    "net_spread": 0.122991,
+    "fundingA": -0.000556,
+    "fundingB": 0.0001,
+    "volumeA": 1704995.3411,
+    "volumeB": 83256.0
+  },
+  {
+    "id": "Bybit:SAHARAUSDT:Gate.io:SAHARAUSDT",
+    "spread": 0.202929,
+    "net_spread": 0.122929,
+    "fundingA": -0.001755,
+    "fundingB": -0.002067,
+    "volumeA": 7256707.2632,
+    "volumeB": 1593791.0
+  },
+  {
+    "id": "Bybit:GLMUSDT:Bitget:GLMUSDT",
+    "spread": 0.202808,
+    "net_spread": 0.122808,
+    "fundingA": 5e-05,
+    "fundingB": 1e-05,
+    "volumeA": 238514.6696,
+    "volumeB": 111521.6398
+  },
+  {
+    "id": "Gate.io:PRLUSDT:MEXC:PRLUSDT",
+    "spread": 0.202322,
+    "net_spread": 0.122322,
+    "fundingA": -0.00045,
+    "fundingB": -7.1e-05,
+    "volumeA": 2237155.0,
+    "volumeB": 1787759.262
+  },
+  {
+    "id": "Bybit:CLUSDT:OKX:CLUSDT",
+    "spread": 0.202028,
+    "net_spread": 0.122028,
+    "fundingA": -0.000379,
+    "fundingB": -0.00122,
+    "volumeA": 17772951.107,
+    "volumeB": 673593.3
+  },
+  {
+    "id": "Gate.io:PUFFERUSDT:MEXC:PUFFERUSDT",
+    "spread": 0.20202,
+    "net_spread": 0.12202,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 228404.0,
+    "volumeB": 118359.042
+  },
+  {
+    "id": "Bybit:XAIUSDT:Bitget:XAIUSDT",
+    "spread": 0.201907,
+    "net_spread": 0.121907,
+    "fundingA": 5e-05,
+    "fundingB": -0.000198,
+    "volumeA": 295982.1084,
+    "volumeB": 155673.87788
+  },
+  {
+    "id": "Bitget:MUSDT:HTX:MUSDT",
+    "spread": 0.201898,
+    "net_spread": 0.121898,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 7931127.61998,
+    "volumeB": 336540.0
+  },
+  {
+    "id": "Bybit:TUSDT:Bitget:TUSDT",
+    "spread": 0.20185,
+    "net_spread": 0.12185,
+    "fundingA": 5e-05,
+    "fundingB": -0.000344,
+    "volumeA": 162648.64,
+    "volumeB": 112507.7733
+  },
+  {
+    "id": "Bybit:WAXPUSDT:Bitget:WAXPUSDT",
+    "spread": 0.201645,
+    "net_spread": 0.121645,
+    "fundingA": 7e-06,
+    "fundingB": -3.6e-05,
+    "volumeA": 433185.3861,
+    "volumeB": 145663.769311
+  },
+  {
+    "id": "Bitget:TRUSTUSDT:OKX:TRUSTUSDT",
+    "spread": 0.201029,
+    "net_spread": 0.121029,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 73366.30453,
+    "volumeB": 2396210.0
+  },
+  {
+    "id": "Bybit:TRUSTUSDT:Bitget:TRUSTUSDT",
+    "spread": 0.200626,
+    "net_spread": 0.120626,
+    "fundingA": -0.000477,
+    "fundingB": 5e-05,
+    "volumeA": 214027.9135,
+    "volumeB": 73366.30453
+  },
+  {
+    "id": "Bitget:MASKUSDT:OKX:MASKUSDT",
+    "spread": 0.200376,
+    "net_spread": 0.120376,
+    "fundingA": 5e-05,
+    "fundingB": -8.7e-05,
+    "volumeA": 108860.96523,
+    "volumeB": 1875244.0
+  },
+  {
+    "id": "Gate.io:RIVERUSDT:HTX:RIVERUSDT",
+    "spread": 0.200222,
+    "net_spread": 0.120222,
+    "fundingA": 0.000874,
+    "fundingB": 5e-05,
+    "volumeA": 8895609.0,
+    "volumeB": 855247.6
+  },
+  {
+    "id": "Bybit:XVSUSDT:Gate.io:XVSUSDT",
+    "spread": 0.200218,
+    "net_spread": 0.120218,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 415221.4734,
+    "volumeB": 111468.0
+  },
+  {
+    "id": "Gate.io:ZECUSDT:OKX:ZECUSDT",
+    "spread": 0.199978,
+    "net_spread": 0.119978,
+    "fundingA": 8.4e-05,
+    "fundingB": 5e-05,
+    "volumeA": 12748302.0,
+    "volumeB": 413022.12
+  },
+  {
+    "id": "Bitget:PLUMEUSDT:MEXC:PLUMEUSDT",
+    "spread": 0.1999,
+    "net_spread": 0.1199,
+    "fundingA": 5e-05,
+    "fundingB": 4.4e-05,
+    "volumeA": 404051.0825,
+    "volumeB": 449374.1539
+  },
+  {
+    "id": "HTX:ENSUSDT:OKX:ENSUSDT",
+    "spread": 0.19971,
+    "net_spread": 0.11971,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 4990.8,
+    "volumeB": 205850.0
+  },
+  {
+    "id": "Bybit:COREUSDT:MEXC:COREUSDT",
+    "spread": 0.198906,
+    "net_spread": 0.118906,
+    "fundingA": -0.001307,
+    "fundingB": -0.000107,
+    "volumeA": 13116779.196,
+    "volumeB": 4635660.35057
+  },
+  {
+    "id": "Bybit:POWRUSDT:Bitget:POWRUSDT",
+    "spread": 0.198544,
+    "net_spread": 0.118544,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 147119.1166,
+    "volumeB": 60554.63296
+  },
+  {
+    "id": "Bybit:LIGHTUSDT:OKX:LIGHTUSDT",
+    "spread": 0.198347,
+    "net_spread": 0.118347,
+    "fundingA": 0.000234,
+    "fundingB": 5e-05,
+    "volumeA": 1426453.9039,
+    "volumeB": 33523724.0
+  },
+  {
+    "id": "MEXC:LIGHTUSDT:OKX:LIGHTUSDT",
+    "spread": 0.198347,
+    "net_spread": 0.118347,
+    "fundingA": 8.8e-05,
+    "fundingB": 5e-05,
+    "volumeA": 732393.7055,
+    "volumeB": 33523724.0
+  },
+  {
+    "id": "Gate.io:MOODENGUSDT:Bitget:MOODENGUSDT",
+    "spread": 0.19826,
+    "net_spread": 0.11826,
+    "fundingA": -0.000187,
+    "fundingB": -0.000515,
+    "volumeA": 1449137.0,
+    "volumeB": 1844866.64997
+  },
+  {
+    "id": "Bybit:EVAAUSDT:MEXC:EVAAUSDT",
+    "spread": 0.198251,
+    "net_spread": 0.118251,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 89409.6343,
+    "volumeB": 142627.29861
+  },
+  {
+    "id": "Bybit:IOUSDT:Bitget:IOUSDT",
+    "spread": 0.198207,
+    "net_spread": 0.118207,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 263602.9519,
+    "volumeB": 250034.0684
+  },
+  {
+    "id": "Bybit:TUTUSDT:Bitget:TUTUSDT",
+    "spread": 0.197605,
+    "net_spread": 0.117605,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 86315.1506,
+    "volumeB": 121428.773
+  },
+  {
+    "id": "Gate.io:MSFTUSDT:OKX:MSFTUSDT",
+    "spread": 0.197291,
+    "net_spread": 0.117291,
+    "fundingA": 0.0,
+    "fundingB": 0.0,
+    "volumeA": 134695.0,
+    "volumeB": 1331.27
+  },
+  {
+    "id": "Gate.io:ICXUSDT:Bitget:ICXUSDT",
+    "spread": 0.197089,
+    "net_spread": 0.117089,
+    "fundingA": -0.000618,
+    "fundingB": -5e-06,
+    "volumeA": 88929.0,
+    "volumeB": 397810.26301
+  },
+  {
+    "id": "Gate.io:AIAUSDT:MEXC:AIAUSDT",
+    "spread": 0.1969,
+    "net_spread": 0.1169,
+    "fundingA": 5e-05,
+    "fundingB": 0.000187,
+    "volumeA": 8988964.0,
+    "volumeB": 2045071.4464
+  },
+  {
+    "id": "Bybit:AXLUSDT:Bitget:AXLUSDT",
+    "spread": 0.196872,
+    "net_spread": 0.116872,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 820262.3971,
+    "volumeB": 152831.79901
+  },
+  {
+    "id": "Bybit:MAVIAUSDT:MEXC:MAVIAUSDT",
+    "spread": 0.196815,
+    "net_spread": 0.116815,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 316774.6362,
+    "volumeB": 118137.13626
+  },
+  {
+    "id": "Bybit:ARIAUSDT:MEXC:ARIAUSDT",
+    "spread": 0.196791,
+    "net_spread": 0.116791,
+    "fundingA": 5e-05,
+    "fundingB": -0.000366,
+    "volumeA": 24324195.3807,
+    "volumeB": 13184341.9515
+  },
+  {
+    "id": "Bybit:RAREUSDT:MEXC:RAREUSDT",
+    "spread": 0.196218,
+    "net_spread": 0.116218,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 28554.9063,
+    "volumeB": 117178.9949
+  },
+  {
+    "id": "Gate.io:AIXBTUSDT:MEXC:AIXBTUSDT",
+    "spread": 0.196207,
+    "net_spread": 0.116207,
+    "fundingA": -0.001019,
+    "fundingB": -8.4e-05,
+    "volumeA": 264032.0,
+    "volumeB": 188586.7915
+  },
+  {
+    "id": "Gate.io:WCTUSDT:Bitget:WCTUSDT",
+    "spread": 0.195987,
+    "net_spread": 0.115987,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 55356.0,
+    "volumeB": 166454.90075
+  },
+  {
+    "id": "Bybit:IOSTUSDT:OKX:IOSTUSDT",
+    "spread": 0.195982,
+    "net_spread": 0.115982,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 124013.7475,
+    "volumeB": 244813000.0
+  },
+  {
+    "id": "Gate.io:IOSTUSDT:OKX:IOSTUSDT",
+    "spread": 0.195982,
+    "net_spread": 0.115982,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 41320.0,
+    "volumeB": 244813000.0
+  },
+  {
+    "id": "Bitget:GIGGLEUSDT:OKX:GIGGLEUSDT",
+    "spread": 0.195865,
+    "net_spread": 0.115865,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 404102.7949,
+    "volumeB": 78424.52
+  },
+  {
+    "id": "HTX:GIGGLEUSDT:OKX:GIGGLEUSDT",
+    "spread": 0.195865,
+    "net_spread": 0.115865,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 4208.9,
+    "volumeB": 78424.52
+  },
+  {
+    "id": "Gate.io:POWERUSDT:MEXC:POWERUSDT",
+    "spread": 0.195527,
+    "net_spread": 0.115527,
+    "fundingA": 0.0001,
+    "fundingB": 0.000303,
+    "volumeA": 2727649.0,
+    "volumeB": 2050361.49514
+  },
+  {
+    "id": "Bybit:MERLUSDT:MEXC:MERLUSDT",
+    "spread": 0.195313,
+    "net_spread": 0.115313,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 1090108.9372,
+    "volumeB": 723289.09269
+  },
+  {
+    "id": "Bitget:MERLUSDT:MEXC:MERLUSDT",
+    "spread": 0.195313,
+    "net_spread": 0.115313,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 243167.94918,
+    "volumeB": 723289.09269
+  },
+  {
+    "id": "Bybit:DEEPUSDT:Gate.io:DEEPUSDT",
+    "spread": 0.194894,
+    "net_spread": 0.114894,
+    "fundingA": 0.0001,
+    "fundingB": -0.000146,
+    "volumeA": 1123203.833,
+    "volumeB": 165481.0
+  },
+  {
+    "id": "HTX:SPKUSDT:MEXC:SPKUSDT",
+    "spread": 0.194884,
+    "net_spread": 0.114884,
+    "fundingA": 5e-05,
+    "fundingB": -1.4e-05,
+    "volumeA": 1903200.0,
+    "volumeB": 173860.6336
+  },
+  {
+    "id": "Gate.io:FLUXUSDT:MEXC:FLUXUSDT",
+    "spread": 0.194875,
+    "net_spread": 0.114875,
+    "fundingA": -2.2e-05,
+    "fundingB": -0.000127,
+    "volumeA": 63174.0,
+    "volumeB": 279252.00132
+  },
+  {
+    "id": "Gate.io:ENAUSDT:HTX:ENAUSDT",
+    "spread": 0.194769,
+    "net_spread": 0.114769,
+    "fundingA": 8e-06,
+    "fundingB": 5e-05,
+    "volumeA": 9256654.0,
+    "volumeB": 11325690.0
+  },
+  {
+    "id": "Bybit:ARBUSDT:HTX:ARBUSDT",
+    "spread": 0.194553,
+    "net_spread": 0.114553,
+    "fundingA": 7.5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 22269148.7392,
+    "volumeB": 5942710.0
+  },
+  {
+    "id": "Gate.io:ASMLUSDT:Bitget:ASMLUSDT",
+    "spread": 0.194228,
+    "net_spread": 0.114228,
+    "fundingA": 0.0,
+    "fundingB": 0.0,
+    "volumeA": 265084.0,
+    "volumeB": 2437450.6572
+  },
+  {
+    "id": "Bybit:AIOUSDT:Bitget:AIOUSDT",
+    "spread": 0.194129,
+    "net_spread": 0.114129,
+    "fundingA": 0.000148,
+    "fundingB": 5e-05,
+    "volumeA": 185075.9298,
+    "volumeB": 200452.47736
+  },
+  {
+    "id": "Bybit:FIDAUSDT:Bitget:FIDAUSDT",
+    "spread": 0.193939,
+    "net_spread": 0.113939,
+    "fundingA": -0.000743,
+    "fundingB": 5e-05,
+    "volumeA": 106089.855,
+    "volumeB": 213356.82554
+  },
+  {
+    "id": "Bybit:PEOPLEUSDT:Bitget:PEOPLEUSDT",
+    "spread": 0.193767,
+    "net_spread": 0.113767,
+    "fundingA": 0.0001,
+    "fundingB": -0.000437,
+    "volumeA": 1054547.486,
+    "volumeB": 760053.292021
+  },
+  {
+    "id": "Bitget:AIOUSDT:MEXC:AIOUSDT",
+    "spread": 0.193753,
+    "net_spread": 0.113753,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 200452.47736,
+    "volumeB": 1379656.989
+  },
+  {
+    "id": "Gate.io:AKTUSDT:Bitget:AKTUSDT",
+    "spread": 0.193739,
+    "net_spread": 0.113739,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 271758.0,
+    "volumeB": 1224625.5774
+  },
+  {
+    "id": "Gate.io:BIRBUSDT:Bitget:BIRBUSDT",
+    "spread": 0.193725,
+    "net_spread": 0.113725,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 309853.0,
+    "volumeB": 896561.48188
+  },
+  {
+    "id": "Bybit:GUNUSDT:Bitget:GUNUSDT",
+    "spread": 0.193452,
+    "net_spread": 0.113452,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 2567967.6176,
+    "volumeB": 781307.14255
+  },
+  {
+    "id": "Bitget:PEOPLEUSDT:HTX:PEOPLEUSDT",
+    "spread": 0.193392,
+    "net_spread": 0.113392,
+    "fundingA": -0.000437,
+    "fundingB": 0.0001,
+    "volumeA": 760053.292021,
+    "volumeB": 14204400.0
+  },
+  {
+    "id": "HTX:STRKUSDT:OKX:STRKUSDT",
+    "spread": 0.193366,
+    "net_spread": 0.113366,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1248328.0,
+    "volumeB": 72462977.0
+  },
+  {
+    "id": "Gate.io:VICUSDT:Bitget:VICUSDT",
+    "spread": 0.193097,
+    "net_spread": 0.113097,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 24966.0,
+    "volumeB": 23348.59019
+  },
+  {
+    "id": "Bybit:SLPUSDT:Bitget:SLPUSDT",
+    "spread": 0.192966,
+    "net_spread": 0.112966,
+    "fundingA": -0.000514,
+    "fundingB": -0.000176,
+    "volumeA": 45907.86,
+    "volumeB": 159556.9999365
+  },
+  {
+    "id": "Bitget:SPXUSDT:OKX:SPXUSDT",
+    "spread": 0.192715,
+    "net_spread": 0.112715,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 670139.073,
+    "volumeB": 2842566.0
+  },
+  {
+    "id": "Bybit:OLUSDT:Gate.io:OLUSDT",
+    "spread": 0.192308,
+    "net_spread": 0.112308,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 366760.6765,
+    "volumeB": 60633.0
+  },
+  {
+    "id": "Bitget:SIRENUSDT:MEXC:SIRENUSDT",
+    "spread": 0.192,
+    "net_spread": 0.112,
+    "fundingA": -0.000233,
+    "fundingB": -0.000309,
+    "volumeA": 54229257.5969,
+    "volumeB": 21996432.2442
+  },
+  {
+    "id": "Gate.io:ACHUSDT:OKX:ACHUSDT",
+    "spread": 0.191969,
+    "net_spread": 0.111969,
+    "fundingA": 0.0001,
+    "fundingB": -0.000192,
+    "volumeA": 94953.0,
+    "volumeB": 48513200.0
+  },
+  {
+    "id": "Gate.io:OLUSDT:MEXC:OLUSDT",
+    "spread": 0.191939,
+    "net_spread": 0.111939,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 60633.0,
+    "volumeB": 165814.0486
+  },
+  {
+    "id": "Bybit:YGGUSDT:Bitget:YGGUSDT",
+    "spread": 0.191176,
+    "net_spread": 0.111176,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 316439.8896,
+    "volumeB": 128558.646863
+  },
+  {
+    "id": "Bitget:GASUSDT:OKX:GASUSDT",
+    "spread": 0.191144,
+    "net_spread": 0.111144,
+    "fundingA": -0.000465,
+    "fundingB": -0.000735,
+    "volumeA": 495496.0822,
+    "volumeB": 1847819.0
+  },
+  {
+    "id": "MEXC:GASUSDT:OKX:GASUSDT",
+    "spread": 0.191144,
+    "net_spread": 0.111144,
+    "fundingA": -0.000398,
+    "fundingB": -0.000735,
+    "volumeA": 162835.824,
+    "volumeB": 1847819.0
+  },
+  {
+    "id": "Gate.io:MMTUSDT:OKX:MMTUSDT",
+    "spread": 0.191113,
+    "net_spread": 0.111113,
+    "fundingA": -9e-05,
+    "fundingB": 5e-05,
+    "volumeA": 104546.0,
+    "volumeB": 8094090.0
+  },
+  {
+    "id": "MEXC:MMTUSDT:OKX:MMTUSDT",
+    "spread": 0.191113,
+    "net_spread": 0.111113,
+    "fundingA": -0.000205,
+    "fundingB": 5e-05,
+    "volumeA": 191679.5291,
+    "volumeB": 8094090.0
+  },
+  {
+    "id": "Bybit:MUSDT:Bitget:MUSDT",
+    "spread": 0.190681,
+    "net_spread": 0.110681,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 10945361.8756,
+    "volumeB": 7931127.61998
+  },
+  {
+    "id": "MEXC:ONDOUSDT:OKX:ONDOUSDT",
+    "spread": 0.190658,
+    "net_spread": 0.110658,
+    "fundingA": 9e-06,
+    "fundingB": 5e-05,
+    "volumeA": 43991331.513,
+    "volumeB": 46688710.0
+  },
+  {
+    "id": "Bybit:OGNUSDT:Gate.io:OGNUSDT",
+    "spread": 0.190453,
+    "net_spread": 0.110453,
+    "fundingA": -0.001305,
+    "fundingB": -0.001245,
+    "volumeA": 1137612.2945,
+    "volumeB": 385853.0
+  },
+  {
+    "id": "Gate.io:IDOLUSDT:MEXC:IDOLUSDT",
+    "spread": 0.190083,
+    "net_spread": 0.110083,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 146002.0,
+    "volumeB": 107435.601
+  },
+  {
+    "id": "MEXC:SATSUSDT:OKX:SATSUSDT",
+    "spread": 0.190024,
+    "net_spread": 0.110024,
+    "fundingA": -0.000371,
+    "fundingB": -0.000376,
+    "volumeA": 128531.1663,
+    "volumeB": 130646860000000.0
+  },
+  {
+    "id": "Bitget:DOGSUSDT:MEXC:DOGSUSDT",
+    "spread": 0.189753,
+    "net_spread": 0.109753,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 252124.786798,
+    "volumeB": 164871.72837
+  },
+  {
+    "id": "Gate.io:AZTECUSDT:HTX:AZTECUSDT",
+    "spread": 0.189702,
+    "net_spread": 0.109702,
+    "fundingA": 4e-06,
+    "fundingB": 5e-05,
+    "volumeA": 482295.0,
+    "volumeB": 5576800.0
+  },
+  {
+    "id": "Bitget:AZTECUSDT:HTX:AZTECUSDT",
+    "spread": 0.189702,
+    "net_spread": 0.109702,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 182308.95475,
+    "volumeB": 5576800.0
+  },
+  {
+    "id": "Bybit:CVCUSDT:Gate.io:CVCUSDT",
+    "spread": 0.189557,
+    "net_spread": 0.109557,
+    "fundingA": 0.0001,
+    "fundingB": -7e-06,
+    "volumeA": 80523.2021,
+    "volumeB": 245965.0
+  },
+  {
+    "id": "HTX:TURBOUSDT:MEXC:TURBOUSDT",
+    "spread": 0.189526,
+    "net_spread": 0.109526,
+    "fundingA": -0.001115,
+    "fundingB": -0.000533,
+    "volumeA": 67427600.0,
+    "volumeB": 732966.45
+  },
+  {
+    "id": "Bybit:POWERUSDT:MEXC:POWERUSDT",
+    "spread": 0.189417,
+    "net_spread": 0.109417,
+    "fundingA": 5e-05,
+    "fundingB": 0.000303,
+    "volumeA": 2904291.0952,
+    "volumeB": 2050361.49514
+  },
+  {
+    "id": "Gate.io:AXSUSDT:HTX:AXSUSDT",
+    "spread": 0.189351,
+    "net_spread": 0.109351,
+    "fundingA": -0.000644,
+    "fundingB": 5e-05,
+    "volumeA": 1140367.0,
+    "volumeB": 106442.6
+  },
+  {
+    "id": "HTX:AZTECUSDT:MEXC:AZTECUSDT",
+    "spread": 0.189343,
+    "net_spread": 0.109343,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 5576800.0,
+    "volumeB": 175961.36
+  },
+  {
+    "id": "HTX:AZTECUSDT:OKX:AZTECUSDT",
+    "spread": 0.189343,
+    "net_spread": 0.109343,
+    "fundingA": 5e-05,
+    "fundingB": -4.5e-05,
+    "volumeA": 5576800.0,
+    "volumeB": 43699700.0
+  },
+  {
+    "id": "Gate.io:KGENUSDT:MEXC:KGENUSDT",
+    "spread": 0.18921,
+    "net_spread": 0.10921,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 222475.0,
+    "volumeB": 136071.2116
+  },
+  {
+    "id": "Gate.io:CRVUSDT:HTX:CRVUSDT",
+    "spread": 0.189125,
+    "net_spread": 0.109125,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 1566079.0,
+    "volumeB": 518468.0
+  },
+  {
+    "id": "Bybit:PIXELUSDT:Gate.io:PIXELUSDT",
+    "spread": 0.18895,
+    "net_spread": 0.10895,
+    "fundingA": -0.002745,
+    "fundingB": -0.001224,
+    "volumeA": 3165820.395,
+    "volumeB": 1222316.0
+  },
+  {
+    "id": "Gate.io:TRUTHUSDT:HTX:TRUTHUSDT",
+    "spread": 0.188933,
+    "net_spread": 0.108933,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 332640.0,
+    "volumeB": 7625960.0
+  },
+  {
+    "id": "MEXC:CRVUSDT:OKX:CRVUSDT",
+    "spread": 0.188546,
+    "net_spread": 0.108546,
+    "fundingA": 3.4e-05,
+    "fundingB": 3.3e-05,
+    "volumeA": 2986348.18182,
+    "volumeB": 102282276.0
+  },
+  {
+    "id": "HTX:TRUMPUSDT:OKX:TRUMPUSDT",
+    "spread": 0.188518,
+    "net_spread": 0.108518,
+    "fundingA": -2.2e-05,
+    "fundingB": -0.000113,
+    "volumeA": 659379.8,
+    "volumeB": 15599728.0
+  },
+  {
+    "id": "MEXC:XPLUSDT:OKX:XPLUSDT",
+    "spread": 0.188109,
+    "net_spread": 0.108109,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1373389.7168,
+    "volumeB": 213806130.0
+  },
+  {
+    "id": "Gate.io:SAHARAUSDT:OKX:SAHARAUSDT",
+    "spread": 0.187931,
+    "net_spread": 0.107931,
+    "fundingA": -0.002067,
+    "fundingB": -0.0012,
+    "volumeA": 1593791.0,
+    "volumeB": 362372820.0
+  },
+  {
+    "id": "Gate.io:RAVEUSDT:OKX:RAVEUSDT",
+    "spread": 0.187843,
+    "net_spread": 0.107843,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 105961.0,
+    "volumeB": 6047170.0
+  },
+  {
+    "id": "HTX:ZROUSDT:OKX:ZROUSDT",
+    "spread": 0.187647,
+    "net_spread": 0.107647,
+    "fundingA": -0.00024,
+    "fundingB": -0.000378,
+    "volumeA": 67216.0,
+    "volumeB": 2710584.0
+  },
+  {
+    "id": "Bitget:BEATUSDT:OKX:BEATUSDT",
+    "spread": 0.187642,
+    "net_spread": 0.107642,
+    "fundingA": -0.000452,
+    "fundingB": 0.000153,
+    "volumeA": 8704899.16072,
+    "volumeB": 226921700.0
+  },
+  {
+    "id": "Bybit:TRIAUSDT:Bitget:TRIAUSDT",
+    "spread": 0.187592,
+    "net_spread": 0.107592,
+    "fundingA": 0.000204,
+    "fundingB": 5e-05,
+    "volumeA": 8112674.8959,
+    "volumeB": 3976867.203752
+  },
+  {
+    "id": "Bitget:SUSDT:OKX:SUSDT",
+    "spread": 0.187523,
+    "net_spread": 0.107523,
+    "fundingA": 5e-05,
+    "fundingB": -0.000299,
+    "volumeA": 332908.38643,
+    "volumeB": 18697290.0
+  },
+  {
+    "id": "Bybit:CLUSDT:Bitget:CLUSDT",
+    "spread": 0.187314,
+    "net_spread": 0.107314,
+    "fundingA": -0.000379,
+    "fundingB": 0.0,
+    "volumeA": 17772951.107,
+    "volumeB": 20537764.48204
+  },
+  {
+    "id": "Bitget:TRIAUSDT:OKX:TRIAUSDT",
+    "spread": 0.187241,
+    "net_spread": 0.107241,
+    "fundingA": 5e-05,
+    "fundingB": 0.000457,
+    "volumeA": 3976867.203752,
+    "volumeB": 941233500.0
+  },
+  {
+    "id": "Bybit:POLYXUSDT:Gate.io:POLYXUSDT",
+    "spread": 0.186978,
+    "net_spread": 0.106978,
+    "fundingA": -0.000356,
+    "fundingB": 1.2e-05,
+    "volumeA": 813970.0988,
+    "volumeB": 64054.0
+  },
+  {
+    "id": "Bybit:ZRXUSDT:MEXC:ZRXUSDT",
+    "spread": 0.186963,
+    "net_spread": 0.106963,
+    "fundingA": -0.000561,
+    "fundingB": -8.7e-05,
+    "volumeA": 283776.2444,
+    "volumeB": 158979.6121
+  },
+  {
+    "id": "Bybit:SQDUSDT:MEXC:SQDUSDT",
+    "spread": 0.186654,
+    "net_spread": 0.106654,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 550018.6608,
+    "volumeB": 245552.6303
+  },
+  {
+    "id": "Gate.io:ACUUSDT:Bitget:ACUUSDT",
+    "spread": 0.186622,
+    "net_spread": 0.106622,
+    "fundingA": 5e-05,
+    "fundingB": 0.000346,
+    "volumeA": 89431.0,
+    "volumeB": 145902.366
+  },
+  {
+    "id": "Bitget:ASTRUSDT:MEXC:ASTRUSDT",
+    "spread": 0.186503,
+    "net_spread": 0.106503,
+    "fundingA": 0.0001,
+    "fundingB": -0.000104,
+    "volumeA": 108100.80872,
+    "volumeB": 140079.12914
+  },
+  {
+    "id": "Gate.io:BOBUSDT:Bitget:BOBUSDT",
+    "spread": 0.186341,
+    "net_spread": 0.106341,
+    "fundingA": -0.001412,
+    "fundingB": -0.000301,
+    "volumeA": 262741.0,
+    "volumeB": 155684.16712
+  },
+  {
+    "id": "MEXC:AAVEUSDT:OKX:AAVEUSDT",
+    "spread": 0.186229,
+    "net_spread": 0.106229,
+    "fundingA": 3.5e-05,
+    "fundingB": -3.7e-05,
+    "volumeA": 73253457.7808,
+    "volumeB": 327264.7
+  },
+  {
+    "id": "Bybit:BANANAUSDT:MEXC:BANANAUSDT",
+    "spread": 0.186018,
+    "net_spread": 0.106018,
+    "fundingA": -0.00056,
+    "fundingB": -0.000712,
+    "volumeA": 2688329.468,
+    "volumeB": 768148.4629
+  },
+  {
+    "id": "Gate.io:MITOUSDT:MEXC:MITOUSDT",
+    "spread": 0.185927,
+    "net_spread": 0.105927,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 22097.0,
+    "volumeB": 746708.6001
+  },
+  {
+    "id": "Bybit:SSVUSDT:HTX:SSVUSDT",
+    "spread": 0.185744,
+    "net_spread": 0.105744,
+    "fundingA": 9.5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 191109.7482,
+    "volumeB": 49821.1
+  },
+  {
+    "id": "Gate.io:SSVUSDT:MEXC:SSVUSDT",
+    "spread": 0.185572,
+    "net_spread": 0.105572,
+    "fundingA": 0.0001,
+    "fundingB": -0.000174,
+    "volumeA": 151887.0,
+    "volumeB": 142893.9553
+  },
+  {
+    "id": "Bybit:BSVUSDT:Gate.io:BSVUSDT",
+    "spread": 0.18532,
+    "net_spread": 0.10532,
+    "fundingA": -0.000214,
+    "fundingB": 5e-05,
+    "volumeA": 458415.1147,
+    "volumeB": 551668.0
+  },
+  {
+    "id": "Gate.io:AUSDT:Bitget:AUSDT",
+    "spread": 0.185008,
+    "net_spread": 0.105008,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 129070.0,
+    "volumeB": 154715.32722
+  },
+  {
+    "id": "Gate.io:TURBOUSDT:Bitget:TURBOUSDT",
+    "spread": 0.184723,
+    "net_spread": 0.104723,
+    "fundingA": -0.000492,
+    "fundingB": -0.00056,
+    "volumeA": 958785.0,
+    "volumeB": 661092.577547
+  },
+  {
+    "id": "Bitget:INITUSDT:OKX:INITUSDT",
+    "spread": 0.184721,
+    "net_spread": 0.104721,
+    "fundingA": -0.000128,
+    "fundingB": -0.00036,
+    "volumeA": 167876.3665,
+    "volumeB": 8259690.0
+  },
+  {
+    "id": "MEXC:INITUSDT:OKX:INITUSDT",
+    "spread": 0.184721,
+    "net_spread": 0.104721,
+    "fundingA": -7.6e-05,
+    "fundingB": -0.00036,
+    "volumeA": 333913.3822,
+    "volumeB": 8259690.0
+  },
+  {
+    "id": "Bybit:UAIUSDT:Gate.io:UAIUSDT",
+    "spread": 0.184651,
+    "net_spread": 0.104651,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 1519441.9281,
+    "volumeB": 645555.0
+  },
+  {
+    "id": "Gate.io:GUNUSDT:MEXC:GUNUSDT",
+    "spread": 0.184579,
+    "net_spread": 0.104579,
+    "fundingA": 5e-05,
+    "fundingB": 4.7e-05,
+    "volumeA": 291473.0,
+    "volumeB": 655226.6028
+  },
+  {
+    "id": "Bybit:RECALLUSDT:MEXC:RECALLUSDT",
+    "spread": 0.184575,
+    "net_spread": 0.104575,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 446751.7449,
+    "volumeB": 217628.48666
+  },
+  {
+    "id": "Bybit:SPELLUSDT:Bitget:SPELLUSDT",
+    "spread": 0.184559,
+    "net_spread": 0.104559,
+    "fundingA": 8.8e-05,
+    "fundingB": 0.0001,
+    "volumeA": 116671.2931,
+    "volumeB": 67926.8628857
+  },
+  {
+    "id": "Gate.io:SPELLUSDT:Bitget:SPELLUSDT",
+    "spread": 0.184559,
+    "net_spread": 0.104559,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 68197.0,
+    "volumeB": 67926.8628857
+  },
+  {
+    "id": "Bybit:AWEUSDT:MEXC:AWEUSDT",
+    "spread": 0.184502,
+    "net_spread": 0.104502,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 128393.9878,
+    "volumeB": 103264.1604
+  },
+  {
+    "id": "HTX:APTUSDT:OKX:APTUSDT",
+    "spread": 0.184471,
+    "net_spread": 0.104471,
+    "fundingA": -0.000369,
+    "fundingB": -0.000427,
+    "volumeA": 720713.6,
+    "volumeB": 13958079.0
+  },
+  {
+    "id": "HTX:WAVESUSDT:MEXC:WAVESUSDT",
+    "spread": 0.184185,
+    "net_spread": 0.104185,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 102768.0,
+    "volumeB": 120554.90069
+  },
+  {
+    "id": "Bitget:IRUSDT:MEXC:IRUSDT",
+    "spread": 0.183592,
+    "net_spread": 0.103592,
+    "fundingA": 5e-05,
+    "fundingB": -0.000118,
+    "volumeA": 140895.49805,
+    "volumeB": 203983.72953
+  },
+  {
+    "id": "Gate.io:VELODROMEUSDT:Bitget:VELODROMEUSDT",
+    "spread": 0.183447,
+    "net_spread": 0.103447,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 12102.0,
+    "volumeB": 38825.62302
+  },
+  {
+    "id": "Gate.io:RPLUSDT:MEXC:RPLUSDT",
+    "spread": 0.183094,
+    "net_spread": 0.103094,
+    "fundingA": -0.000447,
+    "fundingB": -0.000251,
+    "volumeA": 75936.0,
+    "volumeB": 179973.8263
+  },
+  {
+    "id": "Bitget:OPNUSDT:HTX:OPNUSDT",
+    "spread": 0.18272,
+    "net_spread": 0.10272,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 1607119.6467,
+    "volumeB": 285700.0
+  },
+  {
+    "id": "Gate.io:TREEUSDT:MEXC:TREEUSDT",
+    "spread": 0.18245,
+    "net_spread": 0.10245,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 27676.0,
+    "volumeB": 131184.2249
+  },
+  {
+    "id": "MEXC:JTOUSDT:OKX:JTOUSDT",
+    "spread": 0.182448,
+    "net_spread": 0.102448,
+    "fundingA": -0.000145,
+    "fundingB": -0.00055,
+    "volumeA": 849560.2143,
+    "volumeB": 17107970.0
+  },
+  {
+    "id": "Gate.io:ELSAUSDT:Bitget:ELSAUSDT",
+    "spread": 0.182074,
+    "net_spread": 0.102074,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 166752.0,
+    "volumeB": 503586.35262
+  },
+  {
+    "id": "Gate.io:BSVUSDT:Bitget:BSVUSDT",
+    "spread": 0.182017,
+    "net_spread": 0.102017,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 551668.0,
+    "volumeB": 128561.0868
+  },
+  {
+    "id": "Gate.io:BSVUSDT:MEXC:BSVUSDT",
+    "spread": 0.182017,
+    "net_spread": 0.102017,
+    "fundingA": 5e-05,
+    "fundingB": -0.000294,
+    "volumeA": 551668.0,
+    "volumeB": 227392.0105
+  },
+  {
+    "id": "Bybit:SAHARAUSDT:MEXC:SAHARAUSDT",
+    "spread": 0.18197,
+    "net_spread": 0.10197,
+    "fundingA": -0.001755,
+    "fundingB": -0.001268,
+    "volumeA": 7256707.2632,
+    "volumeB": 583807.293
+  },
+  {
+    "id": "Bybit:ORDIUSDT:HTX:ORDIUSDT",
+    "spread": 0.181694,
+    "net_spread": 0.101694,
+    "fundingA": 1.9e-05,
+    "fundingB": 5e-05,
+    "volumeA": 3090819.2137,
+    "volumeB": 98278.4
+  },
+  {
+    "id": "Gate.io:ORDIUSDT:HTX:ORDIUSDT",
+    "spread": 0.181694,
+    "net_spread": 0.101694,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 604592.0,
+    "volumeB": 98278.4
+  },
+  {
+    "id": "HTX:LITUSDT:OKX:LITUSDT",
+    "spread": 0.181602,
+    "net_spread": 0.101602,
+    "fundingA": 5e-05,
+    "fundingB": -3.8e-05,
+    "volumeA": 82360.0,
+    "volumeB": 7294180.0
+  },
+  {
+    "id": "Gate.io:QTUMUSDT:MEXC:QTUMUSDT",
+    "spread": 0.18159,
+    "net_spread": 0.10159,
+    "fundingA": 0.0001,
+    "fundingB": -0.000128,
+    "volumeA": 37859.0,
+    "volumeB": 256538.364
+  },
+  {
+    "id": "Bybit:BTRUSDT:Gate.io:BTRUSDT",
+    "spread": 0.181578,
+    "net_spread": 0.101578,
+    "fundingA": 5e-05,
+    "fundingB": 0.0001,
+    "volumeA": 1710942.9699,
+    "volumeB": 782764.0
+  },
+  {
+    "id": "Bitget:BANUSDT:MEXC:BANUSDT",
+    "spread": 0.181503,
+    "net_spread": 0.101503,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 635567.84083,
+    "volumeB": 448743.5406
+  },
+  {
+    "id": "Gate.io:WALUSDT:Bitget:WALUSDT",
+    "spread": 0.181291,
+    "net_spread": 0.101291,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 43247.0,
+    "volumeB": 115772.0712
+  },
+  {
+    "id": "Bybit:ATOMUSDT:HTX:ATOMUSDT",
+    "spread": 0.180935,
+    "net_spread": 0.100935,
+    "fundingA": -6.2e-05,
+    "fundingB": -0.000667,
+    "volumeA": 5982291.4154,
+    "volumeB": 254970.0
+  },
+  {
+    "id": "HTX:PENGUUSDT:OKX:PENGUUSDT",
+    "spread": 0.180889,
+    "net_spread": 0.100889,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 47166200.0,
+    "volumeB": 2697798900.0
+  },
+  {
+    "id": "Bybit:MLNUSDT:MEXC:MLNUSDT",
+    "spread": 0.180832,
+    "net_spread": 0.100832,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 152854.3259,
+    "volumeB": 129732.0272
+  },
+  {
+    "id": "Bybit:SYSUSDT:MEXC:SYSUSDT",
+    "spread": 0.180814,
+    "net_spread": 0.100814,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 21521.4322,
+    "volumeB": 103856.0737
+  },
+  {
+    "id": "MEXC:GRASSUSDT:OKX:GRASSUSDT",
+    "spread": 0.180734,
+    "net_spread": 0.100734,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 648907.8579,
+    "volumeB": 5469480.0
+  },
+  {
+    "id": "Gate.io:GWEIUSDT:MEXC:GWEIUSDT",
+    "spread": 0.180655,
+    "net_spread": 0.100655,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 82363.0,
+    "volumeB": 109845.802
+  },
+  {
+    "id": "Bitget:IRYSUSDT:MEXC:IRYSUSDT",
+    "spread": 0.180645,
+    "net_spread": 0.100645,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 601634.33442,
+    "volumeB": 223739.563
+  },
+  {
+    "id": "Bybit:KATUSDT:MEXC:KATUSDT",
+    "spread": 0.180587,
+    "net_spread": 0.100587,
+    "fundingA": -0.000819,
+    "fundingB": -0.001301,
+    "volumeA": 4135504.2702,
+    "volumeB": 842863.3964
+  },
+  {
+    "id": "Gate.io:KATUSDT:MEXC:KATUSDT",
+    "spread": 0.180587,
+    "net_spread": 0.100587,
+    "fundingA": -0.00049,
+    "fundingB": -0.001301,
+    "volumeA": 1049016.0,
+    "volumeB": 842863.3964
+  },
+  {
+    "id": "Bybit:AXSUSDT:HTX:AXSUSDT",
+    "spread": 0.180335,
+    "net_spread": 0.100335,
+    "fundingA": -0.001092,
+    "fundingB": 5e-05,
+    "volumeA": 6722164.5498,
+    "volumeB": 106442.6
+  },
+  {
+    "id": "Bybit:SPKUSDT:MEXC:SPKUSDT",
+    "spread": 0.180268,
+    "net_spread": 0.100268,
+    "fundingA": -0.000135,
+    "fundingB": -1.4e-05,
+    "volumeA": 262891.7674,
+    "volumeB": 173860.6336
+  },
+  {
+    "id": "MEXC:KATUSDT:OKX:KATUSDT",
+    "spread": 0.180261,
+    "net_spread": 0.100261,
+    "fundingA": -0.001301,
+    "fundingB": -0.00037,
+    "volumeA": 842863.3964,
+    "volumeB": 1752557100.0
+  },
+  {
+    "id": "Gate.io:BNTUSDT:Bitget:BNTUSDT",
+    "spread": 0.180245,
+    "net_spread": 0.100245,
+    "fundingA": -0.001397,
+    "fundingB": 0.0001,
+    "volumeA": 53441.0,
+    "volumeB": 33918.0602
+  },
+  {
+    "id": "Bitget:BREVUSDT:HTX:BREVUSDT",
+    "spread": 0.180099,
+    "net_spread": 0.100099,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 147702.2222,
+    "volumeB": 180342.0
+  },
+  {
+    "id": "Bitget:BREVUSDT:MEXC:BREVUSDT",
+    "spread": 0.180099,
+    "net_spread": 0.100099,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 147702.2222,
+    "volumeB": 162582.542
+  },
+  {
+    "id": "Bitget:MUBARAKUSDT:OKX:MUBARAKUSDT",
+    "spread": 0.180099,
+    "net_spread": 0.100099,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 146883.88364,
+    "volumeB": 36686800.0
+  }
+]

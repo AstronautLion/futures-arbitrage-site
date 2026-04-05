@@ -1,0 +1,112 @@
+[
+  {
+    "term": "AI confidence score",
+    "short": "0-100",
+    "category": "AI execution",
+    "definition": "Composite confidence score for a cross-exchange setup after execution friction, liquidity, stability and expected convergence are considered together.",
+    "formula": "success_probability * 100 + timeframe_alignment * 0.08 - execution_difficulty * 0.08",
+    "interpretation": "Higher values mean the model sees cleaner execution, better convergence support and less structural drag.",
+    "action": "Use it as a prioritization filter, not as a standalone reason to force an entry.",
+    "related": ["success probability", "risk score", "entry wait time"]
+  },
+  {
+    "term": "Success probability",
+    "short": "0-1",
+    "category": "AI execution",
+    "definition": "Estimated probability that the spread setup will converge closely enough to justify the trade after costs.",
+    "formula": "model output based on spread anomaly, liquidity, funding drag and execution quality",
+    "interpretation": "Read together with risk score and exit ETA. High probability with weak net return is still a weak trade.",
+    "action": "Prefer setups where this stays high while expected net return remains positive.",
+    "related": ["AI confidence score", "risk score", "holding horizon"]
+  },
+  {
+    "term": "Risk score",
+    "short": "0-1",
+    "category": "AI execution",
+    "definition": "Estimated execution and outcome risk after slippage, thin depth, unstable structure and weak convergence support are accounted for.",
+    "formula": "1 - success_probability + dynamic_cost_bps / 220 + bid_ask_penalty + position_pressure_penalty",
+    "interpretation": "Lower is better. Rising values usually mean the edge can disappear before the trade closes.",
+    "action": "Reduce size or skip trades when risk score rises faster than success probability.",
+    "related": ["dynamic cost", "AI confidence score", "liquidation risk"]
+  },
+  {
+    "term": "Dynamic cost",
+    "short": "bps",
+    "category": "Execution",
+    "definition": "Adaptive execution cost estimate in basis points that reflects current bid-ask width, pressure on depth and route difficulty.",
+    "formula": "bid_ask_width + execution_difficulty + position_pressure adjustments",
+    "interpretation": "This is the friction buffer the model subtracts before calling a trade attractive.",
+    "action": "If dynamic cost is large relative to current net spread, wait for cleaner execution.",
+    "related": ["entry wait time", "worst leg depth", "expected net return"]
+  },
+  {
+    "term": "Entry wait time",
+    "short": "minutes",
+    "category": "Execution",
+    "definition": "Recommended delay before opening the position so the spread can stabilize or execution quality can improve.",
+    "formula": "derived from confidence, spread velocity, execution difficulty and market regime",
+    "interpretation": "Low values suggest the trade can be opened now; high values mean the model wants more confirmation.",
+    "action": "Use it as a hard filter when you only want near-immediate opportunities.",
+    "related": ["AI confidence score", "holding horizon", "exit target"]
+  },
+  {
+    "term": "Holding horizon",
+    "short": "hours",
+    "category": "Execution",
+    "definition": "Recommended holding period for the setup before convergence is expected to lose most of its edge or funding drag becomes material.",
+    "formula": "exit_eta_minutes / 60 with funding drag and regime adjustments",
+    "interpretation": "Long holding horizons tie up capital and amplify funding uncertainty.",
+    "action": "Prefer setups whose holding horizon still fits your capital rotation and operational window.",
+    "related": ["entry wait time", "expected funding cost", "exit ETA"]
+  },
+  {
+    "term": "Exit target",
+    "short": "spread %",
+    "category": "Execution",
+    "definition": "Target normalized spread level or exit mode suggested by the AI layer for locking in gains before the edge is spent.",
+    "formula": "target_spread_pct with exit_type guidance",
+    "interpretation": "The closer this is to zero, the more complete the expected normalization. Do not wait for perfection if the trade degrades first.",
+    "action": "Pair it with current net spread and ETA so the exit plan is realistic before entry.",
+    "related": ["entry wait time", "holding horizon", "success probability"]
+  },
+  {
+    "term": "Spread z-score",
+    "short": "sigma",
+    "category": "Spread analytics",
+    "definition": "Standardized distance of the current net spread from its own recent mean.",
+    "formula": "(current spread - mean spread) / standard deviation",
+    "interpretation": "Higher absolute values mean the current spread is statistically unusual versus recent history.",
+    "action": "Use it to separate ordinary noise from genuine dislocation, then confirm with liquidity and regime.",
+    "related": ["spread percentile", "reversion probability", "market regime"]
+  },
+  {
+    "term": "Spread percentile",
+    "short": "0-100",
+    "category": "Spread analytics",
+    "definition": "Percentile rank of the current spread compared with its own recent history.",
+    "formula": "rank(current spread within recent sample)",
+    "interpretation": "Values near 100 mean the market is near an extreme relative to its recent baseline.",
+    "action": "Treat high percentile as context, then check whether execution friction still leaves real edge.",
+    "related": ["spread z-score", "reversion probability", "AI confidence score"]
+  },
+  {
+    "term": "Whale activity score",
+    "short": "0-100",
+    "category": "Flow risk",
+    "definition": "Heuristic score that estimates whether large flows and volume impulses can destabilize the spread path.",
+    "formula": "volume impulse + depth stress + CVD style flow adjustments",
+    "interpretation": "Higher values mean larger flow-driven uncertainty and more unstable execution.",
+    "action": "If whale activity is elevated, tighten size and demand faster convergence.",
+    "related": ["risk score", "entry wait time", "worst leg depth"]
+  },
+  {
+    "term": "Funding divergence",
+    "short": "%",
+    "category": "Carry",
+    "definition": "Difference between funding rates on the two legs of the trade.",
+    "formula": "fundingB - fundingA",
+    "interpretation": "Large divergence can either support the carry side of the trade or become a drag, depending on direction and holding time.",
+    "action": "Always read it together with holding horizon and expected funding cost, not in isolation.",
+    "related": ["expected funding cost", "holding horizon", "net spread"]
+  }
+]

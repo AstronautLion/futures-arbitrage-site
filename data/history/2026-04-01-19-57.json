@@ -1,0 +1,92 @@
+[
+  {
+    "id": "Bitget:FUNUSDT:MEXC:FUNUSDT",
+    "spread": 2545.13588,
+    "net_spread": 2545.05588,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 50479.36512,
+    "volumeB": 125002.644
+  },
+  {
+    "id": "MEXC:DRIFTUSDT:Bybit:DRIFTUSDT",
+    "spread": 2.849304,
+    "net_spread": 2.769304,
+    "fundingA": -0.02,
+    "fundingB": -0.02,
+    "volumeA": 13225003.5268,
+    "volumeB": 27845010.786
+  },
+  {
+    "id": "MEXC:DENTUSDT:HTX:DENTUSDT",
+    "spread": 2.513966,
+    "net_spread": 2.433966,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 121476.469589,
+    "volumeB": 47660000.0
+  },
+  {
+    "id": "Bitget:DENTUSDT:HTX:DENTUSDT",
+    "spread": 2.458101,
+    "net_spread": 2.378101,
+    "fundingA": 0.0001,
+    "fundingB": 0.0001,
+    "volumeA": 397732.3143728,
+    "volumeB": 47660000.0
+  },
+  {
+    "id": "Bitget:DRIFTUSDT:Bybit:DRIFTUSDT",
+    "spread": 2.279443,
+    "net_spread": 2.199443,
+    "fundingA": -0.02,
+    "fundingB": -0.02,
+    "volumeA": 4790180.2997,
+    "volumeB": 27845010.786
+  },
+  {
+    "id": "Bybit:BARDUSDT:HTX:BARDUSDT",
+    "spread": 2.023757,
+    "net_spread": 1.943757,
+    "fundingA": -0.001327,
+    "fundingB": -0.001094,
+    "volumeA": 10981986.5774,
+    "volumeB": 89442.0
+  },
+  {
+    "id": "HTX:BARDUSDT:OKX:BARDUSDT",
+    "spread": 1.927226,
+    "net_spread": 1.847226,
+    "fundingA": -0.001094,
+    "fundingB": -0.001704,
+    "volumeA": 89442.0,
+    "volumeB": 35188871.0
+  },
+  {
+    "id": "MEXC:XPDUSDT:HTX:XPDUSDT",
+    "spread": 1.774384,
+    "net_spread": 1.694384,
+    "fundingA": 0.0,
+    "fundingB": 5e-05,
+    "volumeA": 671182.77089,
+    "volumeB": 82.958
+  },
+  {
+    "id": "Bitget:XPDUSDT:HTX:XPDUSDT",
+    "spread": 1.767189,
+    "net_spread": 1.687189,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 443695.9717,
+    "volumeB": 82.958
+  },
+  {
+    "id": "HTX:XPDUSDT:OKX:XPDUSDT",
+    "spread": 1.691159,
+    "net_spread": 1.611159,
+    "fundingA": 5e-05,
+    "fundingB": 0.0,
+    "volumeA": 82.958,
+    "volumeB": 251.36
+  }
+]

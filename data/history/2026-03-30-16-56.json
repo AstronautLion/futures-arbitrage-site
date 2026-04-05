@@ -1,0 +1,533 @@
+[
+  {
+    "id": "MEXC:HK50USDT:Gate.io:HK50USDT",
+    "spread": 683.082101,
+    "net_spread": 683.002101,
+    "fundingA": 7.2e-05,
+    "fundingB": 0.0,
+    "volumeA": 104190.435565,
+    "volumeB": 95297.0
+  },
+  {
+    "id": "MEXC:EDGEUSDT:Gate.io:EDGEUSDT",
+    "spread": 382.579489,
+    "net_spread": 382.499489,
+    "fundingA": 5e-05,
+    "fundingB": 1.2e-05,
+    "volumeA": 835396.649,
+    "volumeB": 115824.0
+  },
+  {
+    "id": "MEXC:FUNUSDT:Bitget:FUNUSDT",
+    "spread": 96.081124,
+    "net_spread": 96.001124,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 128637.499,
+    "volumeB": 56773.64542
+  },
+  {
+    "id": "MEXC:FUNUSDT:Gate.io:FUNUSDT",
+    "spread": 96.075549,
+    "net_spread": 95.995549,
+    "fundingA": 5e-05,
+    "fundingB": 5e-05,
+    "volumeA": 128637.499,
+    "volumeB": 60929.0
+  },
+  {
+    "id": "Gate.io:EDGEUSDT:KuCoin:EDGEUSDT",
+    "spread": 79.285714,
+    "net_spread": 79.205714,
+    "fundingA": 1.2e-05,
+    "fundingB": 5e-05,
+    "volumeA": 115824.0,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:ALLUSDT:Gate.io:ALLUSDT",
+    "spread": 9.508716,
+    "net_spread": 9.428716,
+    "fundingA": 0.0001,
+    "fundingB": 5e-05,
+    "volumeA": 104487.6034,
+    "volumeB": 11537.0
+  },
+  {
+    "id": "Gate.io:XPDUSDT:HTX:XPDUSDT",
+    "spread": 3.653981,
+    "net_spread": 3.573981,
+    "fundingA": 0.0,
+    "fundingB": -2.5e-05,
+    "volumeA": 105797.0,
+    "volumeB": 60.564
+  },
+  {
+    "id": "Bitget:XPDUSDT:HTX:XPDUSDT",
+    "spread": 3.587255,
+    "net_spread": 3.507255,
+    "fundingA": 5e-05,
+    "fundingB": -2.5e-05,
+    "volumeA": 496092.21182,
+    "volumeB": 60.564
+  },
+  {
+    "id": "MEXC:XPDUSDT:HTX:XPDUSDT",
+    "spread": 3.583629,
+    "net_spread": 3.503629,
+    "fundingA": 0.0,
+    "fundingB": -2.5e-05,
+    "volumeA": 538337.94319,
+    "volumeB": 60.564
+  },
+  {
+    "id": "HTX:XPDUSDT:OKX:XPDUSDT",
+    "spread": 3.528885,
+    "net_spread": 3.448885,
+    "fundingA": -2.5e-05,
+    "fundingB": 0.0,
+    "volumeA": 60.564,
+    "volumeB": 186.995
+  },
+  {
+    "id": "HTX:XPDUSDT:KuCoin:XPDUSDT",
+    "spread": 3.41772,
+    "net_spread": 3.33772,
+    "fundingA": -2.5e-05,
+    "fundingB": -0.000354,
+    "volumeA": 60.564,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:GAIBUSDT:Gate.io:GAIBUSDT",
+    "spread": 3.250511,
+    "net_spread": 3.170511,
+    "fundingA": -0.001286,
+    "fundingB": -0.001185,
+    "volumeA": 107233.56071,
+    "volumeB": 12807.0
+  },
+  {
+    "id": "Gate.io:ONTUSDT:OKX:ONTUSDT",
+    "spread": 2.973768,
+    "net_spread": 2.893768,
+    "fundingA": -0.016989,
+    "fundingB": -0.015,
+    "volumeA": 22774065.0,
+    "volumeB": 3659245110.0
+  },
+  {
+    "id": "KuCoin:ONTUSDT:OKX:ONTUSDT",
+    "spread": 2.948726,
+    "net_spread": 2.868726,
+    "fundingA": -0.015367,
+    "fundingB": -0.015,
+    "volumeA": null,
+    "volumeB": 3659245110.0
+  },
+  {
+    "id": "Gate.io:ONTUSDT:Bitget:ONTUSDT",
+    "spread": 2.857858,
+    "net_spread": 2.777858,
+    "fundingA": -0.016989,
+    "fundingB": -0.004654,
+    "volumeA": 22774065.0,
+    "volumeB": 41584222.360469
+  },
+  {
+    "id": "Bitget:ONTUSDT:KuCoin:ONTUSDT",
+    "spread": 2.754804,
+    "net_spread": 2.674804,
+    "fundingA": -0.004654,
+    "fundingB": -0.015367,
+    "volumeA": 41584222.360469,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:ONTUSDT:Gate.io:ONTUSDT",
+    "spread": 2.541342,
+    "net_spread": 2.461342,
+    "fundingA": -0.00455,
+    "fundingB": -0.016989,
+    "volumeA": 6411124.9198,
+    "volumeB": 22774065.0
+  },
+  {
+    "id": "Bybit:ONTUSDT:OKX:ONTUSDT",
+    "spread": 2.529268,
+    "net_spread": 2.449268,
+    "fundingA": -0.013749,
+    "fundingB": -0.015,
+    "volumeA": 97847347.627,
+    "volumeB": 3659245110.0
+  },
+  {
+    "id": "MEXC:ONTUSDT:KuCoin:ONTUSDT",
+    "spread": 2.517636,
+    "net_spread": 2.437636,
+    "fundingA": -0.00455,
+    "fundingB": -0.015367,
+    "volumeA": 6411124.9198,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:HOOKUSDT:KuCoin:HOOKUSDT",
+    "spread": 2.494692,
+    "net_spread": 2.414692,
+    "fundingA": -0.001887,
+    "fundingB": -0.004359,
+    "volumeA": 273402.34598,
+    "volumeB": null
+  },
+  {
+    "id": "Bybit:HOOKUSDT:KuCoin:HOOKUSDT",
+    "spread": 2.494692,
+    "net_spread": 2.414692,
+    "fundingA": -0.001883,
+    "fundingB": -0.004359,
+    "volumeA": 813784.5362,
+    "volumeB": null
+  },
+  {
+    "id": "Bybit:BARDUSDT:HTX:BARDUSDT",
+    "spread": 2.491154,
+    "net_spread": 2.411154,
+    "fundingA": -0.000114,
+    "fundingB": -0.001263,
+    "volumeA": 18796680.6602,
+    "volumeB": 57110.0
+  },
+  {
+    "id": "HTX:BARDUSDT:OKX:BARDUSDT",
+    "spread": 2.484472,
+    "net_spread": 2.404472,
+    "fundingA": -0.001263,
+    "fundingB": 1.3e-05,
+    "volumeA": 57110.0,
+    "volumeB": 54689444.0
+  },
+  {
+    "id": "HTX:BARDUSDT:KuCoin:BARDUSDT",
+    "spread": 2.460239,
+    "net_spread": 2.380239,
+    "fundingA": -0.001263,
+    "fundingB": -0.000535,
+    "volumeA": 57110.0,
+    "volumeB": null
+  },
+  {
+    "id": "Bybit:ONTUSDT:Bitget:ONTUSDT",
+    "spread": 2.413858,
+    "net_spread": 2.333858,
+    "fundingA": -0.013749,
+    "fundingB": -0.004654,
+    "volumeA": 97847347.627,
+    "volumeB": 41584222.360469
+  },
+  {
+    "id": "Gate.io:BARDUSDT:HTX:BARDUSDT",
+    "spread": 2.377919,
+    "net_spread": 2.297919,
+    "fundingA": -0.000334,
+    "fundingB": -0.001263,
+    "volumeA": 2284397.0,
+    "volumeB": 57110.0
+  },
+  {
+    "id": "Gate.io:RDNTUSDT:KuCoin:RDNTUSDT",
+    "spread": 2.219653,
+    "net_spread": 2.139653,
+    "fundingA": -0.005932,
+    "fundingB": -0.002662,
+    "volumeA": 195226.0,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:ONTUSDT:Bybit:ONTUSDT",
+    "spread": 2.118825,
+    "net_spread": 2.038825,
+    "fundingA": -0.00455,
+    "fundingB": -0.013749,
+    "volumeA": 6411124.9198,
+    "volumeB": 97847347.627
+  },
+  {
+    "id": "Gate.io:GAIBUSDT:KuCoin:GAIBUSDT",
+    "spread": 2.0993,
+    "net_spread": 2.0193,
+    "fundingA": -0.001185,
+    "fundingB": -0.000124,
+    "volumeA": 12807.0,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:DENTUSDT:KuCoin:DENTUSDT",
+    "spread": 2.02977,
+    "net_spread": 1.94977,
+    "fundingA": 0.0001,
+    "fundingB": 3e-05,
+    "volumeA": 32600000.0,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:HOOKUSDT:KuCoin:HOOKUSDT",
+    "spread": 2.016985,
+    "net_spread": 1.936985,
+    "fundingA": -0.004173,
+    "fundingB": -0.004359,
+    "volumeA": 346057.0,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:DENTUSDT:HTX:DENTUSDT",
+    "spread": 1.98895,
+    "net_spread": 1.90895,
+    "fundingA": -0.000832,
+    "fundingB": 0.0001,
+    "volumeA": 448781.0,
+    "volumeB": 32600000.0
+  },
+  {
+    "id": "Bitget:DENTUSDT:HTX:DENTUSDT",
+    "spread": 1.961326,
+    "net_spread": 1.881326,
+    "fundingA": -0.000652,
+    "fundingB": 0.0001,
+    "volumeA": 543183.6902504,
+    "volumeB": 32600000.0
+  },
+  {
+    "id": "MEXC:DENTUSDT:HTX:DENTUSDT",
+    "spread": 1.933702,
+    "net_spread": 1.853702,
+    "fundingA": -0.000125,
+    "fundingB": 0.0001,
+    "volumeA": 176154.857082,
+    "volumeB": 32600000.0
+  },
+  {
+    "id": "MEXC:DUSKUSDT:HTX:DUSKUSDT",
+    "spread": 1.886969,
+    "net_spread": 1.806969,
+    "fundingA": -4e-05,
+    "fundingB": -0.002448,
+    "volumeA": 732702.2909,
+    "volumeB": 199620.0
+  },
+  {
+    "id": "MEXC:BARDUSDT:HTX:BARDUSDT",
+    "spread": 1.811748,
+    "net_spread": 1.731748,
+    "fundingA": -0.000913,
+    "fundingB": -0.001263,
+    "volumeA": 693822.6226,
+    "volumeB": 57110.0
+  },
+  {
+    "id": "MEXC:SXPUSDT:KuCoin:SXPUSDT",
+    "spread": 1.809045,
+    "net_spread": 1.729045,
+    "fundingA": -0.000199,
+    "fundingB": -0.002547,
+    "volumeA": 325584.12127,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:DUSKUSDT:KuCoin:DUSKUSDT",
+    "spread": 1.743651,
+    "net_spread": 1.663651,
+    "fundingA": -0.002448,
+    "fundingB": -0.000205,
+    "volumeA": 199620.0,
+    "volumeB": null
+  },
+  {
+    "id": "Bybit:DUSKUSDT:HTX:DUSKUSDT",
+    "spread": 1.676265,
+    "net_spread": 1.596265,
+    "fundingA": 0.0001,
+    "fundingB": -0.002448,
+    "volumeA": 1342760.1788,
+    "volumeB": 199620.0
+  },
+  {
+    "id": "Bitget:BARDUSDT:HTX:BARDUSDT",
+    "spread": 1.670205,
+    "net_spread": 1.590205,
+    "fundingA": -0.001051,
+    "fundingB": -0.001263,
+    "volumeA": 2610288.0912,
+    "volumeB": 57110.0
+  },
+  {
+    "id": "Gate.io:VANRYUSDT:KuCoin:VANRYUSDT",
+    "spread": 1.614845,
+    "net_spread": 1.534845,
+    "fundingA": 5e-05,
+    "fundingB": -0.000206,
+    "volumeA": 178698.0,
+    "volumeB": null
+  },
+  {
+    "id": "Bybit:SXPUSDT:KuCoin:SXPUSDT",
+    "spread": 1.60804,
+    "net_spread": 1.52804,
+    "fundingA": -0.000175,
+    "fundingB": -0.002547,
+    "volumeA": 1347759.2383,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:DUSKUSDT:HTX:DUSKUSDT",
+    "spread": 1.582619,
+    "net_spread": 1.502619,
+    "fundingA": 0.0001,
+    "fundingB": -0.002448,
+    "volumeA": 28855.0,
+    "volumeB": 199620.0
+  },
+  {
+    "id": "Bybit:FHEUSDT:HTX:FHEUSDT",
+    "spread": 1.548423,
+    "net_spread": 1.468423,
+    "fundingA": 5e-05,
+    "fundingB": 0.000925,
+    "volumeA": 367178.6255,
+    "volumeB": 3526160.0
+  },
+  {
+    "id": "HTX:SAHARAUSDT:KuCoin:SAHARAUSDT",
+    "spread": 1.467852,
+    "net_spread": 1.387852,
+    "fundingA": -0.0008,
+    "fundingB": -0.001319,
+    "volumeA": 2275800.0,
+    "volumeB": null
+  },
+  {
+    "id": "Bybit:VANRYUSDT:KuCoin:VANRYUSDT",
+    "spread": 1.464393,
+    "net_spread": 1.384393,
+    "fundingA": -0.000197,
+    "fundingB": -0.000206,
+    "volumeA": 512698.1945,
+    "volumeB": null
+  },
+  {
+    "id": "Bitget:VANRYUSDT:KuCoin:VANRYUSDT",
+    "spread": 1.424273,
+    "net_spread": 1.344273,
+    "fundingA": 5e-05,
+    "fundingB": -0.000206,
+    "volumeA": 320442.784717,
+    "volumeB": null
+  },
+  {
+    "id": "Gate.io:FHEUSDT:HTX:FHEUSDT",
+    "spread": 1.407658,
+    "net_spread": 1.327658,
+    "fundingA": 0.0001,
+    "fundingB": 0.000925,
+    "volumeA": 328908.0,
+    "volumeB": 3526160.0
+  },
+  {
+    "id": "HTX:FHEUSDT:KuCoin:FHEUSDT",
+    "spread": 1.398801,
+    "net_spread": 1.318801,
+    "fundingA": 0.000925,
+    "fundingB": -0.000532,
+    "volumeA": 3526160.0,
+    "volumeB": null
+  },
+  {
+    "id": "HTX:STEEMUSDT:KuCoin:STEEMUSDT",
+    "spread": 1.359388,
+    "net_spread": 1.279388,
+    "fundingA": 5e-05,
+    "fundingB": -0.000904,
+    "volumeA": 298200.0,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:RNBWUSDT:KuCoin:RNBWUSDT",
+    "spread": 1.357876,
+    "net_spread": 1.277876,
+    "fundingA": 0.000117,
+    "fundingB": 0.001118,
+    "volumeA": 102647.12539,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:VANRYUSDT:KuCoin:VANRYUSDT",
+    "spread": 1.334002,
+    "net_spread": 1.254002,
+    "fundingA": -7.2e-05,
+    "fundingB": -0.000206,
+    "volumeA": 240679.79927,
+    "volumeB": null
+  },
+  {
+    "id": "Bybit:SAHARAUSDT:HTX:SAHARAUSDT",
+    "spread": 1.332354,
+    "net_spread": 1.252354,
+    "fundingA": -0.001807,
+    "fundingB": -0.0008,
+    "volumeA": 7108612.1186,
+    "volumeB": 2275800.0
+  },
+  {
+    "id": "HTX:INJUSDT:KuCoin:INJUSDT",
+    "spread": 1.326214,
+    "net_spread": 1.246214,
+    "fundingA": -0.002683,
+    "fundingB": 8.6e-05,
+    "volumeA": 311971.0,
+    "volumeB": null
+  },
+  {
+    "id": "MEXC:FHEUSDT:HTX:FHEUSDT",
+    "spread": 1.266892,
+    "net_spread": 1.186892,
+    "fundingA": 5e-05,
+    "fundingB": 0.000925,
+    "volumeA": 1095840.3622,
+    "volumeB": 3526160.0
+  },
+  {
+    "id": "HTX:SAHARAUSDT:OKX:SAHARAUSDT",
+    "spread": 1.263725,
+    "net_spread": 1.183725,
+    "fundingA": -0.0008,
+    "fundingB": -0.001087,
+    "volumeA": 2275800.0,
+    "volumeB": 350088340.0
+  },
+  {
+    "id": "MEXC:INJUSDT:HTX:INJUSDT",
+    "spread": 1.256764,
+    "net_spread": 1.176764,
+    "fundingA": 0.000165,
+    "fundingB": -0.002683,
+    "volumeA": 3532978.596,
+    "volumeB": 311971.0
+  },
+  {
+    "id": "Bybit:INJUSDT:HTX:INJUSDT",
+    "spread": 1.256764,
+    "net_spread": 1.176764,
+    "fundingA": 0.0001,
+    "fundingB": -0.002683,
+    "volumeA": 7103954.3506,
+    "volumeB": 311971.0
+  },
+  {
+    "id": "Bitget:INJUSDT:HTX:INJUSDT",
+    "spread": 1.256764,
+    "net_spread": 1.176764,
+    "fundingA": -0.000122,
+    "fundingB": -0.002683,
+    "volumeA": 2131299.6346,
+    "volumeB": 311971.0
+  }
+]
