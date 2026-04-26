@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#1e1e2f" />
+    <meta
+      name="description"
+      content="Мониторинг арбитражных возможностей во фьючерсах: межбиржевые спреды и расхождения ставок финансирования."
+    />
+    <title>Futures Arbitrage Scanner</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="icon" href="./assets/icon-192.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css?v=20260411-04" />
+  </head>
+  <body class="theme-dark">
+    <div class="app-shell">
+      <header class="hero">
+        <div class="hero-intro">
+          <p class="eyebrow">Рабочее пространство арбитража</p>
+          <h1>Futures Arbitrage Scanner</h1>
+          <p class="hero-copy">
+            Межбиржевые спреды и расхождения ставок финансирования для бессрочных USDT-контрактов.
+          </p>
+        </div>
+        <div class="hero-panel">
+          <div class="hero-metric">
+            <span>Последнее обновление</span>
+            <strong id="last-updated">Ожидание данных</strong>
+          </div>
+          <div class="hero-actions">
+            <button id="refresh-button" class="action-button">Обновить фильтр</button>
+            <button id="auto-refresh-toggle" class="ghost-button" type="button">Ручной режим</button>
+            <button id="language-toggle" class="ghost-button" aria-label="Переключить язык">RU</button>
+            <button id="theme-toggle" class="icon-button" aria-label="Переключить тему">◐</button>
+            <button id="settings-toggle" class="icon-button" aria-label="Открыть настройки">⚙</button>
+          </div>
+          <p id="refresh-status" class="refresh-status" aria-live="polite"></p>
+          <p id="refresh-meta" class="refresh-meta"></p>
+          <div id="data-source-status" class="source-status"></div>
+          <div id="refresh-detail" class="refresh-detail hidden"></div>
+          <div id="quality-badges" class="quality-badges"></div>
+          <div id="hero-risk-summary" class="hero-risk-summary"></div>
+          <div id="trade-smart-notices" class="trade-smart-notices hidden"></div>
+        </div>
+      </header>
+
+      <section class="stat-strip" id="stat-strip">
+        <article class="stat-card">
+          <span>Межбиржевые спреды</span>
+          <strong id="stat-cross">0</strong>
+        </article>
+        <article class="stat-card">
+          <span>Расхождения ставок</span>
+          <strong id="stat-funding">0</strong>
+        </article>
+        <article class="stat-card">
+          <span>Отслеживаемые биржи</span>
+          <strong id="stat-exchanges">0</strong>
+        </article>
+        <article class="stat-card">
+          <span>Здоровые биржи</span>
+          <strong id="stat-health">0</strong>
+        </article>
+        <article class="stat-card">
+          <span>В карантине</span>
+          <strong id="stat-quarantined">0</strong>
+        </article>
+      </section>
+
+      <nav class="tabs" aria-label="Разделы данных">
+        <button class="tab is-active" data-tab="cross">Межбиржевые спреды</button>
+        <button class="tab" data-tab="funding">Ставки финансирования</button>
+        <button class="tab" data-tab="ai">ИИ-аналитика</button>
+        <button class="tab" data-tab="health">Надёжность</button>
+      </nav>
+
+      <section class="guide-panel" aria-label="Как пользоваться сканером">
+        <article class="guide-card">
+          <h2 id="guide-read-title">Что такое рабочая сделка</h2>
+          <p id="guide-read-body">Арбитраж начинается не с красивого большого числа в таблице, а с рабочего edge. У хорошей сделки чистый спред остаётся положительным после комиссий, latency reserve, funding и ожидаемого проскальзывания. Если эта математика держится только на сыром спреде, перед вами не возможность, а ловушка.</p>
+        </article>
+        <article class="guide-card">
+          <h2 id="guide-watch-title">Как отбирать новичку</h2>
+          <p id="guide-watch-body">Идите по жёсткому порядку: сначала чистый спред и net after execution, потом ликвидность и bid/ask на худшей ноге, потом свежесть и синхронность котировок, затем funding и только после этого AI-подсказки. Если хотя бы один из первых блоков слабый, не пытайтесь спасать сетап верой в идеальный вход.</p>
+        </article>
+        <article class="guide-card">
+          <h2 id="guide-use-title">Как забирать максимум</h2>
+          <p id="guide-use-body">Максимум выгоды редко даёт ожидание идеального нуля. Обычно больше зарабатывает тот, кто заранее знает зону входа, размер позиции, где забрать первую часть прибыли и при каком ухудшении структуры выйти без спора с рынком. Сначала план сделки, потом вход; не наоборот.</p>
+        </article>
+      </section>
+
+      <main class="panel-stack">
+        <section class="panel tab-panel is-active" data-panel="cross">
+          <div class="panel-head">
+            <div>
+              <h2>Межбиржевые спреды</h2>
+              <p id="cross-panel-desc">Таблица межбиржевых спредов в реальном времени с пересчётом комиссий, плеча и ставок финансирования прямо в браузере.</p>
+              <p id="cross-panel-note-1" class="panel-note">Подсказка: в рабочем сценарии исходный спред и спред после комиссий после входа должны сходиться к нулю. Чем ближе значение к 0 на выходе, тем ближе рынок к нормализации.</p>
+              <p id="cross-panel-note-2" class="panel-note">Клик по строке открывает карточку связки: итоговую оценку, стадию сигнала, заметки по исполнению, профиль риска и историю спреда.</p>
+            </div>
+            <div class="table-toolbar">
+              <label class="search-box">
+                <span>Фильтр пары</span>
+                <input id="cross-search" type="search" placeholder="BTCUSDT, ETH..." />
+              </label>
+              <div class="panel-utility-actions">
+                <button id="open-heatmap-button" class="ghost-button" type="button" data-open-tab="heatmap">Теплокарта рынка</button>
+                <button id="open-glossary-button" class="ghost-button" type="button" data-open-tab="glossary">Справочник арбитража</button>
+              </div>
+              <div class="export-group">
+                <button class="ghost-button export-button" type="button" data-export-scope="cross" data-export-format="csv">CSV</button>
+                <button class="ghost-button export-button" type="button" data-export-scope="cross" data-export-format="json">JSON</button>
+              </div>
+            </div>
+          </div>
+          <div class="table-shell">
+            <table id="cross-table">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div id="cross-mobile-list" class="cross-mobile-list"></div>
+          <div id="cross-empty" class="empty-state hidden">Под текущие фильтры нет подходящих межбиржевых связок.</div>
+        </section>
+
+        <section class="panel tab-panel" data-panel="funding">
+          <div class="panel-head">
+            <div>
+              <h2>Ставки финансирования</h2>
+              <p id="funding-panel-desc">Расхождения текущих ставок финансирования, отсортированные по величине расхождения.</p>
+            </div>
+            <div class="export-group">
+              <button class="ghost-button export-button" type="button" data-export-scope="funding" data-export-format="csv">CSV</button>
+              <button class="ghost-button export-button" type="button" data-export-scope="funding" data-export-format="json">JSON</button>
+            </div>
+          </div>
+          <div class="table-shell">
+            <table id="funding-table">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div id="funding-mobile-list" class="mobile-card-list"></div>
+          <div id="funding-empty" class="empty-state hidden">Под текущие фильтры нет подходящих расхождений по ставкам финансирования.</div>
+        </section>
+
+        <section class="panel tab-panel" data-panel="heatmap">
+          <div class="panel-head">
+            <div>
+              <h2>Теплокарта рынка</h2>
+              <p id="heatmap-panel-desc">Теплокарта межбиржевого рынка, ранжированная по аномалии, вероятности возврата и подтверждению на нескольких окнах.</p>
+              <p id="heatmap-panel-note" class="panel-note">Карточки окрашены по силе аномалии: чем насыщеннее плитка, тем сильнее отклонение связки от своей собственной истории.</p>
+            </div>
+            <div class="panel-utility-actions">
+              <button id="heatmap-back-button" class="ghost-button" type="button" data-open-tab="cross">К таблице спредов</button>
+            </div>
+          </div>
+
+          <div id="heatmap-summary" class="heatmap-summary"></div>
+          <div id="heatmap-grid" class="heatmap-grid"></div>
+          <div id="heatmap-empty" class="empty-state hidden">Для теплокарты нет доступных межбиржевых связок.</div>
+        </section>
+
+        <section class="panel tab-panel" data-panel="ai">
+          <div class="panel-head">
+            <div>
+              <h2>ИИ-аналитика</h2>
+              <p id="ai-panel-desc">Отдельная вкладка для разбора уже отобранных связок с помощью ИИ: когда входить, когда ждать, сколько ещё сохраняется запас преимущества, какой ожидаемый результат и в какой момент риск исполнения начинает ломать идею.</p>
+              <p id="ai-panel-note" class="panel-note">Сначала отберите кандидатов в таблице спредов, потом проверьте карточку пары, и только затем переходите в ИИ-аналитику. Если базовая структура слабая, ИИ не должен быть причиной входа; если структура сильная, ИИ помогает выбрать тайминг и размер риска.</p>
+            </div>
+            <div class="table-toolbar ai-toolbar">
+              <label class="search-box ai-inline-control">
+                <span id="ai-horizon-label">Горизонт прогноза</span>
+                <select id="ai-horizon-select"></select>
+              </label>
+              <label class="search-box ai-inline-control">
+                <span id="ai-min-score-label">Минимальная ИИ-оценка</span>
+                <input id="ai-min-score-input" type="number" min="0" max="100" step="1" />
+              </label>
+              <button id="ai-apply-threshold" class="action-button" type="button">Применить порог ИИ</button>
+              <div id="ai-threshold-note" class="backend-diagnostics"></div>
+            </div>
+          </div>
+
+          <div id="ai-focus-banner" class="ai-focus-banner hidden"></div>
+          <div id="ai-playbook" class="ai-playbook"></div>
+          <div id="ai-summary" class="ai-summary"></div>
+          <div id="ai-analytics-list" class="ai-analytics-list"></div>
+          <div id="ai-empty" class="empty-state hidden">ИИ-аналитика ждёт подходящие межбиржевые связки и расчёты по метрикам ИИ.</div>
+        </section>
+
+        <section class="panel tab-panel" data-panel="glossary">
+          <div class="panel-head">
+            <div>
+              <h2>Справочник</h2>
+              <p id="glossary-panel-desc">Пошаговый справочник по арбитражу для новичка: что означает каждый термин, как его читать на дашборде и как действовать до входа, в позиции и на выходе, чтобы не отдавать edge рынку.</p>
+            </div>
+            <div class="table-toolbar">
+              <label class="search-box">
+                <span>Поиск термина</span>
+                <input id="glossary-search" type="search" placeholder="спред, funding, вход, выход..." />
+              </label>
+              <label class="search-box glossary-filter-box">
+                <span>Категория</span>
+                <select id="glossary-category"></select>
+              </label>
+              <div class="panel-utility-actions">
+                <button id="glossary-back-button" class="ghost-button" type="button" data-open-tab="cross">К таблице спредов</button>
+              </div>
+            </div>
+          </div>
+          <div id="glossary-list" class="glossary-list"></div>
+          <div id="glossary-empty" class="empty-state hidden">Термины по текущему фильтру не найдены.</div>
+        </section>
+
+        <section class="panel tab-panel" data-panel="health">
+          <div class="panel-head">
+            <div>
+              <h2>Надёжность и состояние</h2>
+              <p id="health-panel-desc">Живая надёжность адаптеров, качество покрытия и признаки деградации API по каждой отслеживаемой бирже.</p>
+            </div>
+          </div>
+
+          <div id="health-summary" class="health-summary"></div>
+          <div id="health-diagnostics" class="health-diagnostics"></div>
+
+          <div class="table-shell compact">
+            <table id="health-table">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div id="health-mobile-list" class="mobile-card-list"></div>
+          <div id="health-empty" class="empty-state hidden">Данные о состоянии бирж пока недоступны.</div>
+        </section>
+      </main>
+
+      <aside id="settings-drawer" class="settings-drawer" aria-hidden="true">
+        <div class="settings-header">
+          <div>
+            <p class="eyebrow">Персональное рабочее пространство</p>
+            <h2>Настройки сканера</h2>
+          </div>
+          <button id="settings-close" class="icon-button" aria-label="Закрыть настройки">✕</button>
+        </div>
+
+        <form id="settings-form" class="settings-form">
+          <label>
+            <span>Minimum spread %</span>
+            <input name="minSpread" type="number" min="0" step="0.01" />
+          </label>
+          <label>
+            <span>Leverage</span>
+            <select name="leverage">
+              <option value="1">1x</option>
+              <option value="2">2x</option>
+              <option value="5">5x</option>
+              <option value="10">10x</option>
+              <option value="20">20x</option>
+              <option value="50">50x</option>
+            </select>
+          </label>
+          <label>
+            <span>Deposit $</span>
+            <input name="deposit" type="number" step="any" inputmode="decimal" />
+          </label>
+          <label>
+            <span>Holding hours</span>
+            <input name="holdingHours" type="number" min="0" step="1" />
+          </label>
+          <label>
+            <span>Sparkline days</span>
+            <input name="sparklineDays" type="number" min="1" max="30" step="1" />
+          </label>
+
+          <section id="ai-filters-card" class="checkbox-card">
+            <div class="fee-card-header">
+              <h3>Фильтры ИИ</h3>
+              <p>Эти настройки влияют только на shortlist во вкладке ИИ. Подключения к backend и внешнему ИИ вынесены в отдельный операторский блок ниже.</p>
+            </div>
+            <label>
+              <span>Горизонт прогноза</span>
+              <select name="aiPredictionHorizon"></select>
+            </label>
+            <label>
+              <span>Минимальная ИИ-оценка</span>
+              <input name="minAiScore" type="number" min="0" max="100" step="1" />
+            </label>
+            <label>
+              <span>Максимум до входа, мин</span>
+              <input name="maxAiEntryWaitMinutes" type="number" min="0" max="240" step="1" />
+            </label>
+            <label>
+              <span>Максимум удержания, ч</span>
+              <input name="maxAiHoldingHours" type="number" min="0" max="168" step="0.5" />
+            </label>
+          </section>
+
+          <section id="auto-refresh-card" class="checkbox-card">
+            <div class="fee-card-header">
+              <h3>Режим обновления</h3>
+              <p>Выберите, должен ли сканер обновляться только вручную или автоматически, пока эта вкладка открыта.</p>
+            </div>
+            <label>
+              <span>Режим обновления</span>
+              <select name="autoRefreshMode">
+                <option value="manual">Только вручную</option>
+                <option value="auto">Автоматически</option>
+              </select>
+            </label>
+            <label>
+              <span>Автообновление каждые</span>
+              <select name="autoRefreshIntervalSeconds">
+                <option value="30">30 сек</option>
+                <option value="60">1 мин</option>
+                <option value="120">2 мин</option>
+                <option value="300">5 мин</option>
+                <option value="900">15 мин</option>
+              </select>
+            </label>
+          </section>
+
+          <section id="fees-card" class="fee-card">
+            <div class="fee-card-header">
+              <h3>Комиссия за рыночное исполнение по биржам, %</h3>
+              <p>Эти значения влияют на спред после комиссий и итоговую оценку только в вашем браузере.</p>
+            </div>
+            <div id="fee-grid" class="fee-grid"></div>
+          </section>
+
+          <section id="exchanges-card" class="checkbox-card">
+            <div class="fee-card-header">
+              <h3>Видимые биржи</h3>
+              <p>Используйте флажки, чтобы скрывать площадки из всех таблиц и селекторов.</p>
+            </div>
+            <div id="exchange-checkboxes" class="checkbox-grid"></div>
+          </section>
+
+          <details id="cross-columns-disclosure" class="settings-disclosure">
+            <summary><span>Расширенная настройка таблицы</span></summary>
+            <p class="settings-disclosure-copy">По умолчанию таблица спредов остаётся компактной. Разворачивайте этот блок только если нужно вернуть дополнительные колонки или применить другой пресет.</p>
+            <section id="cross-columns-card" class="checkbox-card">
+              <div id="cross-column-presets" class="preset-row"></div>
+              <div id="cross-column-checkboxes" class="checkbox-grid"></div>
+            </section>
+          </details>
+
+          <div class="settings-actions">
+            <button type="submit" class="action-button">Применить</button>
+            <button type="button" id="settings-reset" class="ghost-button">Сбросить</button>
+          </div>
+        </form>
+      </aside>
+
+      <div id="modal" class="modal hidden" aria-hidden="true">
+        <div class="modal-card detail-modal-card">
+          <div class="modal-header">
+            <div class="modal-head">
+              <h3 id="modal-title">История спреда</h3>
+              <button id="modal-close" class="icon-button" aria-label="Закрыть модальное окно">✕</button>
+            </div>
+            <p id="modal-subtitle" class="modal-subtitle"></p>
+          </div>
+          <div id="detail-overview" class="detail-overview"></div>
+          <div id="detail-notes" class="detail-notes"></div>
+        </div>
+      </div>
+
+      <footer class="site-footer">
+        <a href="https://github.com/AstronautLion/futures-arbitrage-scanner" target="_blank" rel="noreferrer">Репозиторий проекта</a>
+        <p>Только образовательная аналитика. Самостоятельно проверяйте исполнение, ликвидность, комиссии и юридические ограничения.</p>
+      </footer>
+    </div>
+
+    <script src="./script.js?v=20260411-04" defer></script>
+  </body>
+</html>

@@ -1,0 +1,123 @@
+{
+  "updated_at": "2026-04-26T17:27:20.030959+00:00",
+  "adapters": {
+    "Binance": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 676,
+      "markets_loaded": 566,
+      "last_response_ms": 11617.1
+    },
+    "Bybit": {
+      "status": "quarantined",
+      "consecutive_failures": 4,
+      "quarantined_until": "2026-04-26T23:23:44.449364+00:00",
+      "last_error": "Request to https://api.bybit.com/v5/market/instruments-info timed out after 30.0s",
+      "last_stage": "pairs",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-25T21:57:51.745352+00:00",
+      "last_failure_at": "2026-04-26T17:23:44.449364+00:00",
+      "skipped_runs": 40,
+      "pairs_loaded": 538,
+      "markets_loaded": 538,
+      "last_response_ms": 11490.5
+    },
+    "OKX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 293,
+      "markets_loaded": 293,
+      "last_response_ms": 28113.2
+    },
+    "KuCoin": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 564,
+      "markets_loaded": 564,
+      "last_response_ms": 185534.9
+    },
+    "Gate.io": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_failure_at": "2026-04-25T08:42:05.127574+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 672,
+      "markets_loaded": 672,
+      "last_response_ms": 8616.5
+    },
+    "HTX": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 234,
+      "markets_loaded": 199,
+      "last_response_ms": 11847.6
+    },
+    "MEXC": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_failure_at": "2026-04-26T09:06:17.483335+00:00",
+      "skipped_runs": 0,
+      "pairs_loaded": 781,
+      "markets_loaded": 774,
+      "last_response_ms": 11579.9
+    },
+    "Bitget": {
+      "status": "ok",
+      "consecutive_failures": 0,
+      "quarantined_until": null,
+      "last_error": null,
+      "last_stage": "markets",
+      "last_attempt_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_success_at": "2026-04-26T17:23:44.449364+00:00",
+      "last_failure_at": null,
+      "skipped_runs": 0,
+      "pairs_loaded": 543,
+      "markets_loaded": 543,
+      "last_response_ms": 11524.4
+    }
+  },
+  "stale_cleanup": {
+    "cleared_at": "2026-04-24T17:45:49.963901+00:00",
+    "reference_timestamp": "2026-04-19T08:36:31.643007+00:00",
+    "max_age_hours": 24,
+    "reason": "Published datasets exceeded the retention window and were reset."
+  }
+}

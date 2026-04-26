@@ -1,0 +1,21 @@
+{
+  "status": "stale",
+  "scope": "auto-cleanup",
+  "source": "local-dashboard",
+  "message": "Stale published datasets were cleared automatically.",
+  "started_at": null,
+  "finished_at": "2026-04-24T17:45:49.963901+00:00",
+  "workflow": null,
+  "run_id": null,
+  "run_number": null,
+  "run_attempt": null,
+  "run_url": null,
+  "commit_sha": null,
+  "repo": null,
+  "stale_cleanup": {
+    "cleared_at": "2026-04-24T17:45:49.963901+00:00",
+    "reference_timestamp": "2026-04-19T08:36:31.643007+00:00",
+    "max_age_hours": 24,
+    "reason": "Published datasets exceeded the retention window and were reset."
+  }
+}
