@@ -1,0 +1,543 @@
+[
+  {
+    "id": "Bitget:B2USDT:MEXC:B2USDT",
+    "strategyType": "futures-cross-exchange",
+    "exchangeA": "MEXC",
+    "pairA": "B2USDT",
+    "exchangeB": "Bitget",
+    "direction": "LONG Bitget / SHORT MEXC",
+    "spread": 0.49417,
+    "net_spread": 0.46219,
+    "openingFeePercent": 0.001,
+    "closingFeePercent": 0.001,
+    "expectedFundingCarryPercent": 2e-05,
+    "latencyReservePercent": 0.03,
+    "fundingIntervalHoursA": 8.0,
+    "fundingIntervalHoursB": 8.0,
+    "expectedHoldingHours": 8.0,
+    "annualizedNetEdge": 506.098416,
+    "volumeA": 634670.6205,
+    "volumeB": 4755849.5647,
+    "openInterestA": 5341245.0,
+    "openInterestB": 2548440.0,
+    "fundingA": 7e-05,
+    "fundingB": 5e-05,
+    "spreadA": 0.369174,
+    "spreadB": 0.217054,
+    "updated_at": "2026-05-02T10:28:46.832000+00:00",
+    "updatedAtA": "2026-05-02T10:28:46.832000+00:00",
+    "updatedAtB": "2026-05-02T10:28:49.215000+00:00",
+    "maxQuoteAgeSeconds": 75.146,
+    "quoteSkewSeconds": 2.383,
+    "regime": "noisy-range",
+    "zScore": 3.3054,
+    "percentile": 97.22,
+    "timeframeAlignment": 100.0,
+    "anomalyScore": 99.06,
+    "reversionProbability": 0.6432,
+    "halfLifeHours": null,
+    "baseScore": 51,
+    "score": 48,
+    "reliabilityScore": 48,
+    "reliabilityClass": "D",
+    "reliabilityReasons": [
+      "market backdrop is selective",
+      "execution frictions erase the edge",
+      "both venues look operationally healthy"
+    ],
+    "healthQuality": 93.34,
+    "dataFreshnessScore": 100.0,
+    "spreadQuality": 46.56,
+    "fundingQuality": 55.0,
+    "liquidityQuality": 71.23,
+    "stabilityQuality": 48.0,
+    "executionDifficulty": 63.68,
+    "executionRealityScore": 5,
+    "expectedSlippagePercent": 6.0,
+    "netAfterExecution": -5.5378,
+    "effectiveProfit": -276.89,
+    "safeSizeUsd": 100,
+    "positionPressure": 50.0,
+    "requiresScaling": true,
+    "marketPermission": {
+      "mode": "cautious",
+      "label": "Selective tape",
+      "action": "Only the cleanest setups deserve capital and size should stay disciplined.",
+      "reason": "Backdrop is mixed: allow trades only when execution and reversion remain clearly aligned.",
+      "tone": "warning",
+      "score": 62,
+      "multiplier": 0.9,
+      "allowAggressive": false
+    },
+    "overlapCount": 1,
+    "overlapPenalty": 4,
+    "overlapStatus": "positive",
+    "overlapLabel": "clean",
+    "confirmations": {
+      "rule": {
+        "minPositive": 2,
+        "selected": 3,
+        "positiveCount": 1,
+        "valid": false
+      },
+      "summary": "Правило подтверждений пока не выполнено.",
+      "items": [
+        {
+          "key": "trend",
+          "label": "Тренд-фильтр",
+          "status": "warning",
+          "reason": "Структура смешанная: сигнал не ломается, но выравнивание по таймфреймам пока неубедительно.",
+          "selected": true
+        },
+        {
+          "key": "oscillator",
+          "label": "Прокси RSI/Stochastic",
+          "status": "positive",
+          "reason": "Статистическое растяжение достаточно сильное для входа на возврат к среднему.",
+          "selected": true
+        },
+        {
+          "key": "volume",
+          "label": "Прокси VWAP/объёма",
+          "status": "negative",
+          "reason": "Тонкая ликвидность или широкие котировки снижают доверие к устойчивости этой возможности.",
+          "selected": false
+        },
+        {
+          "key": "orderbook",
+          "label": "Прокси дисбаланса стакана",
+          "status": "negative",
+          "reason": "Текущее качество исполнения слишком слабое, чтобы считать это чистым подтверждением по стакану.",
+          "selected": true
+        }
+      ]
+    },
+    "preTradeChecklist": {
+      "status": "block",
+      "label": "Блок",
+      "summary": "Есть минимум одно блокирующее условие перед входом. Оставьте этот сетап в режиме наблюдения, а не исполнения.",
+      "blockCount": 2,
+      "attentionCount": 2,
+      "okCount": 4,
+      "items": [
+        {
+          "key": "liquidity",
+          "label": "Ликвидность и ширина спреда",
+          "status": "ok",
+          "reason": "Качество ликвидности выглядит приемлемым."
+        },
+        {
+          "key": "volatility",
+          "label": "Стабильность спреда",
+          "status": "block",
+          "reason": "Собственная волатильность спреда 61.63% выше рабочего порога scanner-sync."
+        },
+        {
+          "key": "eventRisk",
+          "label": "Новостной и событийный риск",
+          "status": "ok",
+          "reason": "Признаков повышенного событийного стресса сейчас нет."
+        },
+        {
+          "key": "exchangeHealth",
+          "label": "Состояние бирж",
+          "status": "ok",
+          "reason": "Обе площадки выглядят достаточно стабильными для наблюдения и ручного исполнения."
+        },
+        {
+          "key": "dataFreshness",
+          "label": "Свежесть данных",
+          "status": "ok",
+          "reason": "Котировки достаточно свежие для ручной оценки."
+        },
+        {
+          "key": "confirmations",
+          "label": "Правило подтверждений",
+          "status": "attention",
+          "reason": "Пока только 1 выбранное подтверждение положительно; сетапу нужен ещё один триггер."
+        },
+        {
+          "key": "execution",
+          "label": "Реалистичность исполнения",
+          "status": "block",
+          "reason": "Ожидаемое проскальзывание съедает слишком большую часть преимущества для дисциплинированного ручного входа."
+        },
+        {
+          "key": "history",
+          "label": "Сопоставимая история",
+          "status": "attention",
+          "reason": "Похожие перекосы достаточно часто сходились, чтобы поддержать этот сетап."
+        }
+      ]
+    },
+    "riskProfile": {
+      "key": "conservative",
+      "label": "Консервативный",
+      "capitalRiskPercent": 0.6,
+      "notionalMultiplier": 0.35,
+      "minRiskReward": 1.3,
+      "description": "Держите небольшой размер позиции и требуйте более чистого исполнения перед входом.",
+      "confirmationRule": "2 из 3 выбранных подтверждений"
+    },
+    "tradePlan": {
+      "action": "blocked",
+      "actionLabel": "Только наблюдение",
+      "entryZone": "от 0.38% до 0.46%",
+      "exitZone": "от 0.00% до 0.19%",
+      "protectiveStopSpread": 0.812,
+      "takeProfitSpread": 0.194,
+      "targetCaptureSpread": 0.268,
+      "riskReward": 0.77,
+      "capitalRiskPercent": 0.25,
+      "suggestedNotionalUsd": 100.0,
+      "warnings": [
+        "Соотношение риск/прибыль ниже порога текущего профиля.",
+        "Рекомендуемый размер ограничен ниже базового, потому что маршрут перегружен или слишком тонкий.",
+        "Как минимум один пункт чеклиста блокирует ручное исполнение."
+      ],
+      "manualSteps": [
+        "Открывайте сделку только пока чистый спред остаётся в зоне от 0.38% до 0.46%.",
+        "Начинайте с более чистой ноги и держите суммарный размер около 100 USD или ниже.",
+        "Если перекос продолжает расширяться, используйте 0.81% по спреду как защитный стоп-триггер.",
+        "Начинайте сокращать позицию, когда спред сжимается к зоне от 0.00% до 0.19%, а не ждите идеального нуля.",
+        "Перед увеличением позиции или повторным входом заново проверьте состояние площадок и свежесть котировок.",
+        "Если статус чеклиста ухудшается во время сделки, верните идею в режим наблюдения."
+      ]
+    },
+    "signalHistory": {
+      "available": true,
+      "sampleCount": 18,
+      "comparableSignals": 1,
+      "winRate": 1.0,
+      "avgResolutionHours": 1.33,
+      "resolvedSignals": 1,
+      "failedSignals": 0,
+      "unresolvedSignals": 0,
+      "lastOutcome": "resolved",
+      "summary": "Похожие перекосы достаточно часто сходились, чтобы поддержать этот сетап."
+    },
+    "ai": {
+      "confidence_score": 8,
+      "confidence_class": "low",
+      "success_probability": 0.2206,
+      "risk_score": 0.99,
+      "dynamic_cost_bps": 180.0,
+      "factors": [],
+      "entry_ready": false,
+      "entry_eta_minutes": 28.9,
+      "entry": {
+        "wait_minutes": 28.9,
+        "expected_spread_pct": 2.871
+      },
+      "exit_ready": false,
+      "exit_eta_minutes": 28.6,
+      "exit_type": "time",
+      "exit": {
+        "eta_minutes": 28.6,
+        "target_spread_pct": 0.208,
+        "exit_type": "time"
+      },
+      "holding": {
+        "recommended_hours": 0.48,
+        "expected_funding_cost_bps": 0.01,
+        "expected_net_return_bps": -133.79
+      },
+      "prediction": {
+        "direction": "UP",
+        "probability": 0.6,
+        "predicted_change": 0.1289,
+        "confidence_interval": [
+          0.0492,
+          0.2086
+        ],
+        "horizon_minutes": 5,
+        "model_version": "snapshot_execution_v1",
+        "prediction_source": "snapshot-enriched"
+      },
+      "predictions": {
+        "5m": {
+          "direction": "UP",
+          "probability": 0.6,
+          "predicted_change": 0.1289,
+          "confidence_interval": [
+            0.0492,
+            0.2086
+          ],
+          "horizon_minutes": 5,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "10m": {
+          "direction": "UP",
+          "probability": 0.6,
+          "predicted_change": 0.1618,
+          "confidence_interval": [
+            0.0821,
+            0.2414
+          ],
+          "horizon_minutes": 10,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        },
+        "15m": {
+          "direction": "UP",
+          "probability": 0.6,
+          "predicted_change": 0.1618,
+          "confidence_interval": [
+            0.0821,
+            0.2414
+          ],
+          "horizon_minutes": 15,
+          "model_version": "snapshot_execution_v1",
+          "prediction_source": "snapshot-enriched"
+        }
+      },
+      "indicators": {
+        "market_permission_mode": "cautious",
+        "checklist_status": "block",
+        "signal_available": true,
+        "signal_comparable_count": 1,
+        "signal_win_rate": 1.0,
+        "negative_risk_flags": 1,
+        "warning_risk_flags": 1,
+        "execution_reality_score": 5.0,
+        "overlap_penalty": 4.0,
+        "trade_plan_risk_reward": 0.77,
+        "confirmation_valid": false,
+        "confirmation_positive_count": 1,
+        "adaptive_weights": {
+          "edge": 0.2116,
+          "liquidity": 0.2021,
+          "funding": 0.1718,
+          "mean_reversion": 0.287,
+          "execution_risk": 0.1274
+        },
+        "volatility": 0.1328,
+        "zscore": 3.3054,
+        "percentile": 97.22,
+        "rsi_spread": 74.46,
+        "macd_spread": -0.0031,
+        "bollinger_distance": 1.0757,
+        "atr_spread": 0.1125,
+        "funding_spread_corr": 0.0231,
+        "cvd_delta": 0.0275,
+        "whale_activity_score": 46.7,
+        "dynamic_liquidity_threshold_usd": 1577.3
+      },
+      "risk_watch": [
+        "Прогноз spread на базовом горизонте: UP.",
+        "Отрицательных risk flags: 1, warning flags: 1.",
+        "Режим рынка требует осторожности перед входом.",
+        "Удержание уже несёт отрицательную математику, поэтому ошибка по таймингу быстро съедает edge.",
+        "Блокирующее условие чеклиста нужно снять до открытия позиции."
+      ],
+      "next_actions": [
+        "Перед входом перепроверьте глубину стакана и не увеличивайте размер, если ликвидность проседает.",
+        "Пересчитайте сделку, если маршрут исполнения или направление spread-прогноза заметно ухудшатся.",
+        "Не переводите сетап в активную сделку, пока net return не вернётся в положительную зону."
+      ],
+      "advice": {
+        "summary": "Сетап лучше отложить: запас преимущества слишком чувствителен к режиму рынка и фактическому исполнению. Модель удержания уже даёт отрицательный net return около -133.79 bps. Динамическая стоимость исполнения оценивается около 180.0 bps.",
+        "verdict": "wait",
+        "entry_focus": [
+          "Окно входа по модели исполнения: через 28.9 мин при рабочем спреде около 2.871%.",
+          "Режим рынка требует осторожности перед входом.",
+          "Чеклист содержит блокирующее условие."
+        ],
+        "holding_focus": [
+          "Базовый горизонт удержания: 0.48 ч.",
+          "Ожидаемое funding-давление на удержание: 0.01 bps.",
+          "Модельный net return на удержании: -133.79 bps."
+        ],
+        "exit_focus": [
+          "Рабочая цель выхода: остаточный спред около 0.208%.",
+          "Оценка времени до выхода: 28.6 мин.",
+          "Режим выхода по модели: time."
+        ],
+        "risk_watch": [
+          "Прогноз spread на базовом горизонте: UP.",
+          "Отрицательных risk flags: 1, warning flags: 1.",
+          "Режим рынка требует осторожности перед входом.",
+          "Удержание уже несёт отрицательную математику, поэтому ошибка по таймингу быстро съедает edge.",
+          "Блокирующее условие чеклиста нужно снять до открытия позиции."
+        ],
+        "next_actions": [
+          "Перед входом перепроверьте глубину стакана и не увеличивайте размер, если ликвидность проседает.",
+          "Пересчитайте сделку, если маршрут исполнения или направление spread-прогноза заметно ухудшатся.",
+          "Не переводите сетап в активную сделку, пока net return не вернётся в положительную зону."
+        ],
+        "modal": {
+          "headline": "Сделку лучше временно отложить",
+          "summary": "Сетап лучше отложить: запас преимущества слишком чувствителен к режиму рынка и фактическому исполнению. Модель удержания уже даёт отрицательный net return около -133.79 bps. Динамическая стоимость исполнения оценивается около 180.0 bps.",
+          "verdict": "wait",
+          "highlights": [
+            {
+              "label": "AI confidence",
+              "value": "8/100",
+              "tone": "warning"
+            },
+            {
+              "label": "Success probability",
+              "value": "22.1%",
+              "tone": "warning"
+            },
+            {
+              "label": "Expected net return",
+              "value": "-133.79 bps",
+              "tone": "negative"
+            },
+            {
+              "label": "Hold window",
+              "value": "0.48 h",
+              "tone": "neutral"
+            },
+            {
+              "label": "Dynamic cost",
+              "value": "180.0 bps",
+              "tone": "warning"
+            }
+          ],
+          "sections": [
+            {
+              "id": "entry",
+              "title": "До входа",
+              "items": [
+                "Окно входа по модели исполнения: через 28.9 мин при рабочем спреде около 2.871%.",
+                "Режим рынка требует осторожности перед входом.",
+                "Чеклист содержит блокирующее условие."
+              ]
+            },
+            {
+              "id": "holding",
+              "title": "В позиции",
+              "items": [
+                "Базовый горизонт удержания: 0.48 ч.",
+                "Ожидаемое funding-давление на удержание: 0.01 bps.",
+                "Модельный net return на удержании: -133.79 bps."
+              ]
+            },
+            {
+              "id": "exit",
+              "title": "Выход",
+              "items": [
+                "Рабочая цель выхода: остаточный спред около 0.208%.",
+                "Оценка времени до выхода: 28.6 мин.",
+                "Режим выхода по модели: time."
+              ]
+            },
+            {
+              "id": "risk",
+              "title": "Что может сломать идею",
+              "items": [
+                "Прогноз spread на базовом горизонте: UP.",
+                "Отрицательных risk flags: 1, warning flags: 1.",
+                "Режим рынка требует осторожности перед входом.",
+                "Удержание уже несёт отрицательную математику, поэтому ошибка по таймингу быстро съедает edge.",
+                "Блокирующее условие чеклиста нужно снять до открытия позиции."
+              ]
+            },
+            {
+              "id": "actions",
+              "title": "Что сделать сейчас",
+              "items": [
+                "Перед входом перепроверьте глубину стакана и не увеличивайте размер, если ликвидность проседает.",
+                "Пересчитайте сделку, если маршрут исполнения или направление spread-прогноза заметно ухудшатся.",
+                "Не переводите сетап в активную сделку, пока net return не вернётся в положительную зону."
+              ]
+            }
+          ],
+          "model_version": "snapshot_opportunity_modal_v1",
+          "source": "snapshot-heuristic"
+        },
+        "model_version": "snapshot_opportunity_advice_v1",
+        "source": "snapshot-heuristic"
+      },
+      "modal": {
+        "headline": "Сделку лучше временно отложить",
+        "summary": "Сетап лучше отложить: запас преимущества слишком чувствителен к режиму рынка и фактическому исполнению. Модель удержания уже даёт отрицательный net return около -133.79 bps. Динамическая стоимость исполнения оценивается около 180.0 bps.",
+        "verdict": "wait",
+        "highlights": [
+          {
+            "label": "AI confidence",
+            "value": "8/100",
+            "tone": "warning"
+          },
+          {
+            "label": "Success probability",
+            "value": "22.1%",
+            "tone": "warning"
+          },
+          {
+            "label": "Expected net return",
+            "value": "-133.79 bps",
+            "tone": "negative"
+          },
+          {
+            "label": "Hold window",
+            "value": "0.48 h",
+            "tone": "neutral"
+          },
+          {
+            "label": "Dynamic cost",
+            "value": "180.0 bps",
+            "tone": "warning"
+          }
+        ],
+        "sections": [
+          {
+            "id": "entry",
+            "title": "До входа",
+            "items": [
+              "Окно входа по модели исполнения: через 28.9 мин при рабочем спреде около 2.871%.",
+              "Режим рынка требует осторожности перед входом.",
+              "Чеклист содержит блокирующее условие."
+            ]
+          },
+          {
+            "id": "holding",
+            "title": "В позиции",
+            "items": [
+              "Базовый горизонт удержания: 0.48 ч.",
+              "Ожидаемое funding-давление на удержание: 0.01 bps.",
+              "Модельный net return на удержании: -133.79 bps."
+            ]
+          },
+          {
+            "id": "exit",
+            "title": "Выход",
+            "items": [
+              "Рабочая цель выхода: остаточный спред около 0.208%.",
+              "Оценка времени до выхода: 28.6 мин.",
+              "Режим выхода по модели: time."
+            ]
+          },
+          {
+            "id": "risk",
+            "title": "Что может сломать идею",
+            "items": [
+              "Прогноз spread на базовом горизонте: UP.",
+              "Отрицательных risk flags: 1, warning flags: 1.",
+              "Режим рынка требует осторожности перед входом.",
+              "Удержание уже несёт отрицательную математику, поэтому ошибка по таймингу быстро съедает edge.",
+              "Блокирующее условие чеклиста нужно снять до открытия позиции."
+            ]
+          },
+          {
+            "id": "actions",
+            "title": "Что сделать сейчас",
+            "items": [
+              "Перед входом перепроверьте глубину стакана и не увеличивайте размер, если ликвидность проседает.",
+              "Пересчитайте сделку, если маршрут исполнения или направление spread-прогноза заметно ухудшатся.",
+              "Не переводите сетап в активную сделку, пока net return не вернётся в положительную зону."
+            ]
+          }
+        ],
+        "model_version": "snapshot_opportunity_modal_v1",
+        "source": "snapshot-heuristic"
+      },
+      "model_version": "snapshot_opportunity_advice_v1",
+      "source": "snapshot-heuristic"
+    },
+    "quoteDataQuality": "stale"
+  }
+]
